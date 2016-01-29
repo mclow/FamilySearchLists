@@ -60,7 +60,7 @@ for coll in j2:
 	if not d1.has_key(id):
 		added[id] = coll
 
-printDict(added,   "--- Collections Added   ---")
 printDict(removed, "--- Collections Deleted ---")
+printDict(added,   "--- Collections Added   ---")
 printDict(updated, "--- Collections Updated ---")
 # print len(j1), len (j2), len(unchanged)
