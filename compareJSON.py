@@ -1,4 +1,19 @@
 #!/usr/bin/python
+# 
+# A script for comparing two collection lists from familysearch.org
+# The lists are JSON files, where the entry 'collections' points to 
+# an array of dictionaries, with keys like:
+# 	'collectionId'		: The unique identifier for this collection
+# 	'title'				: The Title for this collection (should be unique, but not required to be)
+# 	'lastUpdate'		: the last date that this collection was updated
+# 	'lastUpdateMillis'	: the last update time of this collection (used to tell if the colleciton has changed)
+# 
+# We build a pair of dictionaries from the two JSON structures, 
+# where each collection is an entry, and the collectonId is the key.
+# Then we use those two dictionaries to find collections that have been added/removed/updated.
+
+# Future refinement: See http://stackoverflow.com/questions/4527942/comparing-two-dictionaries-in-python
+# especially "Daniel"'s answer
 
 import sys, os
 import json
@@ -27,8 +42,7 @@ def printDict(d, label):
 # {"collections":[{"collectionId":"1974186","title":"Argentina, Jujuy, Catholic Church Recor
 j1 = readJSON(sys.argv[1])[u"collections"]
 j2 = readJSON(sys.argv[2])[u"collections"]
-# for i in range(0,5):
-# 	print j1[i]['collectionId'], '\t', j1[i]['lastUpdate'], '\t', j1[i]['title']
+
 
 # Given the two collections, generate four new collections.
 # Unchanged, added, removed, updated
