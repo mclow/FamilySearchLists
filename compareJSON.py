@@ -54,6 +54,7 @@ d2 = toDict(j2)
 added = {}
 removed = {}
 updated = {}
+moreImages = {}
 unchanged = {}
 
 # Find deleted, updated, and unchanged collections
@@ -65,7 +66,10 @@ for coll in j1:
 		assert(d2[id][u'lastUpdateMillis'] >= d1[id][u'lastUpdateMillis'])
 		if d2[id][u'lastUpdateMillis'] > d1[id][u'lastUpdateMillis']:
 			updated[id] = coll
+		elif d2[id][u'imageCount'] > d1[id][u'imageCount']:
+			moreImages[id] = coll
 		else:
+			assert(d2[id][u'count'] == d1[id][u'count'])
 			unchanged[id] = coll
 
 # Find added collections
@@ -77,4 +81,6 @@ for coll in j2:
 printDict(removed, "--- Collections Deleted ---")
 printDict(added,   "--- Collections Added   ---")
 printDict(updated, "--- Collections Updated ---")
+printDict(moreImages, "--- Collections with new images ---")
+
 # print len(j1), len (j2), len(unchanged)
