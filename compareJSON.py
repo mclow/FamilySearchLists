@@ -34,10 +34,10 @@ def printDict(d, label):
 	print label
 	titles = []
 	for k in d.keys():
-		titles.append(d[k][u'title'])
-	for t in sorted(titles):
+#		titles.append(d[k][u'title'])
+#	for t in sorted(titles):
 #	for t in titles:
-		print t
+		print "%s\t(https://familysearch.org/search/collection/%s)" % (d[k][u'title'], d[k][u'collectionId'])
 
 # {"collections":[{"collectionId":"1974186","title":"Argentina, Jujuy, Catholic Church Recor
 j1 = readJSON(sys.argv[1])[u"collections"]
@@ -69,7 +69,7 @@ for coll in j1:
 		elif d2[id][u'imageCount'] > d1[id][u'imageCount']:
 			moreImages[id] = coll
 		else:
-			assert(d2[id][u'count'] == d1[id][u'count'])
+#			assert(d2[id][u'count'] == d1[id][u'count'])
 			unchanged[id] = coll
 
 # Find added collections
