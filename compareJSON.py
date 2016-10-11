@@ -17,6 +17,7 @@
 
 import sys, os
 import json
+import locale
 
 def readJSON(filename):
 	with open(filename) as json_data:
@@ -30,16 +31,24 @@ def toDict(collection):
 		d [ item [u'collectionId']] = item
 	return d
 
+def printCollection(coll):
+	imgCnt = int(coll[u'count'])
+	if imgCnt > 0:
+		imgStr = "%s indexed records with record images" % locale.format("%d", imgCnt, grouping=True)
+	else:
+		imgStr = "Browse Images only, no index"
+	print "%s\t(https://familysearch.org/search/collection/%s); %s, Updated %s" % (coll[u'title'], coll[u'collectionId'], imgStr, coll[u'lastUpdate'])
+
+
 def printDict(d, label):
 	print label
-	titles = []
 	for k in d.keys():
-#		titles.append(d[k][u'title'])
-#	for t in sorted(titles):
-#	for t in titles:
-		print "%s\t(https://familysearch.org/search/collection/%s)" % (d[k][u'title'], d[k][u'collectionId'])
+		printCollection(d[k])
+#		print "%s\t(https://familysearch.org/search/collection/%s); xxx, Updated %s" % (d[k][u'title'], d[k][u'collectionId'], d[k][u'lastUpdate'])
+
 
 # {"collections":[{"collectionId":"1974186","title":"Argentina, Jujuy, Catholic Church Recor
+locale.setlocale(locale.LC_ALL, 'en_US')
 j1 = readJSON(sys.argv[1])[u"collections"]
 j2 = readJSON(sys.argv[2])[u"collections"]
 
