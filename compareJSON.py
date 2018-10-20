@@ -106,7 +106,9 @@ for coll in newJSON:
 	else:
 		oldColl = oldEntries[id]
 		newColl = newEntries[id]
-		assert(newColl[u'lastUpdateMillis'] >= oldColl[u'lastUpdateMillis'])
+		if newColl[u'lastUpdateMillis'] < oldColl[u'lastUpdateMillis']:
+			print "## Collection ", id, " has regressed (datewise)!"
+
 		if   newColl[u'lastUpdateMillis'] > oldColl[u'lastUpdateMillis']:
 			updated[id] = coll
 		elif newColl[u'imageCount']       > oldColl[u'imageCount']:
