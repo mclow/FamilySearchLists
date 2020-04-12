@@ -6,7 +6,7 @@
 # 	'collectionId'		: The unique identifier for this collection
 # 	'title'				: The Title for this collection (should be unique, but not required to be)
 # 	'lastUpdate'		: the last date that this collection was updated
-# 	'lastUpdateMillis'	: the last update time of this collection (used to tell if the colleciton has changed)
+# 	'lastUpdatdeMillis'	: the last update time of this collection (used to tell if the colleciton has changed)
 # 
 # We build a pair of dictionaries from the two JSON structures, 
 # where each collection is an entry, and the collectonId is the key.
@@ -17,7 +17,9 @@
 
 import sys, os
 import json
+import codecs
 import locale
+import datetime
 
 def readJSON(filename):
 	with open(filename) as json_data:
@@ -52,16 +54,22 @@ def imageStringWithDiffs(idxCount, imgCount, oldCount, oldImages):
 	return retStr
 	
 def printCollection(coll, action):
-	idxCnt = int(coll[u'count'])
-	imgCnt = int(coll[u'count'])
+	ts = datetime.datetime.fromtimestamp(int(coll[u'lastUpdatedMillis'])//1000)
+	stStr = ts.strftime('%d-%b-%Y')
+	
+	idxCnt = int(coll[u'recordCount'])
+	imgCnt = int(coll[u'recordCount'])
 	imgStr = imageString(idxCnt, imgCnt)
-	print "%s\t(https://familysearch.org/search/collection/%s); %s, %s %s" % (coll[u'title'], coll[u'collectionId'], imgStr, action, coll[u'lastUpdate'])
+	print "%s\t(https://familysearch.org/search/collection/%s); %s, %s %s" % (coll[u'title'], coll[u'collectionId'], imgStr, action, stStr)
 
 def printCollectionWithDiffs(newColl, oldColl, action):
-	idxCnt = int(newColl[u'count'])
+	ts = datetime.datetime.fromtimestamp(int(coll[u'lastUpdatedMillis'])//1000)
+	stStr = ts.strftime('%d-%b-%Y')
+
+	idxCnt = int(newColl[u'recordCount'])
 	imgCnt = int(newColl[u'imageCount'])
-	imgStr = imageStringWithDiffs(idxCnt, imgCnt, int(oldColl[u'count']), int(oldColl[u'imageCount']))
-	print "%s\t(https://familysearch.org/search/collection/%s); %s, %s %s" % (newColl[u'title'], newColl[u'collectionId'], imgStr, action, newColl[u'lastUpdate'])
+	imgStr = imageStringWithDiffs(idxCnt, imgCnt, int(oldColl[u'recordCount']), int(oldColl[u'imageCount']))
+	print "%s\t(https://familysearch.org/search/collection/%s); %s, %s %s" % (newColl[u'title'], newColl[u'collectionId'], imgStr, action, stStr)
 
 
 def printDict(d, label, action):
@@ -78,8 +86,12 @@ def printDictWithDiffs(d, label, action):
 
 # {"collections":[{"collectionId":"1974186","title":"Argentina, Jujuy, Catholic Church Recor
 locale.setlocale(locale.LC_ALL, 'en_US')
-oldJSON = readJSON(sys.argv[1])[u"collections"]
-newJSON = readJSON(sys.argv[2])[u"collections"]
+
+# From https://stackoverflow.com/questions/4545661/unicodedecodeerror-when-redirecting-to-file
+sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout) 
+
+oldJSON = readJSON(sys.argv[1])# [u"collections"]
+newJSON = readJSON(sys.argv[2])# [u"collections"]
 
 
 # Given the two collections, generate four new collections.
@@ -98,6 +110,17 @@ moreRecords = {}
 fewerRecords = {}
 unchanged = {}
 
+# Sanity checking
+for coll in newJSON:
+	id = coll [u'collectionId']
+# 	print id
+	if not coll.has_key(u'lastUpdatedMillis'):
+		print "Collection %s has no update time" % id
+	if not coll.has_key(u'imageCount'):
+		print "Collection %s has no image count" % id
+	if not coll.has_key(u'recordCount'):
+		print "Collection %s has no record count" % id
+
 # Find added, updated, and unchanged collections
 for coll in newJSON:
 	id = coll [u'collectionId']
@@ -106,18 +129,18 @@ for coll in newJSON:
 	else:
 		oldColl = oldEntries[id]
 		newColl = newEntries[id]
-		if newColl[u'lastUpdateMillis'] < oldColl[u'lastUpdateMillis']:
+		if newColl[u'lastUpdatedMillis'] < oldColl[u'lastUpdatedMillis']:
 			print "## Collection ", id, " has regressed (datewise)!"
 
-		if   newColl[u'lastUpdateMillis'] > oldColl[u'lastUpdateMillis']:
+		if   newColl[u'lastUpdatedMillis'] > oldColl[u'lastUpdatedMillis']:
 			updated[id] = coll
 		elif newColl[u'imageCount']       > oldColl[u'imageCount']:
 			moreImages[id] = coll
 		elif newColl[u'imageCount']       < oldColl[u'imageCount']:
 			fewerImages[id] = coll
-		elif newColl[u'count']       > oldColl[u'count']:
+		elif newColl[u'recordCount']       > oldColl[u'recordCount']:
 			moreRecords[id] = coll
-		elif newColl[u'count']       < oldColl[u'count']:
+		elif newColl[u'recordCount']       < oldColl[u'recordCount']:
 			fewerRecords[id] = coll
 		else:
 #			assert(newColl[u'count'] == oldEntries[id][u'count'])
@@ -133,15 +156,15 @@ printDict(removed, "--- Collections Deleted ---", "DELETED")
 print
 printDict(added,   "--- Collections Added   ---", "ADDED")
 print
-printDictWithDiffs(updated, "--- Collections Updated ---", "Updated")
+printDictWithDiffs(updated, "--- Collections Updated ---", "UPDATED")
 print
-printDictWithDiffs(moreImages, "--- Collections with new images ---", "")
+printDictWithDiffs(moreImages, "--- Collections with new images ---", "last updated")
 print
-printDictWithDiffs(fewerImages, "--- Collections with images removed ---", "")
+printDictWithDiffs(fewerImages, "--- Collections with images removed ---", "last updated")
 print
-printDictWithDiffs(moreRecords, "--- Collections with new records ---", "")
+printDictWithDiffs(moreRecords, "--- Collections with new records ---", "last updated")
 print
-printDictWithDiffs(fewerRecords, "--- Collections with records removed ---", "")
+printDictWithDiffs(fewerRecords, "--- Collections with records removed ---", "last updated")
 print
 
 # print len(oldJSON), len (newJSON), len(unchanged)
