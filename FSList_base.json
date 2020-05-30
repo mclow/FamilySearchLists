@@ -101,7 +101,7 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 1875674,
-    "imageCount": 1609876,
+    "imageCount": 1609809,
     "waypointUrl": null
   },
   {
@@ -176,7 +176,7 @@
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "recordCount": 243781,
-    "imageCount": 7,
+    "imageCount": 6274,
     "waypointUrl": null
   },
   {
@@ -405,6 +405,21 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "3405095",
+    "title": "Alaska, Pribilof Islands (particularly St. Paul Island) Census Records, 1881-1910",
+    "lastUpdatedMillis": 1590780811084,
+    "startYear": 1881,
+    "endYear": 1910,
+    "placeIds": [
+      32
+    ],
+    "recordType": "CENSUS",
+    "region": "UNITED_STATES",
+    "recordCount": 13764,
+    "imageCount": 587,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "3161312",
     "title": "Alaska, State Archives (Juneau), Coroner's Inquests, 1913-1958",
     "lastUpdatedMillis": 1556569711011,
@@ -557,7 +572,7 @@
   {
     "collectionId": "3438751",
     "title": "American Samoa, Vital Records, 1850-1930",
-    "lastUpdatedMillis": 1590165210568,
+    "lastUpdatedMillis": 1590797318128,
     "startYear": 1850,
     "endYear": 1930,
     "placeIds": [
@@ -565,8 +580,8 @@
     ],
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
-    "recordCount": 23143,
-    "imageCount": 67552,
+    "recordCount": 23192,
+    "imageCount": 69580,
     "waypointUrl": null
   },
   {
@@ -692,7 +707,7 @@
   {
     "collectionId": "1974183",
     "title": "Argentina, Corrientes, Catholic Church Records, 1734-1977",
-    "lastUpdatedMillis": 1581371162707,
+    "lastUpdatedMillis": 1590612248653,
     "startYear": 1734,
     "endYear": 1977,
     "placeIds": [
@@ -700,7 +715,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 33764,
+    "recordCount": 33741,
     "imageCount": 207943,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1974183/waypoints"
   },
@@ -797,7 +812,7 @@
   {
     "collectionId": "1974187",
     "title": "Argentina, La Pampa, Catholic Church Records, 1882-1976",
-    "lastUpdatedMillis": 1576304935026,
+    "lastUpdatedMillis": 1590712288614,
     "startYear": 1882,
     "endYear": 1976,
     "placeIds": [
@@ -1067,7 +1082,7 @@
   {
     "collectionId": "1534450",
     "title": "Arizona Deaths, 1870-1951",
-    "lastUpdatedMillis": 1590104551525,
+    "lastUpdatedMillis": 1590787728748,
     "startYear": 1870,
     "endYear": 1951,
     "placeIds": [
@@ -1075,7 +1090,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 278126,
+    "recordCount": 278604,
     "imageCount": 264534,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1534450/waypoints"
   },
@@ -1226,7 +1241,7 @@
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "recordCount": 502795,
-    "imageCount": 495521,
+    "imageCount": 495070,
     "waypointUrl": null
   },
   {
@@ -2141,7 +2156,7 @@
     "recordType": "MIGRATION",
     "region": "AUSTRALIA_NEW_ZEALAND",
     "recordCount": 883350,
-    "imageCount": 93,
+    "imageCount": 54,
     "waypointUrl": null
   },
   {
@@ -2747,7 +2762,7 @@
   {
     "collectionId": "1922463",
     "title": "Bolivia Catholic Church Records, 1566-1996",
-    "lastUpdatedMillis": 1584387675309,
+    "lastUpdatedMillis": 1590166480342,
     "startYear": 1566,
     "endYear": 1996,
     "placeIds": [
@@ -2755,7 +2770,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 3277119,
+    "recordCount": 3457186,
     "imageCount": 1649601,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1922463/waypoints"
   },
@@ -2837,7 +2852,7 @@
   {
     "collectionId": "3694028",
     "title": "Brazil, Bahia, Civil Registration, 1877-1976",
-    "lastUpdatedMillis": 1590023620149,
+    "lastUpdatedMillis": 1590798505528,
     "startYear": 1877,
     "endYear": 1976,
     "placeIds": [
@@ -2845,8 +2860,8 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 35418,
-    "imageCount": 30838,
+    "recordCount": 35426,
+    "imageCount": 30844,
     "waypointUrl": null
   },
   {
@@ -2912,7 +2927,7 @@
   {
     "collectionId": "2137269",
     "title": "Brazil, Minas Gerais, Belo Horizonte, Cemetery Records, 1897-2012",
-    "lastUpdatedMillis": 1587948442054,
+    "lastUpdatedMillis": 1590769453171,
     "startYear": 1897,
     "endYear": 2012,
     "placeIds": [
@@ -2942,7 +2957,7 @@
   {
     "collectionId": "3479702",
     "title": "Brazil, Minas Gerais, Civil Registration, 1879-1949",
-    "lastUpdatedMillis": 1590165348874,
+    "lastUpdatedMillis": 1590795397821,
     "startYear": 1879,
     "endYear": 1949,
     "placeIds": [
@@ -2950,8 +2965,8 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 52806,
-    "imageCount": 23108,
+    "recordCount": 55067,
+    "imageCount": 24057,
     "waypointUrl": null
   },
   {
@@ -3182,7 +3197,7 @@
   {
     "collectionId": "2016197",
     "title": "Brazil, Santa Catarina, Civil Registration, 1850-1999",
-    "lastUpdatedMillis": 1590159650076,
+    "lastUpdatedMillis": 1590794097875,
     "startYear": 1850,
     "endYear": 1999,
     "placeIds": [
@@ -3190,7 +3205,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 132209,
+    "recordCount": 135092,
     "imageCount": 1038133,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2016197/waypoints"
   },
@@ -3769,7 +3784,7 @@
   {
     "collectionId": "2001287",
     "title": "California, County Birth and Death Records, 1800-1994",
-    "lastUpdatedMillis": 1590165693158,
+    "lastUpdatedMillis": 1590798163050,
     "startYear": 1800,
     "endYear": 1994,
     "placeIds": [
@@ -3777,7 +3792,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 5848703,
+    "recordCount": 5873817,
     "imageCount": 2841076,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001287/waypoints"
   },
@@ -3874,7 +3889,7 @@
   {
     "collectionId": "3583819",
     "title": "California, Los Angeles, Angelus-Rosedale Cemetery/Crematory Records, 1884-2002",
-    "lastUpdatedMillis": 1590165729736,
+    "lastUpdatedMillis": 1590798539147,
     "startYear": 1884,
     "endYear": 2002,
     "placeIds": [
@@ -3882,14 +3897,14 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 18809,
-    "imageCount": 576,
+    "recordCount": 20993,
+    "imageCount": 697,
     "waypointUrl": null
   },
   {
     "collectionId": "3259479",
     "title": "California, Los Angeles, Evergreen Memorial Park Cemetery, Deceased Card File Index, 1877-1989",
-    "lastUpdatedMillis": 1590163371516,
+    "lastUpdatedMillis": 1590609304480,
     "startYear": 1877,
     "endYear": 1989,
     "placeIds": [
@@ -3897,8 +3912,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 89305,
-    "imageCount": 89136,
+    "recordCount": 89420,
+    "imageCount": 89251,
     "waypointUrl": null
   },
   {
@@ -4309,7 +4324,7 @@
   {
     "collectionId": "1922526",
     "title": "California, San Mateo County, Colma, Italian Cemetery Records, 1899-2011",
-    "lastUpdatedMillis": 1590162728491,
+    "lastUpdatedMillis": 1590798416636,
     "startYear": 1899,
     "endYear": 2011,
     "placeIds": [
@@ -4317,7 +4332,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 83009,
+    "recordCount": 85322,
     "imageCount": 32338,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1922526/waypoints"
   },
@@ -4684,7 +4699,7 @@
   {
     "collectionId": "3734436",
     "title": "Canada, New Brunswick, County Register of Births, 1801-1920",
-    "lastUpdatedMillis": 1590160234778,
+    "lastUpdatedMillis": 1590796878230,
     "startYear": 1801,
     "endYear": 1920,
     "placeIds": [
@@ -4692,8 +4707,8 @@
     ],
     "recordType": "VITAL",
     "region": "CANADA",
-    "recordCount": 16017,
-    "imageCount": 451,
+    "recordCount": 24172,
+    "imageCount": 686,
     "waypointUrl": null
   },
   {
@@ -5027,7 +5042,7 @@
   {
     "collectionId": "3405096",
     "title": "Chile, Catholic Church Records, 1710-1928",
-    "lastUpdatedMillis": 1590165311972,
+    "lastUpdatedMillis": 1590798548925,
     "startYear": 1710,
     "endYear": 1928,
     "placeIds": [
@@ -5035,8 +5050,8 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 134243,
-    "imageCount": 15776,
+    "recordCount": 154304,
+    "imageCount": 18229,
     "waypointUrl": null
   },
   {
@@ -5162,7 +5177,7 @@
   {
     "collectionId": "3212241",
     "title": "Colombia, Bogot\u00e1, Burial Permits, 1960-1991",
-    "lastUpdatedMillis": 1587775477215,
+    "lastUpdatedMillis": 1590770803480,
     "startYear": 1960,
     "endYear": 1991,
     "placeIds": [
@@ -5171,7 +5186,7 @@
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "recordCount": 178686,
-    "imageCount": 212727,
+    "imageCount": 212744,
     "waypointUrl": null
   },
   {
@@ -6034,7 +6049,7 @@
   {
     "collectionId": "1447341",
     "title": "Delaware Vital Records, 1650-1974",
-    "lastUpdatedMillis": 1552318805069,
+    "lastUpdatedMillis": 1590170328755,
     "startYear": 1650,
     "endYear": 1974,
     "placeIds": [
@@ -6042,7 +6057,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 1259182,
+    "recordCount": 1260009,
     "imageCount": 3133093,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1447341/waypoints"
   },
@@ -7488,7 +7503,7 @@
   {
     "collectionId": "1833719",
     "title": "England, Devon and Cornwall Marriages, 1660-1912",
-    "lastUpdatedMillis": 1548385416568,
+    "lastUpdatedMillis": 1590695362367,
     "startYear": 1660,
     "endYear": 1912,
     "placeIds": [
@@ -7496,7 +7511,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 93002,
+    "recordCount": 93242,
     "imageCount": 4692,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1833719/waypoints"
   },
@@ -7533,7 +7548,7 @@
   {
     "collectionId": "1910806",
     "title": "England, Dorset, Parish Registers, 1538-2001",
-    "lastUpdatedMillis": 1590028925327,
+    "lastUpdatedMillis": 1590797713636,
     "startYear": 1538,
     "endYear": 2001,
     "placeIds": [
@@ -7743,7 +7758,7 @@
   {
     "collectionId": "3584542",
     "title": "England, Essex Non-Conformist Church Records, 1613-1971",
-    "lastUpdatedMillis": 1590164657857,
+    "lastUpdatedMillis": 1590465680461,
     "startYear": 1613,
     "endYear": 1971,
     "placeIds": [
@@ -7751,8 +7766,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 35192,
-    "imageCount": 4519,
+    "recordCount": 35374,
+    "imageCount": 4537,
     "waypointUrl": null
   },
   {
@@ -7788,7 +7803,7 @@
   {
     "collectionId": "3648679",
     "title": "England, Gloucestershire Non-Conformist Church Records, 1642-1996",
-    "lastUpdatedMillis": 1590165274767,
+    "lastUpdatedMillis": 1590798029715,
     "startYear": 1642,
     "endYear": 1996,
     "placeIds": [
@@ -7796,8 +7811,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 62820,
-    "imageCount": 34914,
+    "recordCount": 62978,
+    "imageCount": 35312,
     "waypointUrl": null
   },
   {
@@ -7818,7 +7833,7 @@
   {
     "collectionId": "2556014",
     "title": "England, Hampshire Parish Registers, 1538-1980",
-    "lastUpdatedMillis": 1587122516910,
+    "lastUpdatedMillis": 1590175921543,
     "startYear": 1538,
     "endYear": 1980,
     "placeIds": [
@@ -7827,7 +7842,7 @@
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "recordCount": 1856794,
-    "imageCount": 140296,
+    "imageCount": 137654,
     "waypointUrl": null
   },
   {
@@ -8163,7 +8178,7 @@
   {
     "collectionId": "3734475",
     "title": "England, Middlesex Parish Registers, 1539-1988",
-    "lastUpdatedMillis": 1590165122926,
+    "lastUpdatedMillis": 1590798876893,
     "startYear": 1695,
     "endYear": 1940,
     "placeIds": [
@@ -8171,8 +8186,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 13392,
-    "imageCount": 1385,
+    "recordCount": 73905,
+    "imageCount": 3886,
     "waypointUrl": null
   },
   {
@@ -8328,7 +8343,7 @@
   {
     "collectionId": "3648677",
     "title": "England, Northumberland Non-Conformist Church Records, 1613-1920",
-    "lastUpdatedMillis": 1589943572805,
+    "lastUpdatedMillis": 1590764137205,
     "startYear": 1613,
     "endYear": 1920,
     "placeIds": [
@@ -8336,8 +8351,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 195485,
-    "imageCount": 8465,
+    "recordCount": 195727,
+    "imageCount": 8468,
     "waypointUrl": null
   },
   {
@@ -8508,7 +8523,7 @@
   {
     "collectionId": "3477664",
     "title": "England, Yorkshire Marriage Bonds and Allegations, 1613-1887",
-    "lastUpdatedMillis": 1590165641692,
+    "lastUpdatedMillis": 1590797956493,
     "startYear": 1613,
     "endYear": 1887,
     "placeIds": [
@@ -8516,8 +8531,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 283687,
-    "imageCount": 277593,
+    "recordCount": 302838,
+    "imageCount": 296633,
     "waypointUrl": null
   },
   {
@@ -8988,7 +9003,7 @@
   {
     "collectionId": "3326846",
     "title": "Florida, County Voter Registration Records, 1867-1905",
-    "lastUpdatedMillis": 1573669367447,
+    "lastUpdatedMillis": 1590788988354,
     "startYear": 1867,
     "endYear": 1905,
     "placeIds": [
@@ -8996,7 +9011,7 @@
     ],
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
-    "recordCount": 25453,
+    "recordCount": 25454,
     "imageCount": 856,
     "waypointUrl": null
   },
@@ -9627,7 +9642,7 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 145696,
-    "imageCount": 3089,
+    "imageCount": 3090,
     "waypointUrl": null
   },
   {
@@ -9792,7 +9807,7 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 1975120,
-    "imageCount": 323821,
+    "imageCount": 322655,
     "waypointUrl": null
   },
   {
@@ -9858,7 +9873,7 @@
   {
     "collectionId": "3007175",
     "title": "France, Rh\u00f4ne, Military Registration Cards, 1865-1932",
-    "lastUpdatedMillis": 1553199526735,
+    "lastUpdatedMillis": 1590525184838,
     "startYear": 1865,
     "endYear": 1932,
     "placeIds": [
@@ -9866,8 +9881,8 @@
     ],
     "recordType": "MILITARY",
     "region": "EUROPE",
-    "recordCount": 100252,
-    "imageCount": 100020,
+    "recordCount": 141704,
+    "imageCount": 141376,
     "waypointUrl": null
   },
   {
@@ -9957,7 +9972,7 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 7204644,
-    "imageCount": 1967791,
+    "imageCount": 1967779,
     "waypointUrl": null
   },
   {
@@ -10152,7 +10167,7 @@
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
     "recordCount": 60777,
-    "imageCount": 62712,
+    "imageCount": 55200,
     "waypointUrl": null
   },
   {
@@ -10368,7 +10383,7 @@
   {
     "collectionId": "3479704",
     "title": "Georgia, Chatham, Savannah, Laurel Grove Cemetery Record Keeper's Book (colored), 1852-1942",
-    "lastUpdatedMillis": 1589932416494,
+    "lastUpdatedMillis": 1590649887510,
     "startYear": 1852,
     "endYear": 1942,
     "placeIds": [
@@ -10376,8 +10391,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 58588,
-    "imageCount": 1109,
+    "recordCount": 58714,
+    "imageCount": 1111,
     "waypointUrl": null
   },
   {
@@ -10398,7 +10413,7 @@
   {
     "collectionId": "3491475",
     "title": "Georgia, Columbus, Linwood and Porterdale Colored Cemeteries, Interment Records, 1866-2000",
-    "lastUpdatedMillis": 1590060399185,
+    "lastUpdatedMillis": 1590634573621,
     "startYear": 1866,
     "endYear": 2000,
     "placeIds": [
@@ -10406,8 +10421,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 46645,
-    "imageCount": 2118,
+    "recordCount": 46843,
+    "imageCount": 2127,
     "waypointUrl": null
   },
   {
@@ -10797,7 +10812,7 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 0,
-    "imageCount": 1168146,
+    "imageCount": 1169608,
     "waypointUrl": null
   },
   {
@@ -11337,7 +11352,7 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 136710,
-    "imageCount": 3535,
+    "imageCount": 6993,
     "waypointUrl": null
   },
   {
@@ -11412,7 +11427,7 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 2043205,
-    "imageCount": 206456,
+    "imageCount": 201591,
     "waypointUrl": null
   },
   {
@@ -11784,7 +11799,7 @@
   {
     "collectionId": "2366620",
     "title": "Great Britain, War Office Registers, 1772-1935",
-    "lastUpdatedMillis": 1587152659557,
+    "lastUpdatedMillis": 1590602906551,
     "startYear": 1772,
     "endYear": 1935,
     "placeIds": [
@@ -11794,7 +11809,7 @@
     ],
     "recordType": "MILITARY",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 528123,
+    "recordCount": 797279,
     "imageCount": 3617,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2366620/waypoints"
   },
@@ -12416,7 +12431,7 @@
   {
     "collectionId": "3463100",
     "title": "Hawaii, Collector of Customs, Ships' Passenger Manifests, 1843-1900",
-    "lastUpdatedMillis": 1588115553386,
+    "lastUpdatedMillis": 1590720641989,
     "startYear": 1843,
     "endYear": 1900,
     "placeIds": [
@@ -12424,8 +12439,8 @@
     ],
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
-    "recordCount": 65291,
-    "imageCount": 12498,
+    "recordCount": 135301,
+    "imageCount": 49204,
     "waypointUrl": null
   },
   {
@@ -12470,7 +12485,7 @@
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "recordCount": 5636,
-    "imageCount": 7186,
+    "imageCount": 7161,
     "waypointUrl": null
   },
   {
@@ -12506,7 +12521,7 @@
   {
     "collectionId": "3736295",
     "title": "Hawaii, Hawaiian Islands Newspaper Obituaries, 1900-ca.2010",
-    "lastUpdatedMillis": 1590159481556,
+    "lastUpdatedMillis": 1590798372848,
     "startYear": 1900,
     "endYear": 2010,
     "placeIds": [
@@ -12514,8 +12529,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 8953,
-    "imageCount": 794,
+    "recordCount": 17445,
+    "imageCount": 1547,
     "waypointUrl": null
   },
   {
@@ -12590,7 +12605,7 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 108056,
-    "imageCount": 222,
+    "imageCount": 218,
     "waypointUrl": null
   },
   {
@@ -12881,7 +12896,7 @@
   {
     "collectionId": "2697871",
     "title": "Iceland Church Census, 1744-1965",
-    "lastUpdatedMillis": 1585849701888,
+    "lastUpdatedMillis": 1590501068126,
     "startYear": 1744,
     "endYear": 1977,
     "placeIds": [
@@ -12890,7 +12905,7 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 0,
-    "imageCount": 1968,
+    "imageCount": 2418,
     "waypointUrl": null
   },
   {
@@ -13256,7 +13271,7 @@
   {
     "collectionId": "3733439",
     "title": "Idaho, Jefferson Star, County Cemetery Records, 1800-2000",
-    "lastUpdatedMillis": 1590147138533,
+    "lastUpdatedMillis": 1590764218291,
     "startYear": 1800,
     "endYear": 2000,
     "placeIds": [
@@ -13264,8 +13279,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 127208,
-    "imageCount": 90533,
+    "recordCount": 127986,
+    "imageCount": 90600,
     "waypointUrl": null
   },
   {
@@ -13361,7 +13376,7 @@
   {
     "collectionId": "2554944",
     "title": "Idaho, Nez Perce County, Brower Wann Funeral Home Records, 1925-1986",
-    "lastUpdatedMillis": 1590165512037,
+    "lastUpdatedMillis": 1590786395769,
     "startYear": 1925,
     "endYear": 1986,
     "placeIds": [
@@ -13369,8 +13384,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 146,
-    "imageCount": 146,
+    "recordCount": 5469,
+    "imageCount": 5449,
     "waypointUrl": null
   },
   {
@@ -14636,7 +14651,7 @@
   {
     "collectionId": "5",
     "title": "International Genealogical Index (IGI)",
-    "lastUpdatedMillis": 1590165759316,
+    "lastUpdatedMillis": 1590797888696,
     "startYear": 0,
     "endYear": 2010,
     "placeIds": [
@@ -14786,7 +14801,7 @@
   {
     "collectionId": "2224537",
     "title": "Iowa State Census, 1925",
-    "lastUpdatedMillis": 1587426725320,
+    "lastUpdatedMillis": 1590466193179,
     "startYear": 1925,
     "endYear": 1925,
     "placeIds": [
@@ -14861,7 +14876,7 @@
   {
     "collectionId": "3740406",
     "title": "Iowa, Buchanan County Obituaries and Cemetery Records, ca.1796-1988",
-    "lastUpdatedMillis": 1590165765602,
+    "lastUpdatedMillis": 1590798662025,
     "startYear": 1796,
     "endYear": 1988,
     "placeIds": [
@@ -14869,8 +14884,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 160840,
-    "imageCount": 32400,
+    "recordCount": 210409,
+    "imageCount": 41519,
     "waypointUrl": null
   },
   {
@@ -15140,7 +15155,7 @@
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "recordCount": 5075771,
-    "imageCount": 107833,
+    "imageCount": 107838,
     "waypointUrl": null
   },
   {
@@ -15489,6 +15504,21 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "3736275",
+    "title": "Ireland, Estate Commissioners Offices, Applications from Evicted Tenants, 1907",
+    "lastUpdatedMillis": 1590691713090,
+    "startYear": 1907,
+    "endYear": 1907,
+    "placeIds": [
+      1927084
+    ],
+    "recordType": "LEGAL",
+    "region": "UNITED_KINGDOM_IRELAND",
+    "recordCount": 0,
+    "imageCount": 3403,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "3501883",
     "title": "Ireland, James Alexander Henderson, The Belfast and Province of Ulster Directory for 1856",
     "lastUpdatedMillis": 1575578901033,
@@ -15549,6 +15579,21 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "3736278",
+    "title": "Ireland, Parliamentary Papers on Emigration to Canada, 1826",
+    "lastUpdatedMillis": 1590605836114,
+    "startYear": 1826,
+    "endYear": 1826,
+    "placeIds": [
+      1927084
+    ],
+    "recordType": "MIGRATION",
+    "region": "UNITED_KINGDOM_IRELAND",
+    "recordCount": 0,
+    "imageCount": 316,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "3736265",
     "title": "Ireland, Pettigrew and Oulton, The Dublin Almanac and General Register of Ireland, 1835",
     "lastUpdatedMillis": 1588606960653,
@@ -15591,6 +15636,21 @@
     "region": "UNITED_KINGDOM_IRELAND",
     "recordCount": 691210,
     "imageCount": 691210,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "3736263",
+    "title": "Ireland, Registers of Queen's Colleges, 1849-1858",
+    "lastUpdatedMillis": 1590771915865,
+    "startYear": 1849,
+    "endYear": 1858,
+    "placeIds": [
+      1927084
+    ],
+    "recordType": "CENSUS",
+    "region": "UNITED_KINGDOM_IRELAND",
+    "recordCount": 0,
+    "imageCount": 2056,
     "waypointUrl": null
   },
   {
@@ -16031,7 +16091,7 @@
   {
     "collectionId": "2484771",
     "title": "Italy, Avellino, Civil Registration (State Archive), 1809-1947",
-    "lastUpdatedMillis": 1578415177100,
+    "lastUpdatedMillis": 1590175321432,
     "startYear": 1809,
     "endYear": 1899,
     "placeIds": [
@@ -16039,7 +16099,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 0,
+    "recordCount": 109616,
     "imageCount": 3099458,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2484771/waypoints"
   },
@@ -18911,7 +18971,7 @@
   {
     "collectionId": "3288444",
     "title": "Kansas, Grant County, Census Records, 1895-1982",
-    "lastUpdatedMillis": 1568747179381,
+    "lastUpdatedMillis": 1590772127102,
     "startYear": 1950,
     "endYear": 1982,
     "placeIds": [
@@ -18920,7 +18980,7 @@
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "recordCount": 28877,
-    "imageCount": 7330,
+    "imageCount": 16617,
     "waypointUrl": null
   },
   {
@@ -19055,7 +19115,7 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 1681910,
-    "imageCount": 1680451,
+    "imageCount": 1679457,
     "waypointUrl": null
   },
   {
@@ -19436,7 +19496,7 @@
   {
     "collectionId": "1838535",
     "title": "Louisiana Confederate Pensions, 1898-1950",
-    "lastUpdatedMillis": 1588194258505,
+    "lastUpdatedMillis": 1590604760075,
     "startYear": 1898,
     "endYear": 1950,
     "placeIds": [
@@ -19444,7 +19504,7 @@
     ],
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
-    "recordCount": 109427,
+    "recordCount": 109691,
     "imageCount": 199883,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1838535/waypoints"
   },
@@ -19541,7 +19601,7 @@
   {
     "collectionId": "1931391",
     "title": "Louisiana State Penitentiary Records, 1866-1963",
-    "lastUpdatedMillis": 1578419706913,
+    "lastUpdatedMillis": 1590689924577,
     "startYear": 1866,
     "endYear": 1963,
     "placeIds": [
@@ -19549,7 +19609,7 @@
     ],
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
-    "recordCount": 127514,
+    "recordCount": 127772,
     "imageCount": 21796,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1931391/waypoints"
   },
@@ -19751,7 +19811,7 @@
   {
     "collectionId": "3559088",
     "title": "Louisiana, Orleans Parish Death Records and Certificates, 1835-1954",
-    "lastUpdatedMillis": 1590165656170,
+    "lastUpdatedMillis": 1590798883449,
     "startYear": 1835,
     "endYear": 1954,
     "placeIds": [
@@ -19759,8 +19819,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 435732,
-    "imageCount": 197097,
+    "recordCount": 477109,
+    "imageCount": 214222,
     "waypointUrl": null
   },
   {
@@ -20546,7 +20606,7 @@
   {
     "collectionId": "1992433",
     "title": "Manitoba Church Records, 1800-1959",
-    "lastUpdatedMillis": 1585749494980,
+    "lastUpdatedMillis": 1590769886573,
     "startYear": 1800,
     "endYear": 1959,
     "placeIds": [
@@ -22826,7 +22886,7 @@
   {
     "collectionId": "3733440",
     "title": "Michigan, Saginaw County, Biographical Card File, ca. 1830-2000",
-    "lastUpdatedMillis": 1590150437467,
+    "lastUpdatedMillis": 1590793321025,
     "startYear": 1830,
     "endYear": 2000,
     "placeIds": [
@@ -22834,8 +22894,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 1897,
-    "imageCount": 12951,
+    "recordCount": 1901,
+    "imageCount": 12987,
     "waypointUrl": null
   },
   {
@@ -23409,6 +23469,21 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1419635/waypoints"
   },
   {
+    "collectionId": "3744865",
+    "title": "Minnesota, Waseca County Historical Society, Burial Cards, ca.1860-1992",
+    "lastUpdatedMillis": 1590795229435,
+    "startYear": 1860,
+    "endYear": 1992,
+    "placeIds": [
+      18
+    ],
+    "recordType": "VITAL",
+    "region": "UNITED_STATES",
+    "recordCount": 9991,
+    "imageCount": 9922,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2421524",
     "title": "Minnesota, World War I Records, 1918-1941",
     "lastUpdatedMillis": 1580756893879,
@@ -23606,7 +23681,7 @@
   {
     "collectionId": "3477669",
     "title": "Mississippi, County Marriages, 1858-1979",
-    "lastUpdatedMillis": 1590165704363,
+    "lastUpdatedMillis": 1590798793167,
     "startYear": 1858,
     "endYear": 1879,
     "placeIds": [
@@ -23614,14 +23689,14 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 470589,
-    "imageCount": 118956,
+    "recordCount": 520900,
+    "imageCount": 132781,
     "waypointUrl": null
   },
   {
     "collectionId": "3583821",
     "title": "Mississippi, Death Certificate Index, 1912-1943",
-    "lastUpdatedMillis": 1588551311668,
+    "lastUpdatedMillis": 1590797364337,
     "startYear": 1912,
     "endYear": 1943,
     "placeIds": [
@@ -23629,8 +23704,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 677825,
-    "imageCount": 6544,
+    "recordCount": 686761,
+    "imageCount": 6604,
     "waypointUrl": null
   },
   {
@@ -23666,7 +23741,7 @@
   {
     "collectionId": "1919687",
     "title": "Mississippi, State Archives, Various Records, 1820-1951",
-    "lastUpdatedMillis": 1571336547387,
+    "lastUpdatedMillis": 1590507325294,
     "startYear": 1820,
     "endYear": 1951,
     "placeIds": [
@@ -23674,7 +23749,7 @@
     ],
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
-    "recordCount": 755913,
+    "recordCount": 756010,
     "imageCount": 188945,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1919687/waypoints"
   },
@@ -24671,7 +24746,7 @@
   {
     "collectionId": "3734439",
     "title": "Nebraska, Lancaster County, Wyuka Cemetery Burial Permits, 1883-1999",
-    "lastUpdatedMillis": 1590154936295,
+    "lastUpdatedMillis": 1590726813739,
     "startYear": 1883,
     "endYear": 1999,
     "placeIds": [
@@ -24679,8 +24754,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 48724,
-    "imageCount": 48632,
+    "recordCount": 49002,
+    "imageCount": 48910,
     "waypointUrl": null
   },
   {
@@ -26921,7 +26996,7 @@
   {
     "collectionId": "3732499",
     "title": "New York, Lackawanna, Holy Cross Cemetery Records, 1855-1965",
-    "lastUpdatedMillis": 1590165760574,
+    "lastUpdatedMillis": 1590798900078,
     "startYear": 1855,
     "endYear": 1965,
     "placeIds": [
@@ -26929,8 +27004,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 102004,
-    "imageCount": 13416,
+    "recordCount": 193478,
+    "imageCount": 20190,
     "waypointUrl": null
   },
   {
@@ -27260,7 +27335,7 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 4749222,
-    "imageCount": 84805,
+    "imageCount": 84675,
     "waypointUrl": null
   },
   {
@@ -27581,7 +27656,7 @@
   {
     "collectionId": "3733116",
     "title": "Niue, Vital Records, 1818-1994",
-    "lastUpdatedMillis": 1590165381992,
+    "lastUpdatedMillis": 1590798808851,
     "startYear": 1818,
     "endYear": 1994,
     "placeIds": [
@@ -27589,8 +27664,8 @@
     ],
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
-    "recordCount": 21310,
-    "imageCount": 15873,
+    "recordCount": 23457,
+    "imageCount": 17521,
     "waypointUrl": null
   },
   {
@@ -27731,7 +27806,7 @@
   {
     "collectionId": "3477667",
     "title": "North Carolina, Center for Health Statistics, Vital Records Unit, County Birth Records, 1913-1922",
-    "lastUpdatedMillis": 1590165735350,
+    "lastUpdatedMillis": 1590798780885,
     "startYear": 1913,
     "endYear": 1922,
     "placeIds": [
@@ -27739,8 +27814,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 275978,
-    "imageCount": 274349,
+    "recordCount": 298280,
+    "imageCount": 296636,
     "waypointUrl": null
   },
   {
@@ -27905,7 +27980,7 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 7926454,
-    "imageCount": 96101,
+    "imageCount": 96106,
     "waypointUrl": null
   },
   {
@@ -28031,7 +28106,7 @@
   {
     "collectionId": "3665056",
     "title": "North Carolina, Wilmington, Cemetery Records, 1852-2005",
-    "lastUpdatedMillis": 1590110298531,
+    "lastUpdatedMillis": 1590707412072,
     "startYear": 1852,
     "endYear": 2005,
     "placeIds": [
@@ -28039,8 +28114,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 26051,
-    "imageCount": 1108,
+    "recordCount": 26558,
+    "imageCount": 1123,
     "waypointUrl": null
   },
   {
@@ -28254,6 +28329,21 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "2474129",
+    "title": "Norway, Oslo, Census, 1832-1954",
+    "lastUpdatedMillis": 1590710352669,
+    "startYear": 1901,
+    "endYear": 1901,
+    "placeIds": [
+      1927171
+    ],
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "recordCount": 21353,
+    "imageCount": 989,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "1661306",
     "title": "Norway, Probate Index Cards, 1640-1903",
     "lastUpdatedMillis": 1566564476546,
@@ -28331,7 +28421,7 @@
   {
     "collectionId": "2242825",
     "title": "Nova Scotia Deaths, 1864-1877",
-    "lastUpdatedMillis": 1590120951767,
+    "lastUpdatedMillis": 1590798814642,
     "startYear": 1864,
     "endYear": 1877,
     "placeIds": [
@@ -28339,7 +28429,7 @@
     ],
     "recordType": "VITAL",
     "region": "CANADA",
-    "recordCount": 10336,
+    "recordCount": 17912,
     "imageCount": 27717,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2242825/waypoints"
   },
@@ -28781,7 +28871,7 @@
   {
     "collectionId": "1932106",
     "title": "Ohio, County Births, 1841-2003",
-    "lastUpdatedMillis": 1589882608135,
+    "lastUpdatedMillis": 1590347181023,
     "startYear": 1841,
     "endYear": 2003,
     "placeIds": [
@@ -29156,7 +29246,7 @@
   {
     "collectionId": "3714677",
     "title": "Ohio, Toledo, Historic Woodlawn Cemetery Index of Burials, 1877-1955",
-    "lastUpdatedMillis": 1590160199114,
+    "lastUpdatedMillis": 1590690865791,
     "startYear": 1877,
     "endYear": 1955,
     "placeIds": [
@@ -29164,8 +29254,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 67253,
-    "imageCount": 23347,
+    "recordCount": 68182,
+    "imageCount": 23620,
     "waypointUrl": null
   },
   {
@@ -29945,7 +30035,7 @@
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "recordCount": 988549,
-    "imageCount": 982465,
+    "imageCount": 980956,
     "waypointUrl": null
   },
   {
@@ -30221,7 +30311,7 @@
   {
     "collectionId": "3743478",
     "title": "Pennsylvania Cemetery Records, ca. 1700-ca. 1950",
-    "lastUpdatedMillis": 1590164513178,
+    "lastUpdatedMillis": 1590798617110,
     "startYear": 1700,
     "endYear": 1950,
     "placeIds": [
@@ -30229,8 +30319,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 17802,
-    "imageCount": 640,
+    "recordCount": 38577,
+    "imageCount": 3218,
     "waypointUrl": null
   },
   {
@@ -30259,7 +30349,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 1133456,
+    "recordCount": 1127892,
     "imageCount": 41025,
     "waypointUrl": null
   },
@@ -30296,7 +30386,7 @@
   {
     "collectionId": "3512181",
     "title": "Pennsylvania Mortality Schedules, 1850-1880",
-    "lastUpdatedMillis": 1589932548764,
+    "lastUpdatedMillis": 1590776914696,
     "startYear": 1850,
     "endYear": 1880,
     "placeIds": [
@@ -30304,8 +30394,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 165834,
-    "imageCount": 8556,
+    "recordCount": 165937,
+    "imageCount": 8560,
     "waypointUrl": null
   },
   {
@@ -30716,7 +30806,7 @@
   {
     "collectionId": "3048335",
     "title": "Pennsylvania, Register of Military Volunteers, 1861-1865",
-    "lastUpdatedMillis": 1585249057607,
+    "lastUpdatedMillis": 1590776795886,
     "startYear": 1861,
     "endYear": 1865,
     "placeIds": [
@@ -30724,8 +30814,8 @@
     ],
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
-    "recordCount": 315205,
-    "imageCount": 8567,
+    "recordCount": 315711,
+    "imageCount": 8336,
     "waypointUrl": null
   },
   {
@@ -30836,7 +30926,7 @@
   {
     "collectionId": "3460906",
     "title": "Peru, Ayacucho, Civil Registration, 1903-1999",
-    "lastUpdatedMillis": 1590165717948,
+    "lastUpdatedMillis": 1590798879205,
     "startYear": 1903,
     "endYear": 1999,
     "placeIds": [
@@ -30844,8 +30934,8 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 289875,
-    "imageCount": 286011,
+    "recordCount": 293300,
+    "imageCount": 289405,
     "waypointUrl": null
   },
   {
@@ -30896,7 +30986,7 @@
   {
     "collectionId": "3163400",
     "title": "Peru, Cemetery Records, 1912-2013",
-    "lastUpdatedMillis": 1585757097944,
+    "lastUpdatedMillis": 1590781409512,
     "startYear": 1912,
     "endYear": 2013,
     "placeIds": [
@@ -30956,7 +31046,7 @@
   {
     "collectionId": "1983330",
     "title": "Peru, Hu\u00e1nuco, Civil Registration, 1888-1998",
-    "lastUpdatedMillis": 1590165705748,
+    "lastUpdatedMillis": 1590798886740,
     "startYear": 1888,
     "endYear": 1998,
     "placeIds": [
@@ -30964,7 +31054,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 674169,
+    "recordCount": 708528,
     "imageCount": 708628,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1983330/waypoints"
   },
@@ -31061,7 +31151,7 @@
   {
     "collectionId": "3733437",
     "title": "Peru, Piura, Civil Registration, 1874-1996",
-    "lastUpdatedMillis": 1590165577638,
+    "lastUpdatedMillis": 1590798605777,
     "startYear": 1874,
     "endYear": 1996,
     "placeIds": [
@@ -31069,14 +31159,14 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 7935,
-    "imageCount": 7917,
+    "recordCount": 16546,
+    "imageCount": 16502,
     "waypointUrl": null
   },
   {
     "collectionId": "3460240",
     "title": "Peru, Prelature of Yauyos-Ca\u00f1ete-Huarochir\u00ed, Catholic Church Records, 1665-2018",
-    "lastUpdatedMillis": 1590165336809,
+    "lastUpdatedMillis": 1590798503173,
     "startYear": 1665,
     "endYear": 2018,
     "placeIds": [
@@ -31084,8 +31174,8 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 62317,
-    "imageCount": 27013,
+    "recordCount": 67157,
+    "imageCount": 29111,
     "waypointUrl": null
   },
   {
@@ -32156,7 +32246,7 @@
   {
     "collectionId": "1682798",
     "title": "Puerto Rico, Civil Registration, 1805-2001",
-    "lastUpdatedMillis": 1590132514131,
+    "lastUpdatedMillis": 1590784018538,
     "startYear": 1805,
     "endYear": 2001,
     "placeIds": [
@@ -32164,7 +32254,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 4982340,
+    "recordCount": 4982863,
     "imageCount": 4581756,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1682798/waypoints"
   },
@@ -32494,8 +32584,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 28634,
-    "imageCount": 28341,
+    "recordCount": 28644,
+    "imageCount": 28351,
     "waypointUrl": null
   },
   {
@@ -32966,7 +33056,7 @@
   {
     "collectionId": "3245338",
     "title": "Sierra Leone, Civil Births, 1802-1969",
-    "lastUpdatedMillis": 1585765262910,
+    "lastUpdatedMillis": 1590781424257,
     "startYear": 1802,
     "endYear": 2016,
     "placeIds": [
@@ -33116,7 +33206,7 @@
   {
     "collectionId": "1468076",
     "title": "South Africa, Church of the Province of South Africa, Parish Registers, 1801-2004",
-    "lastUpdatedMillis": 1590165515231,
+    "lastUpdatedMillis": 1590795003420,
     "startYear": 1801,
     "endYear": 2004,
     "placeIds": [
@@ -33124,14 +33214,14 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 408471,
+    "recordCount": 411110,
     "imageCount": 355318,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1468076/waypoints"
   },
   {
     "collectionId": "3732506",
     "title": "South Africa, Civil Death Registration, 1955-1966",
-    "lastUpdatedMillis": 1590165527468,
+    "lastUpdatedMillis": 1590797692926,
     "startYear": 1955,
     "endYear": 1966,
     "placeIds": [
@@ -33139,14 +33229,14 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 44460,
-    "imageCount": 44281,
+    "recordCount": 52795,
+    "imageCount": 52615,
     "waypointUrl": null
   },
   {
     "collectionId": "2821281",
     "title": "South Africa, Civil Marriage Records, 1840-1973",
-    "lastUpdatedMillis": 1590165774847,
+    "lastUpdatedMillis": 1590798665549,
     "startYear": 1840,
     "endYear": 1973,
     "placeIds": [
@@ -33154,8 +33244,8 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 369684,
-    "imageCount": 309656,
+    "recordCount": 395846,
+    "imageCount": 334948,
     "waypointUrl": null
   },
   {
@@ -33221,7 +33311,7 @@
   {
     "collectionId": "3511741",
     "title": "South Africa, KwaZulu Natal, Vital Records, 1868-1976",
-    "lastUpdatedMillis": 1590154589305,
+    "lastUpdatedMillis": 1590790780896,
     "startYear": 1868,
     "endYear": 1976,
     "placeIds": [
@@ -33229,8 +33319,8 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 104586,
-    "imageCount": 102444,
+    "recordCount": 105421,
+    "imageCount": 103272,
     "waypointUrl": null
   },
   {
@@ -33251,7 +33341,7 @@
   {
     "collectionId": "2721608",
     "title": "South Africa, Natal Province, Civil Deaths, 1863-1955",
-    "lastUpdatedMillis": 1590164691951,
+    "lastUpdatedMillis": 1590795030686,
     "startYear": 1863,
     "endYear": 1923,
     "placeIds": [
@@ -33259,8 +33349,8 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 88865,
-    "imageCount": 50548,
+    "recordCount": 93115,
+    "imageCount": 54798,
     "waypointUrl": null
   },
   {
@@ -33386,7 +33476,7 @@
   {
     "collectionId": "2998108",
     "title": "South Africa, Transvaal, Civil Death, 1869-1954",
-    "lastUpdatedMillis": 1573599309210,
+    "lastUpdatedMillis": 1590175870376,
     "startYear": 1869,
     "endYear": 1954,
     "placeIds": [
@@ -33394,8 +33484,8 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 1082736,
-    "imageCount": 1080877,
+    "recordCount": 1084531,
+    "imageCount": 1081683,
     "waypointUrl": null
   },
   {
@@ -34100,7 +34190,7 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 4972408,
-    "imageCount": 53004,
+    "imageCount": 42862,
     "waypointUrl": null
   },
   {
@@ -34526,7 +34616,7 @@
   {
     "collectionId": "2015359",
     "title": "Spain, Province of La Coru\u00f1a, Municipal Records, 1648-1941",
-    "lastUpdatedMillis": 1567517144573,
+    "lastUpdatedMillis": 1590173450630,
     "startYear": 1648,
     "endYear": 1941,
     "placeIds": [
@@ -34534,7 +34624,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 582466,
+    "recordCount": 627980,
     "imageCount": 258646,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2015359/waypoints"
   },
@@ -36440,7 +36530,7 @@
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "recordCount": 141806,
-    "imageCount": 140613,
+    "imageCount": 140579,
     "waypointUrl": null
   },
   {
@@ -38159,7 +38249,7 @@
   {
     "collectionId": "2199956",
     "title": "United States Public Records, 1970-2009",
-    "lastUpdatedMillis": 1590058633581,
+    "lastUpdatedMillis": 1590756762926,
     "startYear": 1880,
     "endYear": 1994,
     "placeIds": [
@@ -38648,7 +38738,7 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 468634,
-    "imageCount": 69348,
+    "imageCount": 69349,
     "waypointUrl": null
   },
   {
@@ -38894,7 +38984,7 @@
   {
     "collectionId": "2860782",
     "title": "United States, GenealogyBank Historical Newspaper Obituaries, 1815-2011",
-    "lastUpdatedMillis": 1590157658919,
+    "lastUpdatedMillis": 1590782840126,
     "startYear": 1815,
     "endYear": 2011,
     "placeIds": [
@@ -38902,14 +38992,14 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 21211086,
-    "imageCount": 2424733,
+    "recordCount": 23159416,
+    "imageCount": 2607940,
     "waypointUrl": null
   },
   {
     "collectionId": "2333694",
     "title": "United States, GenealogyBank Obituaries, 1980-2014",
-    "lastUpdatedMillis": 1590153931052,
+    "lastUpdatedMillis": 1590779579065,
     "startYear": 1980,
     "endYear": 2014,
     "placeIds": [
@@ -39008,7 +39098,7 @@
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "recordCount": 6031182,
-    "imageCount": 308959,
+    "imageCount": 314088,
     "waypointUrl": null
   },
   {
@@ -39158,7 +39248,7 @@
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "recordCount": 1129668,
-    "imageCount": 1112544,
+    "imageCount": 1109790,
     "waypointUrl": null
   },
   {
@@ -39263,7 +39353,7 @@
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "recordCount": 6931032,
-    "imageCount": 5610973,
+    "imageCount": 5607117,
     "waypointUrl": null
   },
   {
@@ -39419,7 +39509,7 @@
   {
     "collectionId": "2691993",
     "title": "Uruguay, Passenger Lists, 1888-1980",
-    "lastUpdatedMillis": 1590154510548,
+    "lastUpdatedMillis": 1590174482176,
     "startYear": 1888,
     "endYear": 1930,
     "placeIds": [
@@ -39427,8 +39517,8 @@
     ],
     "recordType": "MIGRATION",
     "region": "SOUTH_AMERICA",
-    "recordCount": 1851235,
-    "imageCount": 71155,
+    "recordCount": 2874113,
+    "imageCount": 118705,
     "waypointUrl": null
   },
   {
@@ -39584,7 +39674,7 @@
   {
     "collectionId": "3657641",
     "title": "Utah, Brigham City Family History Center, Obituary Collection, 1930-2015",
-    "lastUpdatedMillis": 1590165722105,
+    "lastUpdatedMillis": 1590798621551,
     "startYear": 1930,
     "endYear": 2015,
     "placeIds": [
@@ -39592,8 +39682,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 108609,
-    "imageCount": 7758,
+    "recordCount": 123034,
+    "imageCount": 8815,
     "waypointUrl": null
   },
   {
@@ -40724,7 +40814,7 @@
   {
     "collectionId": "3477666",
     "title": "Virginia, Bureau of Vital Statistics, County Marriage Registers, 1853-1935",
-    "lastUpdatedMillis": 1590154745589,
+    "lastUpdatedMillis": 1590797157715,
     "startYear": 1853,
     "endYear": 1935,
     "placeIds": [
@@ -40732,8 +40822,8 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 51502,
-    "imageCount": 1728,
+    "recordCount": 57959,
+    "imageCount": 1936,
     "waypointUrl": null
   },
   {
@@ -41532,6 +41622,21 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2300675/waypoints"
   },
   {
+    "collectionId": "3418468",
+    "title": "Washington, County Birth Registers, 1873-1965",
+    "lastUpdatedMillis": 1590771451278,
+    "startYear": 1873,
+    "endYear": 1965,
+    "placeIds": [
+      58
+    ],
+    "recordType": "VITAL",
+    "region": "UNITED_STATES",
+    "recordCount": 124,
+    "imageCount": 8,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "1389738",
     "title": "Washington, County Deaths, 1891-1907",
     "lastUpdatedMillis": 1339593354000,
@@ -42194,7 +42299,7 @@
   {
     "collectionId": "1803973",
     "title": "Wisconsin, County Marriages, 1836-1911",
-    "lastUpdatedMillis": 1580403378374,
+    "lastUpdatedMillis": 1590545882414,
     "startYear": 1836,
     "endYear": 1911,
     "placeIds": [
@@ -42202,14 +42307,14 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 755345,
+    "recordCount": 218537,
     "imageCount": 0,
     "waypointUrl": null
   },
   {
     "collectionId": "2046887",
     "title": "Wisconsin, County Naturalization Records, 1807-1992",
-    "lastUpdatedMillis": 1395705402381,
+    "lastUpdatedMillis": 1590774403806,
     "startYear": 1807,
     "endYear": 1992,
     "placeIds": [
@@ -42217,7 +42322,7 @@
     ],
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
-    "recordCount": 0,
+    "recordCount": 150768,
     "imageCount": 1135393,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2046887/waypoints"
   },
@@ -42344,7 +42449,7 @@
   {
     "collectionId": "3714667",
     "title": "Wisconsin, Milwaukee, Holy Cross Cemetery, Interment Records, 1909-1979",
-    "lastUpdatedMillis": 1590116443202,
+    "lastUpdatedMillis": 1590798378743,
     "startYear": 1909,
     "endYear": 1979,
     "placeIds": [
@@ -42539,7 +42644,7 @@
   {
     "collectionId": "3736255",
     "title": "Zambia, Archdiocese of Lusaka, Church Records, 1950-2015",
-    "lastUpdatedMillis": 1590154489784,
+    "lastUpdatedMillis": 1590767992812,
     "startYear": 1950,
     "endYear": 2015,
     "placeIds": [
@@ -42547,8 +42652,8 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 506,
-    "imageCount": 25,
+    "recordCount": 1855,
+    "imageCount": 127,
     "waypointUrl": null
   },
   {
