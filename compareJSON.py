@@ -53,17 +53,20 @@ def imageStringWithDiffs(idxCount, imgCount, oldCount, oldImages):
 	retStr += " (was %s records with %s images)" % (oldidxStr, oldimgStr)
 	return retStr
 	
-def printCollection(coll, action):
-	ts = datetime.datetime.fromtimestamp(int(coll[u'lastUpdatedMillis'])//1000)
-	stStr = ts.strftime('%d-%b-%Y')
+def printCollection(aColl, action, withTimeStamp):
 	
-	idxCnt = int(coll[u'recordCount'])
-	imgCnt = int(coll[u'recordCount'])
+	idxCnt = int(aColl[u'recordCount'])
+	imgCnt = int(aColl[u'recordCount'])
 	imgStr = imageString(idxCnt, imgCnt)
-	print "%s\t(https://familysearch.org/search/collection/%s); %s, %s %s" % (coll[u'title'], coll[u'collectionId'], imgStr, action, stStr)
+	if withTimeStamp:
+		ts = datetime.datetime.fromtimestamp(int(aColl[u'lastUpdatedMillis'])//1000)
+		stStr = ts.strftime('%d-%b-%Y')
+		print "%s\t(https://familysearch.org/search/collection/%s); %s, %s %s" % (aColl[u'title'], aColl[u'collectionId'], imgStr, action, stStr)
+	else:
+		print "%s\t(https://familysearch.org/search/collection/%s); %s, %s"    % (aColl[u'title'], aColl[u'collectionId'], imgStr, action)
 
 def printCollectionWithDiffs(newColl, oldColl, action):
-	ts = datetime.datetime.fromtimestamp(int(coll[u'lastUpdatedMillis'])//1000)
+	ts = datetime.datetime.fromtimestamp(int(newColl[u'lastUpdatedMillis'])//1000)
 	stStr = ts.strftime('%d-%b-%Y')
 
 	idxCnt = int(newColl[u'recordCount'])
@@ -72,10 +75,10 @@ def printCollectionWithDiffs(newColl, oldColl, action):
 	print "%s\t(https://familysearch.org/search/collection/%s); %s, %s %s" % (newColl[u'title'], newColl[u'collectionId'], imgStr, action, stStr)
 
 
-def printDict(d, label, action):
+def printDict(d, label, action, withTimeStamp = True):
 	print label
 	for k in d.keys():
-		printCollection(d[k], action)
+		printCollection(d[k], action, withTimeStamp)
 #		print "%s\t(https://familysearch.org/search/collection/%s); xxx, Updated %s" % (d[k][u'title'], d[k][u'collectionId'], d[k][u'lastUpdate'])
 
 def printDictWithDiffs(d, label, action):
@@ -152,7 +155,7 @@ for coll in oldJSON:
 	if not newEntries.has_key(id):
 		removed[id] = coll
 
-printDict(removed, "--- Collections Deleted ---", "DELETED")
+printDict(removed, "--- Collections Deleted ---", "DELETED", False)
 print
 printDict(added,   "--- Collections Added   ---", "ADDED")
 print
