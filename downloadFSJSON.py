@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
 # switched from /usr/bin/python for working SSL support
 # 
 import sys, os, re

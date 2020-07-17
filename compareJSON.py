@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # 
 # A script for comparing two collection lists from familysearch.org
 # The lists are JSON files, where the entry 'collections' points to 
