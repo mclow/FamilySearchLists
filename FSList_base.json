@@ -546,7 +546,7 @@
   {
     "collectionId": "4138678",
     "title": "Alaska, WWII Statement of Service Records, 1948-1949",
-    "lastUpdatedMillis": 1615308832038,
+    "lastUpdatedMillis": 1623799043899,
     "startYear": 1948,
     "endYear": 1949,
     "placeIds": [
@@ -554,9 +554,9 @@
     ],
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
-    "recordCount": 8524,
-    "imageCount": 8507,
-    "fsImageCount": 8507,
+    "recordCount": 8638,
+    "imageCount": 8621,
+    "fsImageCount": 8621,
     "waypointUrl": null
   },
   {
@@ -1611,8 +1611,8 @@
     "recordType": "LEGAL",
     "region": "UNITED_STATES",
     "recordCount": 61611,
-    "imageCount": 61480,
-    "fsImageCount": 61480,
+    "imageCount": 61425,
+    "fsImageCount": 61425,
     "waypointUrl": null
   },
   {
@@ -2763,8 +2763,8 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 205797,
-    "imageCount": 46258,
-    "fsImageCount": 46258,
+    "imageCount": 30041,
+    "fsImageCount": 30041,
     "waypointUrl": null
   },
   {
@@ -2882,7 +2882,7 @@
   {
     "collectionId": "1404451",
     "title": "Austria, Vienna Population Cards, 1850-1896",
-    "lastUpdatedMillis": 1615374050202,
+    "lastUpdatedMillis": 1623881731334,
     "startYear": 1850,
     "endYear": 1896,
     "placeIds": [
@@ -2891,8 +2891,8 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 598792,
-    "imageCount": 188034,
-    "fsImageCount": 188034,
+    "imageCount": 185801,
+    "fsImageCount": 185801,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1404451/waypoints"
   },
   {
@@ -3490,7 +3490,7 @@
   {
     "collectionId": "3479702",
     "title": "Brazil, Minas Gerais, Civil Registration, 1879-1949",
-    "lastUpdatedMillis": 1623462686725,
+    "lastUpdatedMillis": 1624072268783,
     "startYear": 1879,
     "endYear": 1949,
     "placeIds": [
@@ -3498,9 +3498,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 499365,
-    "imageCount": 212685,
-    "fsImageCount": 212685,
+    "recordCount": 505528,
+    "imageCount": 215243,
+    "fsImageCount": 215243,
     "waypointUrl": null
   },
   {
@@ -3522,7 +3522,7 @@
   {
     "collectionId": "2016194",
     "title": "Brazil, Paran\u00e1, Civil Registration, 1852-1996",
-    "lastUpdatedMillis": 1622558647742,
+    "lastUpdatedMillis": 1623939693348,
     "startYear": 1852,
     "endYear": 1996,
     "placeIds": [
@@ -3530,7 +3530,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 1857870,
+    "recordCount": 1875407,
     "imageCount": 1689031,
     "fsImageCount": 1689031,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2016194/waypoints"
@@ -3762,7 +3762,7 @@
   {
     "collectionId": "2016197",
     "title": "Brazil, Santa Catarina, Civil Registration, 1850-1999",
-    "lastUpdatedMillis": 1623463271163,
+    "lastUpdatedMillis": 1624056699570,
     "startYear": 1850,
     "endYear": 1999,
     "placeIds": [
@@ -3770,7 +3770,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 461860,
+    "recordCount": 463214,
     "imageCount": 1038133,
     "fsImageCount": 1038133,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2016197/waypoints"
@@ -3842,7 +3842,7 @@
   {
     "collectionId": "2140223",
     "title": "Brazil, S\u00e3o Paulo, Immigration Cards, 1902-1980",
-    "lastUpdatedMillis": 1582257460763,
+    "lastUpdatedMillis": 1624025334814,
     "startYear": 1902,
     "endYear": 1980,
     "placeIds": [
@@ -3886,182 +3886,6 @@
     "imageCount": 128839,
     "fsImageCount": 128839,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1639714/waypoints"
-  },
-  {
-    "collectionId": "1307731",
-    "title": "British Columbia Birth Registrations, 1854-1903",
-    "lastUpdatedMillis": 1400102603182,
-    "startYear": 1854,
-    "endYear": 1903,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 11809,
-    "imageCount": 39635,
-    "fsImageCount": 39635,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1307731/waypoints"
-  },
-  {
-    "collectionId": "1538285",
-    "title": "British Columbia Death Registrations, 1872-1986; 1992-1993",
-    "lastUpdatedMillis": 1492107067286,
-    "startYear": 1872,
-    "endYear": 1986,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 958291,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "2014768",
-    "title": "British Columbia Estate Files, 1859-1949",
-    "lastUpdatedMillis": 1354183146000,
-    "startYear": 1859,
-    "endYear": 1949,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 783176,
-    "fsImageCount": 783176,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2014768/waypoints"
-  },
-  {
-    "collectionId": "1307718",
-    "title": "British Columbia Marriage Registrations, 1859-1932; 1937-1938",
-    "lastUpdatedMillis": 1454372809699,
-    "startYear": 1859,
-    "endYear": 1932,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 136877,
-    "imageCount": 141209,
-    "fsImageCount": 141209,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1307718/waypoints"
-  },
-  {
-    "collectionId": "2001101",
-    "title": "British Columbia Naturalization Records, 1859-1926",
-    "lastUpdatedMillis": 1621962207524,
-    "startYear": 1859,
-    "endYear": 1926,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "MIGRATION",
-    "region": "CANADA",
-    "recordCount": 17798,
-    "imageCount": 23240,
-    "fsImageCount": 23240,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001101/waypoints"
-  },
-  {
-    "collectionId": "2001882",
-    "title": "British Columbia Wills, 1861-1981",
-    "lastUpdatedMillis": 1340292590000,
-    "startYear": 1861,
-    "endYear": 1981,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 127172,
-    "fsImageCount": 127172,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001882/waypoints"
-  },
-  {
-    "collectionId": "2138499",
-    "title": "British Columbia, Crown Land Grant Records, 1851-1874",
-    "lastUpdatedMillis": 1403106419845,
-    "startYear": 1851,
-    "endYear": 1874,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 4567,
-    "fsImageCount": 4567,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2138499/waypoints"
-  },
-  {
-    "collectionId": "2052510",
-    "title": "British Columbia, Crown Land Grants, 1869-1930",
-    "lastUpdatedMillis": 1403111051574,
-    "startYear": 1869,
-    "endYear": 1930,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 540745,
-    "fsImageCount": 540745,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2052510/waypoints"
-  },
-  {
-    "collectionId": "2053657",
-    "title": "British Columbia, Crown Land Pre-emption Registers, 1860-1971",
-    "lastUpdatedMillis": 1403123647102,
-    "startYear": 1860,
-    "endYear": 1971,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 2408,
-    "fsImageCount": 2408,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2053657/waypoints"
-  },
-  {
-    "collectionId": "2060124",
-    "title": "British Columbia, Dominion Land Branch Records, 1885-1949",
-    "lastUpdatedMillis": 1403111287910,
-    "startYear": 1885,
-    "endYear": 1949,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 286123,
-    "fsImageCount": 286123,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2060124/waypoints"
-  },
-  {
-    "collectionId": "2001136",
-    "title": "British Columbia, Victoria Times Birth, Marriage and Death Notices, 1901-1939",
-    "lastUpdatedMillis": 1509376916430,
-    "startYear": 1901,
-    "endYear": 1939,
-    "placeIds": [
-      1929958
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 98461,
-    "imageCount": 111817,
-    "fsImageCount": 111817,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001136/waypoints"
   },
   {
     "collectionId": "2562514",
@@ -5346,6 +5170,182 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1823240/waypoints"
   },
   {
+    "collectionId": "1307731",
+    "title": "Canada, British Columbia Birth Registrations, 1854-1903",
+    "lastUpdatedMillis": 1400102603182,
+    "startYear": 1854,
+    "endYear": 1903,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 11809,
+    "imageCount": 39635,
+    "fsImageCount": 39635,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1307731/waypoints"
+  },
+  {
+    "collectionId": "2138499",
+    "title": "Canada, British Columbia Crown Land Grant Records, 1851-1874",
+    "lastUpdatedMillis": 1403106419845,
+    "startYear": 1851,
+    "endYear": 1874,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 4567,
+    "fsImageCount": 4567,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2138499/waypoints"
+  },
+  {
+    "collectionId": "2052510",
+    "title": "Canada, British Columbia Crown Land Grants, 1869-1930",
+    "lastUpdatedMillis": 1403111051574,
+    "startYear": 1869,
+    "endYear": 1930,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 540745,
+    "fsImageCount": 540745,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2052510/waypoints"
+  },
+  {
+    "collectionId": "2053657",
+    "title": "Canada, British Columbia Crown Land Pre-emption Registers, 1860-1971",
+    "lastUpdatedMillis": 1403123647102,
+    "startYear": 1860,
+    "endYear": 1971,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 2408,
+    "fsImageCount": 2408,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2053657/waypoints"
+  },
+  {
+    "collectionId": "1538285",
+    "title": "Canada, British Columbia Death Registrations, 1872-1986; 1992-1993",
+    "lastUpdatedMillis": 1492107067286,
+    "startYear": 1872,
+    "endYear": 1986,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 958291,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2060124",
+    "title": "Canada, British Columbia Dominion Land Branch Records, 1885-1949",
+    "lastUpdatedMillis": 1403111287910,
+    "startYear": 1885,
+    "endYear": 1949,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 286123,
+    "fsImageCount": 286123,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2060124/waypoints"
+  },
+  {
+    "collectionId": "2014768",
+    "title": "Canada, British Columbia Estate Files, 1859-1949",
+    "lastUpdatedMillis": 1354183146000,
+    "startYear": 1859,
+    "endYear": 1949,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 783176,
+    "fsImageCount": 783176,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2014768/waypoints"
+  },
+  {
+    "collectionId": "1307718",
+    "title": "Canada, British Columbia Marriage Registrations, 1859-1932; 1937-1938",
+    "lastUpdatedMillis": 1454372809699,
+    "startYear": 1859,
+    "endYear": 1932,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 136877,
+    "imageCount": 141209,
+    "fsImageCount": 141209,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1307718/waypoints"
+  },
+  {
+    "collectionId": "2001101",
+    "title": "Canada, British Columbia Naturalization Records, 1859-1926",
+    "lastUpdatedMillis": 1621962207524,
+    "startYear": 1859,
+    "endYear": 1926,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "MIGRATION",
+    "region": "CANADA",
+    "recordCount": 17798,
+    "imageCount": 23240,
+    "fsImageCount": 23240,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001101/waypoints"
+  },
+  {
+    "collectionId": "2001882",
+    "title": "Canada, British Columbia Wills, 1861-1981",
+    "lastUpdatedMillis": 1340292590000,
+    "startYear": 1861,
+    "endYear": 1981,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 127172,
+    "fsImageCount": 127172,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001882/waypoints"
+  },
+  {
+    "collectionId": "2001136",
+    "title": "Canada, British Columbia, Victoria Times Birth, Marriage and Death Notices, 1901-1939",
+    "lastUpdatedMillis": 1509376916430,
+    "startYear": 1901,
+    "endYear": 1939,
+    "placeIds": [
+      1929958
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 98461,
+    "imageCount": 111817,
+    "fsImageCount": 111817,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001136/waypoints"
+  },
+  {
     "collectionId": "1834346",
     "title": "Canada, Lower Canada Census, 1825",
     "lastUpdatedMillis": 1346242168000,
@@ -5394,6 +5394,54 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1834340/waypoints"
   },
   {
+    "collectionId": "2023280",
+    "title": "Canada, Manitoba Census Indexes, 1831-1870",
+    "lastUpdatedMillis": 1619710594998,
+    "startYear": 1831,
+    "endYear": 1870,
+    "placeIds": [
+      1929957
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 30729,
+    "fsImageCount": 30729,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2023280/waypoints"
+  },
+  {
+    "collectionId": "1992433",
+    "title": "Canada, Manitoba Church Records, 1800-1959",
+    "lastUpdatedMillis": 1619543963262,
+    "startYear": 1800,
+    "endYear": 1959,
+    "placeIds": [
+      1929957
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 6567,
+    "fsImageCount": 6567,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1992433/waypoints"
+  },
+  {
+    "collectionId": "1987562",
+    "title": "Canada, Manitoba Probate Records, 1871-1930",
+    "lastUpdatedMillis": 1449006413795,
+    "startYear": 1871,
+    "endYear": 1930,
+    "placeIds": [
+      1929957
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 51868,
+    "imageCount": 802992,
+    "fsImageCount": 802992,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1987562/waypoints"
+  },
+  {
     "collectionId": "2057673",
     "title": "Canada, Merchant Marine Agreements and Accounts of Crews, 1890-1920",
     "lastUpdatedMillis": 1357722329000,
@@ -5410,8 +5458,56 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2057673/waypoints"
   },
   {
+    "collectionId": "1805645",
+    "title": "Canada, New Brunswick Births and Baptisms, 1819-1899",
+    "lastUpdatedMillis": 1604677471591,
+    "startYear": 1819,
+    "endYear": 1899,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 44053,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1325208",
+    "title": "Canada, New Brunswick Census, 1861",
+    "lastUpdatedMillis": 1361886982000,
+    "startYear": 1861,
+    "endYear": 1861,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 200172,
+    "imageCount": 5165,
+    "fsImageCount": 5165,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1392378",
+    "title": "Canada, New Brunswick County Deed Registry Books, 1780-1930",
+    "lastUpdatedMillis": 1357901285000,
+    "startYear": 1780,
+    "endYear": 1930,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 792235,
+    "fsImageCount": 792235,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1392378/waypoints"
+  },
+  {
     "collectionId": "3734436",
-    "title": "Canada, New Brunswick, County Register of Births, 1801-1920",
+    "title": "Canada, New Brunswick County Register of Births, 1801-1920",
     "lastUpdatedMillis": 1604635901185,
     "startYear": 1801,
     "endYear": 1920,
@@ -5424,6 +5520,310 @@
     "imageCount": 17044,
     "fsImageCount": 17044,
     "waypointUrl": null
+  },
+  {
+    "collectionId": "2258166",
+    "title": "Canada, New Brunswick County Registers of Births Index, ca. 1812-1919",
+    "lastUpdatedMillis": 1604765000425,
+    "startYear": 1812,
+    "endYear": 1919,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 142670,
+    "imageCount": 5992,
+    "fsImageCount": 5992,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2258137",
+    "title": "Canada, New Brunswick County Registers of Births, ca. 1812-1919",
+    "lastUpdatedMillis": 1604765045182,
+    "startYear": 1812,
+    "endYear": 1919,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 51575,
+    "imageCount": 3754,
+    "fsImageCount": 3754,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2258137/waypoints"
+  },
+  {
+    "collectionId": "1840146",
+    "title": "Canada, New Brunswick Death Certificates, 1920-1934",
+    "lastUpdatedMillis": 1280311918000,
+    "startYear": 1920,
+    "endYear": 1934,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 76812,
+    "fsImageCount": 76812,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1840146/waypoints"
+  },
+  {
+    "collectionId": "1840145",
+    "title": "Canada, New Brunswick Death Certificates, 1935-1938",
+    "lastUpdatedMillis": 1280311958000,
+    "startYear": 1935,
+    "endYear": 1938,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 16806,
+    "fsImageCount": 16806,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1840145/waypoints"
+  },
+  {
+    "collectionId": "1967766",
+    "title": "Canada, New Brunswick Late Registration of Births, 1810-1899",
+    "lastUpdatedMillis": 1555697827840,
+    "startYear": 1810,
+    "endYear": 1899,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 24067,
+    "imageCount": 24015,
+    "fsImageCount": 24015,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1967766/waypoints"
+  },
+  {
+    "collectionId": "2001063",
+    "title": "Canada, New Brunswick Marriage Registers, 1789-1889",
+    "lastUpdatedMillis": 1339405754000,
+    "startYear": 1789,
+    "endYear": 1889,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 7459,
+    "fsImageCount": 7459,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001063/waypoints"
+  },
+  {
+    "collectionId": "1840147",
+    "title": "Canada, New Brunswick Provincial Deaths, 1815-1938",
+    "lastUpdatedMillis": 1304575641000,
+    "startYear": 1815,
+    "endYear": 1938,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 172406,
+    "imageCount": 177815,
+    "fsImageCount": 177815,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1840147/waypoints"
+  },
+  {
+    "collectionId": "1824707",
+    "title": "Canada, New Brunswick Provincial Marriages 1789-1950",
+    "lastUpdatedMillis": 1425647477298,
+    "startYear": 1789,
+    "endYear": 1950,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 303599,
+    "imageCount": 268525,
+    "fsImageCount": 268525,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1824707/waypoints"
+  },
+  {
+    "collectionId": "1726660",
+    "title": "Canada, New Brunswick Provincial Returns of Births and Late Registrations, 1810-1906",
+    "lastUpdatedMillis": 1356018036000,
+    "startYear": 1810,
+    "endYear": 1906,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 160214,
+    "imageCount": 161646,
+    "fsImageCount": 161646,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1726660/waypoints"
+  },
+  {
+    "collectionId": "1719804",
+    "title": "Canada, New Brunswick Provincial Returns of Deaths, 1815-1919",
+    "lastUpdatedMillis": 1280311873000,
+    "startYear": 1815,
+    "endYear": 1919,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 80741,
+    "fsImageCount": 80741,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1719804/waypoints"
+  },
+  {
+    "collectionId": "2001065",
+    "title": "Canada, New Brunswick Provincial Returns of Marriages and Late Registrations, 1920-1950",
+    "lastUpdatedMillis": 1338886294000,
+    "startYear": 1920,
+    "endYear": 1950,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 119291,
+    "fsImageCount": 119291,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001065/waypoints"
+  },
+  {
+    "collectionId": "2001064",
+    "title": "Canada, New Brunswick Provincial Returns of Marriages, 1887-1919",
+    "lastUpdatedMillis": 1338886263000,
+    "startYear": 1887,
+    "endYear": 1919,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 141775,
+    "fsImageCount": 141775,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001064/waypoints"
+  },
+  {
+    "collectionId": "2250090",
+    "title": "Canada, New Brunswick, Saint John, Saint John Burial Permits, 1889-1919",
+    "lastUpdatedMillis": 1495025031124,
+    "startYear": 1889,
+    "endYear": 1919,
+    "placeIds": [
+      1929956
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 28555,
+    "imageCount": 13902,
+    "fsImageCount": 13902,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2250090/waypoints"
+  },
+  {
+    "collectionId": "2226517",
+    "title": "Canada, Newfoundland Census, 1921",
+    "lastUpdatedMillis": 1426864689261,
+    "startYear": 1921,
+    "endYear": 1921,
+    "placeIds": [
+      1929955
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 218865,
+    "imageCount": 8415,
+    "fsImageCount": 8415,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2226517/waypoints"
+  },
+  {
+    "collectionId": "2246711",
+    "title": "Canada, Newfoundland Census, 1935",
+    "lastUpdatedMillis": 1429717387439,
+    "startYear": 1935,
+    "endYear": 1935,
+    "placeIds": [
+      1929955
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 296231,
+    "imageCount": 9509,
+    "fsImageCount": 9509,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2246711/waypoints"
+  },
+  {
+    "collectionId": "2246699",
+    "title": "Canada, Newfoundland Census, 1945",
+    "lastUpdatedMillis": 1429735048224,
+    "startYear": 1945,
+    "endYear": 1945,
+    "placeIds": [
+      1929955
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 328362,
+    "imageCount": 7457,
+    "fsImageCount": 7457,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2246699/waypoints"
+  },
+  {
+    "collectionId": "1939435",
+    "title": "Canada, Newfoundland Church Records, 1793-1945",
+    "lastUpdatedMillis": 1619475782663,
+    "startYear": 1793,
+    "endYear": 1945,
+    "placeIds": [
+      1929955
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 6071,
+    "fsImageCount": 6071,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1939435/waypoints"
+  },
+  {
+    "collectionId": "1790939",
+    "title": "Canada, Newfoundland Vital Records, 1840-1949",
+    "lastUpdatedMillis": 1433950358113,
+    "startYear": 1840,
+    "endYear": 1949,
+    "placeIds": [
+      1929955
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 363845,
+    "imageCount": 58839,
+    "fsImageCount": 58839,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1790939/waypoints"
+  },
+  {
+    "collectionId": "1793777",
+    "title": "Canada, Newfoundland Vital Statistics, 1753-1893",
+    "lastUpdatedMillis": 1431089054292,
+    "startYear": 1753,
+    "endYear": 1893,
+    "placeIds": [
+      1929955
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 191573,
+    "imageCount": 14649,
+    "fsImageCount": 14649,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1793777/waypoints"
   },
   {
     "collectionId": "1584925",
@@ -5442,9 +5842,457 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "1810407",
+    "title": "Canada, Nova Scotia Births and Baptisms, 1702-1896",
+    "lastUpdatedMillis": 1604709443024,
+    "startYear": 1702,
+    "endYear": 1896,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 183534,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2243378",
+    "title": "Canada, Nova Scotia Births, 1864-1877",
+    "lastUpdatedMillis": 1604972749569,
+    "startYear": 1864,
+    "endYear": 1877,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 322004,
+    "imageCount": 35026,
+    "fsImageCount": 35026,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2243378/waypoints"
+  },
+  {
+    "collectionId": "1460163",
+    "title": "Canada, Nova Scotia Census, 1861",
+    "lastUpdatedMillis": 1269430142000,
+    "startYear": 1861,
+    "endYear": 1861,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 57453,
+    "imageCount": 1588,
+    "fsImageCount": 1588,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1925428",
+    "title": "Canada, Nova Scotia Church Records, 1720-2001",
+    "lastUpdatedMillis": 1619677675320,
+    "startYear": 1720,
+    "endYear": 2001,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 215258,
+    "imageCount": 16188,
+    "fsImageCount": 16188,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1925428/waypoints"
+  },
+  {
+    "collectionId": "2365251",
+    "title": "Canada, Nova Scotia Church and Civil Records, 1727-1884",
+    "lastUpdatedMillis": 1604765119633,
+    "startYear": 1727,
+    "endYear": 1884,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 870,
+    "imageCount": 246,
+    "fsImageCount": 246,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2242825",
+    "title": "Canada, Nova Scotia Deaths, 1864-1877",
+    "lastUpdatedMillis": 1604952795933,
+    "startYear": 1864,
+    "endYear": 1877,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 171770,
+    "imageCount": 27717,
+    "fsImageCount": 27717,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2242825/waypoints"
+  },
+  {
+    "collectionId": "2251294",
+    "title": "Canada, Nova Scotia Deaths, 1890-1955",
+    "lastUpdatedMillis": 1429799594063,
+    "startYear": 1890,
+    "endYear": 1955,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 336983,
+    "imageCount": 251097,
+    "fsImageCount": 251097,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2251294/waypoints"
+  },
+  {
+    "collectionId": "2251301",
+    "title": "Canada, Nova Scotia Deaths, 1956-1957",
+    "lastUpdatedMillis": 1429798973632,
+    "startYear": 1956,
+    "endYear": 1957,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 11869,
+    "imageCount": 12185,
+    "fsImageCount": 12185,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2251301/waypoints"
+  },
+  {
+    "collectionId": "2241429",
+    "title": "Canada, Nova Scotia Delayed Births, 1837-1904",
+    "lastUpdatedMillis": 1600956721883,
+    "startYear": 1837,
+    "endYear": 1904,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 117040,
+    "imageCount": 70782,
+    "fsImageCount": 70782,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2241429/waypoints"
+  },
+  {
+    "collectionId": "1810409",
+    "title": "Canada, Nova Scotia Marriages, 1711-1909",
+    "lastUpdatedMillis": 1604709445389,
+    "startYear": 1711,
+    "endYear": 1909,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 20070,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2242886",
+    "title": "Canada, Nova Scotia Marriages, 1864-1918",
+    "lastUpdatedMillis": 1620998896385,
+    "startYear": 1864,
+    "endYear": 1918,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 372311,
+    "imageCount": 21950,
+    "fsImageCount": 21950,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2242886/waypoints"
+  },
+  {
+    "collectionId": "2241441",
+    "title": "Canada, Nova Scotia Marriages, 1907-1932",
+    "lastUpdatedMillis": 1426106868554,
+    "startYear": 1907,
+    "endYear": 1932,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 66106,
+    "imageCount": 67444,
+    "fsImageCount": 67444,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2241441/waypoints"
+  },
+  {
+    "collectionId": "2134302",
+    "title": "Canada, Nova Scotia Probate Records, 1760-1993",
+    "lastUpdatedMillis": 1415121346611,
+    "startYear": 1760,
+    "endYear": 1993,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 1395009,
+    "fsImageCount": 1395009,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2134302/waypoints"
+  },
+  {
+    "collectionId": "1952893",
+    "title": "Canada, Nova Scotia Vital Records, 1763-1957",
+    "lastUpdatedMillis": 1357336944000,
+    "startYear": 1763,
+    "endYear": 1957,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 807577,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1392507",
+    "title": "Canada, Nova Scotia, Antigonish Catholic Diocese, 1823-1905",
+    "lastUpdatedMillis": 1354125612000,
+    "startYear": 1823,
+    "endYear": 1905,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 91875,
+    "imageCount": 10838,
+    "fsImageCount": 10838,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1392507/waypoints"
+  },
+  {
+    "collectionId": "1808846",
+    "title": "Canada, Nova Scotia, Halifax County Deed Indexes, 1749-1958",
+    "lastUpdatedMillis": 1338886202000,
+    "startYear": 1749,
+    "endYear": 1958,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 23008,
+    "fsImageCount": 23008,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1808846/waypoints"
+  },
+  {
+    "collectionId": "1918186",
+    "title": "Canada, Nova Scotia, Queens County Notes of Thomas Brenton Smith, 1700-1950",
+    "lastUpdatedMillis": 1389961417000,
+    "startYear": 1700,
+    "endYear": 1950,
+    "placeIds": [
+      1929953
+    ],
+    "recordType": "MISCELLANEOUS",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 30314,
+    "fsImageCount": 30314,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1918186/waypoints"
+  },
+  {
+    "collectionId": "1805649",
+    "title": "Canada, Ontario Births and Baptisms, 1779-1899",
+    "lastUpdatedMillis": 1617319915358,
+    "startYear": 1779,
+    "endYear": 1899,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 1324019,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1784212",
+    "title": "Canada, Ontario Births, 1869-1912",
+    "lastUpdatedMillis": 1581187660491,
+    "startYear": 1869,
+    "endYear": 1912,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 1601642,
+    "imageCount": 411526,
+    "fsImageCount": 411526,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1784212/waypoints"
+  },
+  {
+    "collectionId": "1460164",
+    "title": "Canada, Ontario Census, 1861",
+    "lastUpdatedMillis": 1303214738000,
+    "startYear": 1861,
+    "endYear": 1861,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 1709804,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2385200",
+    "title": "Canada, Ontario Church and Civil Records, 1801-1948",
+    "lastUpdatedMillis": 1604766042777,
+    "startYear": 1801,
+    "endYear": 1948,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 27423,
+    "imageCount": 2375,
+    "fsImageCount": 2375,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2568642",
+    "title": "Canada, Ontario County Marriage Registers, 1858-1869",
+    "lastUpdatedMillis": 1490984895564,
+    "startYear": 1858,
+    "endYear": 1869,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 100331,
+    "imageCount": 9447,
+    "fsImageCount": 9447,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2568642/waypoints"
+  },
+  {
+    "collectionId": "1307826",
+    "title": "Canada, Ontario Deaths, 1869-1937 and Overseas Deaths, 1939-1947",
+    "lastUpdatedMillis": 1614733451209,
+    "startYear": 1869,
+    "endYear": 1947,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 2050112,
+    "imageCount": 942237,
+    "fsImageCount": 942237,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1307826/waypoints"
+  },
+  {
+    "collectionId": "2569151",
+    "title": "Canada, Ontario District Marriage Registers, 1801-1858",
+    "lastUpdatedMillis": 1542123186903,
+    "startYear": 1801,
+    "endYear": 1858,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 32465,
+    "imageCount": 2738,
+    "fsImageCount": 2738,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2569151/waypoints"
+  },
+  {
+    "collectionId": "3741251",
+    "title": "Canada, Ontario Immigration Records, 1862-1897",
+    "lastUpdatedMillis": 1604602643010,
+    "startYear": 1862,
+    "endYear": 1897,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "MIGRATION",
+    "region": "CANADA",
+    "recordCount": 17421,
+    "imageCount": 4277,
+    "fsImageCount": 4277,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1810408",
+    "title": "Canada, Ontario Marriages, 1800-1910",
+    "lastUpdatedMillis": 1617319915358,
+    "startYear": 1800,
+    "endYear": 1910,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 27357,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1784216",
+    "title": "Canada, Ontario Marriages, 1869-1927",
+    "lastUpdatedMillis": 1432850380873,
+    "startYear": 1869,
+    "endYear": 1927,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 1382652,
+    "imageCount": 1162449,
+    "fsImageCount": 1162449,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1784216/waypoints"
+  },
+  {
+    "collectionId": "1927566",
+    "title": "Canada, Ontario Roman Catholic Church Records, 1760-1923",
+    "lastUpdatedMillis": 1619058947335,
+    "startYear": 1760,
+    "endYear": 1923,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 126534,
+    "fsImageCount": 126534,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1927566/waypoints"
+  },
+  {
     "collectionId": "4130007",
     "title": "Canada, Ontario Tax Assessment Rolls, 1834-1899",
-    "lastUpdatedMillis": 1616537073543,
+    "lastUpdatedMillis": 1623774782028,
     "startYear": 1834,
     "endYear": 1899,
     "placeIds": [
@@ -5452,10 +6300,42 @@
     ],
     "recordType": "LEGAL",
     "region": "CANADA",
-    "recordCount": 537802,
-    "imageCount": 25482,
-    "fsImageCount": 25482,
+    "recordCount": 975342,
+    "imageCount": 47007,
+    "fsImageCount": 47007,
     "waypointUrl": null
+  },
+  {
+    "collectionId": "3007501",
+    "title": "Canada, Ontario, Toronto Cemetery Records, 1989-1995",
+    "lastUpdatedMillis": 1597256402570,
+    "startYear": 1989,
+    "endYear": 1995,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 77200,
+    "imageCount": 6806,
+    "fsImageCount": 6806,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1627831",
+    "title": "Canada, Ontario, Toronto Trust Cemeteries, 1826-1989",
+    "lastUpdatedMillis": 1613827494203,
+    "startYear": 1826,
+    "endYear": 1935,
+    "placeIds": [
+      1929952
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 150838,
+    "imageCount": 7234,
+    "fsImageCount": 7234,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1627831/waypoints"
   },
   {
     "collectionId": "1529118",
@@ -5490,6 +6370,214 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/3005862/waypoints"
   },
   {
+    "collectionId": "1827217",
+    "title": "Canada, Prince Edward Island Baptism Card Index, 1721-1885",
+    "lastUpdatedMillis": 1349088199000,
+    "startYear": 1721,
+    "endYear": 1885,
+    "placeIds": [
+      1929951
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 92218,
+    "imageCount": 92700,
+    "fsImageCount": 92700,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1827217/waypoints"
+  },
+  {
+    "collectionId": "1460172",
+    "title": "Canada, Prince Edward Island Census, 1861",
+    "lastUpdatedMillis": 1269430686000,
+    "startYear": 1861,
+    "endYear": 1861,
+    "placeIds": [
+      1929951
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 25315,
+    "imageCount": 1728,
+    "fsImageCount": 1728,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1937794",
+    "title": "Canada, Prince Edward Island Church Records, 1777-1985",
+    "lastUpdatedMillis": 1354871752000,
+    "startYear": 1777,
+    "endYear": 1985,
+    "placeIds": [
+      1929951
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 22448,
+    "fsImageCount": 22448,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1937794/waypoints"
+  },
+  {
+    "collectionId": "1827236",
+    "title": "Canada, Prince Edward Island Death Card Index, 1721-1905",
+    "lastUpdatedMillis": 1442856919239,
+    "startYear": 1721,
+    "endYear": 1905,
+    "placeIds": [
+      1929951
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 16686,
+    "imageCount": 15903,
+    "fsImageCount": 15903,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1827236/waypoints"
+  },
+  {
+    "collectionId": "1827167",
+    "title": "Canada, Prince Edward Island Marriage Registers, 1832-1888",
+    "lastUpdatedMillis": 1426077694345,
+    "startYear": 1832,
+    "endYear": 1888,
+    "placeIds": [
+      1929951
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 20262,
+    "imageCount": 3428,
+    "fsImageCount": 3428,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1827167/waypoints"
+  },
+  {
+    "collectionId": "1810411",
+    "title": "Canada, Quebec Births and Baptisms, 1662-1898",
+    "lastUpdatedMillis": 1584479756016,
+    "startYear": 1662,
+    "endYear": 1898,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 54127,
+    "imageCount": 0,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1321742",
+    "title": "Canada, Quebec Catholic Parish Registers, 1621-1979",
+    "lastUpdatedMillis": 1609888998977,
+    "startYear": 1621,
+    "endYear": 1979,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 79535,
+    "imageCount": 1398741,
+    "fsImageCount": 1398741,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1321742/waypoints"
+  },
+  {
+    "collectionId": "1460173",
+    "title": "Canada, Quebec Census, 1861",
+    "lastUpdatedMillis": 1296141012000,
+    "startYear": 1861,
+    "endYear": 1861,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "CENSUS",
+    "region": "CANADA",
+    "recordCount": 1094774,
+    "imageCount": 44327,
+    "fsImageCount": 44327,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2461313",
+    "title": "Canada, Quebec Index to Civil Copy of Church Records, 1642-1902",
+    "lastUpdatedMillis": 1432925029671,
+    "startYear": 1642,
+    "endYear": 1902,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 1300530,
+    "fsImageCount": 1300530,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2461313/waypoints"
+  },
+  {
+    "collectionId": "1929561",
+    "title": "Canada, Quebec Non-Catholic Parish Registers, 1763-1967",
+    "lastUpdatedMillis": 1337185658000,
+    "startYear": 1763,
+    "endYear": 1967,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 278512,
+    "fsImageCount": 278512,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1929561/waypoints"
+  },
+  {
+    "collectionId": "1471015",
+    "title": "Canada, Quebec Notarial Records, 1800-1920",
+    "lastUpdatedMillis": 1492695386991,
+    "startYear": 1800,
+    "endYear": 1920,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 4956093,
+    "fsImageCount": 4956093,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1471015/waypoints"
+  },
+  {
+    "collectionId": "2558681",
+    "title": "Canada, Quebec, Quebec Federation of Genealogical Societies, Family Origins, 1621-1865",
+    "lastUpdatedMillis": 1523635202913,
+    "startYear": 1621,
+    "endYear": 1865,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "MIGRATION",
+    "region": "CANADA",
+    "recordCount": 6168,
+    "imageCount": 6168,
+    "fsImageCount": 0,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "1399459",
+    "title": "Canada, Quebec, Quebec Judicial District, Guardianships, 1639-1930",
+    "lastUpdatedMillis": 1403039112962,
+    "startYear": 1639,
+    "endYear": 1930,
+    "placeIds": [
+      1929950
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 310188,
+    "fsImageCount": 310188,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1399459/waypoints"
+  },
+  {
     "collectionId": "1425003",
     "title": "Canada, Royal Canadian Mounted Police obituary card index and notices, 1876-2007",
     "lastUpdatedMillis": 1350059483000,
@@ -5504,6 +6592,86 @@
     "imageCount": 9476,
     "fsImageCount": 9476,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1425003/waypoints"
+  },
+  {
+    "collectionId": "2001071",
+    "title": "Canada, Saskatchewan Catholic Church Records, 1846-1957",
+    "lastUpdatedMillis": 1617319915358,
+    "startYear": 1846,
+    "endYear": 1957,
+    "placeIds": [
+      1929949
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 33137,
+    "imageCount": 6587,
+    "fsImageCount": 6587,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001071/waypoints"
+  },
+  {
+    "collectionId": "2258205",
+    "title": "Canada, Saskatchewan Cemetery Transcripts, ca. 1850-1994",
+    "lastUpdatedMillis": 1430332833017,
+    "startYear": 1850,
+    "endYear": 2015,
+    "placeIds": [
+      1929949
+    ],
+    "recordType": "VITAL",
+    "region": "CANADA",
+    "recordCount": 164737,
+    "imageCount": 139318,
+    "fsImageCount": 139318,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2258205/waypoints"
+  },
+  {
+    "collectionId": "1392587",
+    "title": "Canada, Saskatchewan Judicial District Court Records, 1891-1954",
+    "lastUpdatedMillis": 1403040064544,
+    "startYear": 1891,
+    "endYear": 1954,
+    "placeIds": [
+      1929949
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 203047,
+    "fsImageCount": 203047,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1392587/waypoints"
+  },
+  {
+    "collectionId": "1918293",
+    "title": "Canada, Saskatchewan Probate Estate Files, 1887-1931",
+    "lastUpdatedMillis": 1395693954010,
+    "startYear": 1887,
+    "endYear": 1931,
+    "placeIds": [
+      1929949
+    ],
+    "recordType": "LEGAL",
+    "region": "CANADA",
+    "recordCount": 41130,
+    "imageCount": 1903391,
+    "fsImageCount": 1903391,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1918293/waypoints"
+  },
+  {
+    "collectionId": "1916143",
+    "title": "Canada, Saskatchewan Provincial Records, 1879-1987",
+    "lastUpdatedMillis": 1398365240757,
+    "startYear": 1879,
+    "endYear": 1987,
+    "placeIds": [
+      1929949
+    ],
+    "recordType": "MISCELLANEOUS",
+    "region": "CANADA",
+    "recordCount": 0,
+    "imageCount": 1506449,
+    "fsImageCount": 1506449,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1916143/waypoints"
   },
   {
     "collectionId": "1834342",
@@ -5773,7 +6941,7 @@
   {
     "collectionId": "3405096",
     "title": "Chile, Catholic Church Records, 1710-1928",
-    "lastUpdatedMillis": 1622861132747,
+    "lastUpdatedMillis": 1624072742512,
     "startYear": 1710,
     "endYear": 1928,
     "placeIds": [
@@ -6589,7 +7757,7 @@
   {
     "collectionId": "1875189",
     "title": "Croatia, Delnice Deanery Catholic Church Books, 1571-1926",
-    "lastUpdatedMillis": 1622646600424,
+    "lastUpdatedMillis": 1624033872465,
     "startYear": 1571,
     "endYear": 1926,
     "placeIds": [
@@ -6597,7 +7765,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 223226,
+    "recordCount": 226545,
     "imageCount": 3485,
     "fsImageCount": 3485,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1875189/waypoints"
@@ -6717,7 +7885,7 @@
   {
     "collectionId": "1804263",
     "title": "Czech Republic, Church Books, 1552-1981",
-    "lastUpdatedMillis": 1622073137898,
+    "lastUpdatedMillis": 1624030716184,
     "startYear": 1552,
     "endYear": 1963,
     "placeIds": [
@@ -6725,7 +7893,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 211793,
+    "recordCount": 213590,
     "imageCount": 4668489,
     "fsImageCount": 4668489,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1804263/waypoints"
@@ -7503,7 +8671,7 @@
   {
     "collectionId": "2243379",
     "title": "Denmark, Military Conscription Rolls, 1789-1792",
-    "lastUpdatedMillis": 1621564297137,
+    "lastUpdatedMillis": 1623971239828,
     "startYear": 1789,
     "endYear": 1792,
     "placeIds": [
@@ -7511,7 +8679,7 @@
     ],
     "recordType": "MILITARY",
     "region": "EUROPE",
-    "recordCount": 176653,
+    "recordCount": 177700,
     "imageCount": 9228,
     "fsImageCount": 9228,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2243379/waypoints"
@@ -7544,8 +8712,8 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 71316,
-    "imageCount": 5052,
-    "fsImageCount": 5052,
+    "imageCount": 3000,
+    "fsImageCount": 3000,
     "waypointUrl": null
   },
   {
@@ -7935,7 +9103,7 @@
   {
     "collectionId": "1919582",
     "title": "El Salvador Catholic Church Records, 1655-1977",
-    "lastUpdatedMillis": 1623463383042,
+    "lastUpdatedMillis": 1624075879767,
     "startYear": 1655,
     "endYear": 1977,
     "placeIds": [
@@ -7943,7 +9111,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 962296,
+    "recordCount": 972597,
     "imageCount": 592191,
     "fsImageCount": 592191,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1919582/waypoints"
@@ -8374,8 +9542,8 @@
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "recordCount": 912811,
-    "imageCount": 109223,
-    "fsImageCount": 109223,
+    "imageCount": 109147,
+    "fsImageCount": 109147,
     "waypointUrl": null
   },
   {
@@ -8957,7 +10125,7 @@
   {
     "collectionId": "3584542",
     "title": "England, Essex Non-Conformist Church Records, 1613-1971",
-    "lastUpdatedMillis": 1623463675307,
+    "lastUpdatedMillis": 1624075627322,
     "startYear": 1613,
     "endYear": 1971,
     "placeIds": [
@@ -8965,9 +10133,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 133593,
-    "imageCount": 13734,
-    "fsImageCount": 13734,
+    "recordCount": 135721,
+    "imageCount": 13979,
+    "fsImageCount": 13979,
     "waypointUrl": null
   },
   {
@@ -9005,7 +10173,7 @@
   {
     "collectionId": "3648679",
     "title": "England, Gloucestershire Non-Conformist Church Records, 1642-1996",
-    "lastUpdatedMillis": 1623456910056,
+    "lastUpdatedMillis": 1624052755585,
     "startYear": 1642,
     "endYear": 1996,
     "placeIds": [
@@ -9013,9 +10181,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 133638,
-    "imageCount": 49365,
-    "fsImageCount": 49365,
+    "recordCount": 134069,
+    "imageCount": 49447,
+    "fsImageCount": 49447,
     "waypointUrl": null
   },
   {
@@ -9053,7 +10221,7 @@
   {
     "collectionId": "3155913",
     "title": "England, Herefordshire Bishop's Transcripts, 1583-1898",
-    "lastUpdatedMillis": 1623463802318,
+    "lastUpdatedMillis": 1624034974588,
     "startYear": 1583,
     "endYear": 1898,
     "placeIds": [
@@ -9061,15 +10229,15 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 1543952,
-    "imageCount": 115025,
-    "fsImageCount": 115025,
+    "recordCount": 1544854,
+    "imageCount": 115056,
+    "fsImageCount": 115056,
     "waypointUrl": null
   },
   {
     "collectionId": "4149578",
     "title": "England, Hertfordshire, Marriage Bonds, 1682-1837",
-    "lastUpdatedMillis": 1623464035094,
+    "lastUpdatedMillis": 1624068418746,
     "startYear": 1682,
     "endYear": 1837,
     "placeIds": [
@@ -9077,9 +10245,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 6068,
-    "imageCount": 6060,
-    "fsImageCount": 6060,
+    "recordCount": 7897,
+    "imageCount": 7887,
+    "fsImageCount": 7887,
     "waypointUrl": null
   },
   {
@@ -9277,7 +10445,7 @@
   {
     "collectionId": "4149574",
     "title": "England, Lancashire, Marriage Bonds and Allegations, 1746-1799",
-    "lastUpdatedMillis": 1623461350016,
+    "lastUpdatedMillis": 1624073304488,
     "startYear": 1746,
     "endYear": 1799,
     "placeIds": [
@@ -9285,9 +10453,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 7793,
-    "imageCount": 7791,
-    "fsImageCount": 7791,
+    "recordCount": 9160,
+    "imageCount": 9157,
+    "fsImageCount": 9157,
     "waypointUrl": null
   },
   {
@@ -9357,7 +10525,7 @@
   {
     "collectionId": "4149576",
     "title": "England, Lincolnshire, Marriage Bonds and Allegations, 1574-1885",
-    "lastUpdatedMillis": 1623446591059,
+    "lastUpdatedMillis": 1624056166948,
     "startYear": 1574,
     "endYear": 1885,
     "placeIds": [
@@ -9365,9 +10533,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 72289,
-    "imageCount": 13643,
-    "fsImageCount": 13643,
+    "recordCount": 72522,
+    "imageCount": 13876,
+    "fsImageCount": 13876,
     "waypointUrl": null
   },
   {
@@ -9437,7 +10605,7 @@
   {
     "collectionId": "3734475",
     "title": "England, Middlesex Parish Registers, 1539-1988",
-    "lastUpdatedMillis": 1623463990189,
+    "lastUpdatedMillis": 1624075933346,
     "startYear": 1695,
     "endYear": 1940,
     "placeIds": [
@@ -9445,9 +10613,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 2241221,
-    "imageCount": 152161,
-    "fsImageCount": 152161,
+    "recordCount": 2312666,
+    "imageCount": 156078,
+    "fsImageCount": 156078,
     "waypointUrl": null
   },
   {
@@ -9629,7 +10797,7 @@
   {
     "collectionId": "3648677",
     "title": "England, Northumberland Non-Conformist Church Records, 1613-1920",
-    "lastUpdatedMillis": 1623463496575,
+    "lastUpdatedMillis": 1624069381436,
     "startYear": 1613,
     "endYear": 1920,
     "placeIds": [
@@ -9637,9 +10805,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 121206,
-    "imageCount": 14394,
-    "fsImageCount": 14394,
+    "recordCount": 127357,
+    "imageCount": 14909,
+    "fsImageCount": 14909,
     "waypointUrl": null
   },
   {
@@ -9757,7 +10925,7 @@
   {
     "collectionId": "4147975",
     "title": "England, Surrey Marriages Bonds and Licenses, 1536-1992",
-    "lastUpdatedMillis": 1623451790339,
+    "lastUpdatedMillis": 1624053423249,
     "startYear": 1700,
     "endYear": 1927,
     "placeIds": [
@@ -9765,9 +10933,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
-    "recordCount": 213,
-    "imageCount": 142,
-    "fsImageCount": 142,
+    "recordCount": 779,
+    "imageCount": 516,
+    "fsImageCount": 516,
     "waypointUrl": null
   },
   {
@@ -10043,9 +11211,25 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2805467/waypoints"
   },
   {
+    "collectionId": "4139415",
+    "title": "Finland, Passport Registers, 1900-1920",
+    "lastUpdatedMillis": 1623852277733,
+    "startYear": 1900,
+    "endYear": 1920,
+    "placeIds": [
+      1927095
+    ],
+    "recordType": "MIGRATION",
+    "region": "EUROPE",
+    "recordCount": 8709,
+    "imageCount": 244,
+    "fsImageCount": 244,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2704794",
     "title": "Finland, Tax Lists, 1809-1915",
-    "lastUpdatedMillis": 1621273513395,
+    "lastUpdatedMillis": 1623677472801,
     "startYear": 1810,
     "endYear": 1915,
     "placeIds": [
@@ -10053,9 +11237,9 @@
     ],
     "recordType": "CENSUS",
     "region": "EUROPE",
-    "recordCount": 492176,
-    "imageCount": 6078,
-    "fsImageCount": 6078,
+    "recordCount": 509118,
+    "imageCount": 5853,
+    "fsImageCount": 5853,
     "waypointUrl": null
   },
   {
@@ -10445,7 +11629,7 @@
   {
     "collectionId": "4114268",
     "title": "Florida, Military Discharge Records, ca.1837 - ca.1970",
-    "lastUpdatedMillis": 1618936067780,
+    "lastUpdatedMillis": 1623876747727,
     "startYear": 1837,
     "endYear": 1970,
     "placeIds": [
@@ -10453,9 +11637,9 @@
     ],
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
-    "recordCount": 9107,
-    "imageCount": 6303,
-    "fsImageCount": 6303,
+    "recordCount": 9641,
+    "imageCount": 6480,
+    "fsImageCount": 6480,
     "waypointUrl": null
   },
   {
@@ -10733,7 +11917,7 @@
   {
     "collectionId": "2815120",
     "title": "France, Calvados, Military Registration Cards, 1867-1921",
-    "lastUpdatedMillis": 1621525820777,
+    "lastUpdatedMillis": 1623704640461,
     "startYear": 1867,
     "endYear": 1921,
     "placeIds": [
@@ -10741,9 +11925,9 @@
     ],
     "recordType": "MILITARY",
     "region": "EUROPE",
-    "recordCount": 128984,
-    "imageCount": 113950,
-    "fsImageCount": 113950,
+    "recordCount": 142657,
+    "imageCount": 125628,
+    "fsImageCount": 125628,
     "waypointUrl": null
   },
   {
@@ -11405,7 +12589,7 @@
   {
     "collectionId": "3007175",
     "title": "France, Rh\u00f4ne, Military Registration Cards, 1865-1932",
-    "lastUpdatedMillis": 1621612984435,
+    "lastUpdatedMillis": 1623702726016,
     "startYear": 1865,
     "endYear": 1932,
     "placeIds": [
@@ -11413,9 +12597,9 @@
     ],
     "recordType": "MILITARY",
     "region": "EUROPE",
-    "recordCount": 363754,
-    "imageCount": 321700,
-    "fsImageCount": 321700,
+    "recordCount": 376019,
+    "imageCount": 375124,
+    "fsImageCount": 375124,
     "waypointUrl": null
   },
   {
@@ -11501,7 +12685,7 @@
   {
     "collectionId": "2840171",
     "title": "France, Sa\u00f4ne-et-Loire, Parish and Civil Registration, 1530-1892",
-    "lastUpdatedMillis": 1623443243523,
+    "lastUpdatedMillis": 1623956045175,
     "startYear": 1530,
     "endYear": 1793,
     "placeIds": [
@@ -11509,9 +12693,9 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 7217348,
-    "imageCount": 1970166,
-    "fsImageCount": 1970166,
+    "recordCount": 7217748,
+    "imageCount": 1970228,
+    "fsImageCount": 1970228,
     "waypointUrl": null
   },
   {
@@ -11718,8 +12902,8 @@
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
     "recordCount": 63709,
-    "imageCount": 69559,
-    "fsImageCount": 69559,
+    "imageCount": 69421,
+    "fsImageCount": 69421,
     "waypointUrl": null
   },
   {
@@ -12157,7 +13341,7 @@
   {
     "collectionId": "4113736",
     "title": "Georgia, Military Discharge Records, ca.1890 - ca.1966",
-    "lastUpdatedMillis": 1615479024995,
+    "lastUpdatedMillis": 1623778643827,
     "startYear": 1890,
     "endYear": 1966,
     "placeIds": [
@@ -12166,8 +13350,8 @@
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "recordCount": 37711,
-    "imageCount": 40376,
-    "fsImageCount": 40376,
+    "imageCount": 47134,
+    "fsImageCount": 47134,
     "waypointUrl": null
   },
   {
@@ -12854,8 +14038,8 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 2352574,
-    "imageCount": 266792,
-    "fsImageCount": 266792,
+    "imageCount": 266163,
+    "fsImageCount": 266163,
     "waypointUrl": null
   },
   {
@@ -13174,8 +14358,8 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 2967130,
-    "imageCount": 307298,
-    "fsImageCount": 307298,
+    "imageCount": 304033,
+    "fsImageCount": 304033,
     "waypointUrl": null
   },
   {
@@ -13286,8 +14470,8 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 105976,
-    "imageCount": 31763,
-    "fsImageCount": 31763,
+    "imageCount": 52986,
+    "fsImageCount": 52986,
     "waypointUrl": null
   },
   {
@@ -14334,8 +15518,8 @@
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "recordCount": 527525,
-    "imageCount": 221803,
-    "fsImageCount": 221803,
+    "imageCount": 226446,
+    "fsImageCount": 226446,
     "waypointUrl": null
   },
   {
@@ -14773,7 +15957,7 @@
   {
     "collectionId": "1452460",
     "title": "Hungary Civil Registration, 1895-1980",
-    "lastUpdatedMillis": 1622151601474,
+    "lastUpdatedMillis": 1623861864181,
     "startYear": 1895,
     "endYear": 1980,
     "placeIds": [
@@ -14781,7 +15965,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 1553401,
+    "recordCount": 1569575,
     "imageCount": 5864285,
     "fsImageCount": 5864285,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1452460/waypoints"
@@ -14837,7 +16021,7 @@
   {
     "collectionId": "1787825",
     "title": "Hungary, Jewish Vital Records Index, 1800-1945",
-    "lastUpdatedMillis": 1622050336861,
+    "lastUpdatedMillis": 1623863560236,
     "startYear": 1800,
     "endYear": 1945,
     "placeIds": [
@@ -14845,7 +16029,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 56995,
+    "recordCount": 58981,
     "imageCount": 1272,
     "fsImageCount": 1272,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1787825/waypoints"
@@ -17326,8 +18510,8 @@
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "recordCount": 183862,
-    "imageCount": 56142,
-    "fsImageCount": 56142,
+    "imageCount": 55648,
+    "fsImageCount": 55648,
     "waypointUrl": null
   },
   {
@@ -18564,10 +19748,10 @@
   },
   {
     "collectionId": "1939355",
-    "title": "Italy, Como, Civil Registration (State Archive), 1806-1815, 1850-1927",
+    "title": "Italy, Como, Civil Registration (State Archive), 1806-1951",
     "lastUpdatedMillis": 1401917347485,
     "startYear": 1806,
-    "endYear": 1927,
+    "endYear": 1951,
     "placeIds": [
       1927178
     ],
@@ -21669,7 +22853,7 @@
   {
     "collectionId": "3756784",
     "title": "Kiribati, Vital Records, 1890-1991",
-    "lastUpdatedMillis": 1622571581279,
+    "lastUpdatedMillis": 1624052278000,
     "startYear": 1890,
     "endYear": 1991,
     "placeIds": [
@@ -21677,9 +22861,9 @@
     ],
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
-    "recordCount": 8132,
-    "imageCount": 842,
-    "fsImageCount": 842,
+    "recordCount": 9757,
+    "imageCount": 3707,
+    "fsImageCount": 3707,
     "waypointUrl": null
   },
   {
@@ -21812,10 +22996,10 @@
   },
   {
     "collectionId": "2100287",
-    "title": "Liberia, Marriage Records, 1912-2015",
+    "title": "Liberia, Marriage Records, 1912-2017",
     "lastUpdatedMillis": 1623159245709,
-    "startYear": 1941,
-    "endYear": 1974,
+    "startYear": 1912,
+    "endYear": 2017,
     "placeIds": [
       1927061
     ],
@@ -22357,7 +23541,7 @@
   {
     "collectionId": "4234528",
     "title": "Louisiana, Orleans Parish, State Museum Historical Center, Cemetery Records, 1805-1944",
-    "lastUpdatedMillis": 1623464040622,
+    "lastUpdatedMillis": 1623954582914,
     "startYear": 1805,
     "endYear": 1944,
     "placeIds": [
@@ -22365,9 +23549,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 221118,
-    "imageCount": 205214,
-    "fsImageCount": 205214,
+    "recordCount": 222233,
+    "imageCount": 206154,
+    "fsImageCount": 206154,
     "waypointUrl": null
   },
   {
@@ -22725,7 +23909,7 @@
   {
     "collectionId": "2040046",
     "title": "Maine, County Naturalization Records, 1800-1990",
-    "lastUpdatedMillis": 1621886578666,
+    "lastUpdatedMillis": 1624052934317,
     "startYear": 1800,
     "endYear": 1900,
     "placeIds": [
@@ -22733,7 +23917,7 @@
     ],
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
-    "recordCount": 178854,
+    "recordCount": 180641,
     "imageCount": 207883,
     "fsImageCount": 207883,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2040046/waypoints"
@@ -23105,54 +24289,6 @@
     "imageCount": 508689,
     "fsImageCount": 508689,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2094226/waypoints"
-  },
-  {
-    "collectionId": "2023280",
-    "title": "Manitoba Census Indexes, 1831-1870",
-    "lastUpdatedMillis": 1619710594998,
-    "startYear": 1831,
-    "endYear": 1870,
-    "placeIds": [
-      1929957
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 30729,
-    "fsImageCount": 30729,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2023280/waypoints"
-  },
-  {
-    "collectionId": "1992433",
-    "title": "Manitoba Church Records, 1800-1959",
-    "lastUpdatedMillis": 1619543963262,
-    "startYear": 1800,
-    "endYear": 1959,
-    "placeIds": [
-      1929957
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 6567,
-    "fsImageCount": 6567,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1992433/waypoints"
-  },
-  {
-    "collectionId": "1987562",
-    "title": "Manitoba Probate Records, 1871-1930",
-    "lastUpdatedMillis": 1449006413795,
-    "startYear": 1871,
-    "endYear": 1930,
-    "placeIds": [
-      1929957
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 51868,
-    "imageCount": 802992,
-    "fsImageCount": 802992,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1987562/waypoints"
   },
   {
     "collectionId": "1674912",
@@ -25669,7 +26805,7 @@
   {
     "collectionId": "3733440",
     "title": "Michigan, Saginaw County, Biographical Card File, ca. 1830-2000",
-    "lastUpdatedMillis": 1623397321409,
+    "lastUpdatedMillis": 1623911862966,
     "startYear": 1830,
     "endYear": 2000,
     "placeIds": [
@@ -25678,8 +26814,8 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 1941,
-    "imageCount": 20709,
-    "fsImageCount": 20709,
+    "imageCount": 21305,
+    "fsImageCount": 21305,
     "waypointUrl": null
   },
   {
@@ -27013,7 +28149,7 @@
   {
     "collectionId": "2060668",
     "title": "Missouri, County Marriage, Naturalization, and Court Records, 1800-1991",
-    "lastUpdatedMillis": 1620059561300,
+    "lastUpdatedMillis": 1623799106385,
     "startYear": 1800,
     "endYear": 1991,
     "placeIds": [
@@ -27021,7 +28157,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 3243329,
+    "recordCount": 3292227,
     "imageCount": 2513517,
     "fsImageCount": 2513517,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2060668/waypoints"
@@ -27973,7 +29109,7 @@
   {
     "collectionId": "2704829",
     "title": "Netherlands, Archival Indexes, Vital Records, 1600-2000",
-    "lastUpdatedMillis": 1623097292323,
+    "lastUpdatedMillis": 1623958695459,
     "startYear": 1600,
     "endYear": 2000,
     "placeIds": [
@@ -27981,8 +29117,8 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 38581421,
-    "imageCount": 38581421,
+    "recordCount": 39636623,
+    "imageCount": 39636623,
     "fsImageCount": 0,
     "waypointUrl": null
   },
@@ -28261,7 +29397,7 @@
   {
     "collectionId": "2020117",
     "title": "Netherlands, Noord-Holland, Civil Registration, 1811-1950",
-    "lastUpdatedMillis": 1620320051671,
+    "lastUpdatedMillis": 1623712695234,
     "startYear": 1811,
     "endYear": 1950,
     "placeIds": [
@@ -28269,7 +29405,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 1582953,
+    "recordCount": 1599527,
     "imageCount": 6635049,
     "fsImageCount": 6635049,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2020117/waypoints"
@@ -28497,262 +29633,6 @@
     "imageCount": 36139,
     "fsImageCount": 36139,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2729393/waypoints"
-  },
-  {
-    "collectionId": "1805645",
-    "title": "New Brunswick Births and Baptisms, 1819-1899",
-    "lastUpdatedMillis": 1604677471591,
-    "startYear": 1819,
-    "endYear": 1899,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 44053,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1325208",
-    "title": "New Brunswick Census, 1861",
-    "lastUpdatedMillis": 1361886982000,
-    "startYear": 1861,
-    "endYear": 1861,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 200172,
-    "imageCount": 5165,
-    "fsImageCount": 5165,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "2258166",
-    "title": "New Brunswick County Registers of Births Index, ca. 1812-1919",
-    "lastUpdatedMillis": 1604765000425,
-    "startYear": 1812,
-    "endYear": 1919,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 142670,
-    "imageCount": 5992,
-    "fsImageCount": 5992,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1840146",
-    "title": "New Brunswick Death Certificates, 1920-1934",
-    "lastUpdatedMillis": 1280311918000,
-    "startYear": 1920,
-    "endYear": 1934,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 76812,
-    "fsImageCount": 76812,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1840146/waypoints"
-  },
-  {
-    "collectionId": "1840145",
-    "title": "New Brunswick Death Certificates, 1935-1938",
-    "lastUpdatedMillis": 1280311958000,
-    "startYear": 1935,
-    "endYear": 1938,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 16806,
-    "fsImageCount": 16806,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1840145/waypoints"
-  },
-  {
-    "collectionId": "1967766",
-    "title": "New Brunswick Late Registration of Births, 1810-1899",
-    "lastUpdatedMillis": 1555697827840,
-    "startYear": 1810,
-    "endYear": 1899,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 24067,
-    "imageCount": 24015,
-    "fsImageCount": 24015,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1967766/waypoints"
-  },
-  {
-    "collectionId": "2001063",
-    "title": "New Brunswick Marriage Registers, 1789-1889",
-    "lastUpdatedMillis": 1339405754000,
-    "startYear": 1789,
-    "endYear": 1889,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 7459,
-    "fsImageCount": 7459,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001063/waypoints"
-  },
-  {
-    "collectionId": "1840147",
-    "title": "New Brunswick Provincial Deaths, 1815-1938",
-    "lastUpdatedMillis": 1304575641000,
-    "startYear": 1815,
-    "endYear": 1938,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 172406,
-    "imageCount": 177815,
-    "fsImageCount": 177815,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1840147/waypoints"
-  },
-  {
-    "collectionId": "1824707",
-    "title": "New Brunswick Provincial Marriages 1789-1950",
-    "lastUpdatedMillis": 1425647477298,
-    "startYear": 1789,
-    "endYear": 1950,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 303599,
-    "imageCount": 268525,
-    "fsImageCount": 268525,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1824707/waypoints"
-  },
-  {
-    "collectionId": "2001065",
-    "title": "New Brunswick Provincial Returns of Marriages and Late Registrations, 1920-1950",
-    "lastUpdatedMillis": 1338886294000,
-    "startYear": 1920,
-    "endYear": 1950,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 119291,
-    "fsImageCount": 119291,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001065/waypoints"
-  },
-  {
-    "collectionId": "2001064",
-    "title": "New Brunswick Provincial Returns of Marriages, 1887-1919",
-    "lastUpdatedMillis": 1338886263000,
-    "startYear": 1887,
-    "endYear": 1919,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 141775,
-    "fsImageCount": 141775,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001064/waypoints"
-  },
-  {
-    "collectionId": "1392378",
-    "title": "New Brunswick, County Deed Registry Books, 1780-1930",
-    "lastUpdatedMillis": 1357901285000,
-    "startYear": 1780,
-    "endYear": 1930,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 792235,
-    "fsImageCount": 792235,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1392378/waypoints"
-  },
-  {
-    "collectionId": "2258137",
-    "title": "New Brunswick, County Registers of Births, ca. 1812-1919",
-    "lastUpdatedMillis": 1604765045182,
-    "startYear": 1812,
-    "endYear": 1919,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 51575,
-    "imageCount": 3754,
-    "fsImageCount": 3754,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2258137/waypoints"
-  },
-  {
-    "collectionId": "1726660",
-    "title": "New Brunswick, Provincial Returns of Births and Late Registrations, 1810-1906",
-    "lastUpdatedMillis": 1356018036000,
-    "startYear": 1810,
-    "endYear": 1906,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 160214,
-    "imageCount": 161646,
-    "fsImageCount": 161646,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1726660/waypoints"
-  },
-  {
-    "collectionId": "1719804",
-    "title": "New Brunswick, Provincial Returns of Deaths, 1815-1919",
-    "lastUpdatedMillis": 1280311873000,
-    "startYear": 1815,
-    "endYear": 1919,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 80741,
-    "fsImageCount": 80741,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1719804/waypoints"
-  },
-  {
-    "collectionId": "2250090",
-    "title": "New Brunswick, Saint John, Saint John, Burial Permits, 1889-1919",
-    "lastUpdatedMillis": 1495025031124,
-    "startYear": 1889,
-    "endYear": 1919,
-    "placeIds": [
-      1929956
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 28555,
-    "imageCount": 13902,
-    "fsImageCount": 13902,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2250090/waypoints"
   },
   {
     "collectionId": "1880940",
@@ -29381,7 +30261,7 @@
   {
     "collectionId": "2843410",
     "title": "New Jersey, Death Index, 1901-1903; 1916-1929",
-    "lastUpdatedMillis": 1623015284588,
+    "lastUpdatedMillis": 1623540722264,
     "startYear": 1901,
     "endYear": 1929,
     "placeIds": [
@@ -29389,9 +30269,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 262529,
-    "imageCount": 2221,
-    "fsImageCount": 2221,
+    "recordCount": 262669,
+    "imageCount": 2222,
+    "fsImageCount": 2222,
     "waypointUrl": null
   },
   {
@@ -30078,8 +30958,8 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 127105,
-    "imageCount": 6339,
-    "fsImageCount": 6339,
+    "imageCount": 6354,
+    "fsImageCount": 6354,
     "waypointUrl": null
   },
   {
@@ -30814,8 +31694,8 @@
     "recordType": "CENSUS",
     "region": "AUSTRALIA_NEW_ZEALAND",
     "recordCount": 5213556,
-    "imageCount": 54527,
-    "fsImageCount": 54527,
+    "imageCount": 44202,
+    "fsImageCount": 44202,
     "waypointUrl": null
   },
   {
@@ -30833,102 +31713,6 @@
     "imageCount": 2385,
     "fsImageCount": 2385,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2538222/waypoints"
-  },
-  {
-    "collectionId": "2226517",
-    "title": "Newfoundland Census, 1921",
-    "lastUpdatedMillis": 1426864689261,
-    "startYear": 1921,
-    "endYear": 1921,
-    "placeIds": [
-      1929955
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 218865,
-    "imageCount": 8415,
-    "fsImageCount": 8415,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2226517/waypoints"
-  },
-  {
-    "collectionId": "2246711",
-    "title": "Newfoundland Census, 1935",
-    "lastUpdatedMillis": 1429717387439,
-    "startYear": 1935,
-    "endYear": 1935,
-    "placeIds": [
-      1929955
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 296231,
-    "imageCount": 9509,
-    "fsImageCount": 9509,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2246711/waypoints"
-  },
-  {
-    "collectionId": "2246699",
-    "title": "Newfoundland Census, 1945",
-    "lastUpdatedMillis": 1429735048224,
-    "startYear": 1945,
-    "endYear": 1945,
-    "placeIds": [
-      1929955
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 328362,
-    "imageCount": 7457,
-    "fsImageCount": 7457,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2246699/waypoints"
-  },
-  {
-    "collectionId": "1939435",
-    "title": "Newfoundland Church Records, 1793-1945",
-    "lastUpdatedMillis": 1619475782663,
-    "startYear": 1793,
-    "endYear": 1945,
-    "placeIds": [
-      1929955
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 6071,
-    "fsImageCount": 6071,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1939435/waypoints"
-  },
-  {
-    "collectionId": "1790939",
-    "title": "Newfoundland Vital Records, 1840-1949",
-    "lastUpdatedMillis": 1433950358113,
-    "startYear": 1840,
-    "endYear": 1949,
-    "placeIds": [
-      1929955
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 363845,
-    "imageCount": 58839,
-    "fsImageCount": 58839,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1790939/waypoints"
-  },
-  {
-    "collectionId": "1793777",
-    "title": "Newfoundland Vital Statistics, 1753-1893",
-    "lastUpdatedMillis": 1431089054292,
-    "startYear": 1753,
-    "endYear": 1893,
-    "placeIds": [
-      1929955
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 191573,
-    "imageCount": 14649,
-    "fsImageCount": 14649,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1793777/waypoints"
   },
   {
     "collectionId": "1601210",
@@ -31765,7 +32549,7 @@
   {
     "collectionId": "3744863",
     "title": "Norway Census, 1900",
-    "lastUpdatedMillis": 1607573147821,
+    "lastUpdatedMillis": 1623810196344,
     "startYear": 1900,
     "endYear": 1900,
     "placeIds": [
@@ -31841,278 +32625,6 @@
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
-  },
-  {
-    "collectionId": "1810407",
-    "title": "Nova Scotia Births and Baptisms, 1702-1896",
-    "lastUpdatedMillis": 1604709443024,
-    "startYear": 1702,
-    "endYear": 1896,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 183534,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "2243378",
-    "title": "Nova Scotia Births, 1864-1877",
-    "lastUpdatedMillis": 1604972749569,
-    "startYear": 1864,
-    "endYear": 1877,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 322004,
-    "imageCount": 35026,
-    "fsImageCount": 35026,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2243378/waypoints"
-  },
-  {
-    "collectionId": "1460163",
-    "title": "Nova Scotia Census, 1861",
-    "lastUpdatedMillis": 1269430142000,
-    "startYear": 1861,
-    "endYear": 1861,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 57453,
-    "imageCount": 1588,
-    "fsImageCount": 1588,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1925428",
-    "title": "Nova Scotia Church Records, 1720-2001",
-    "lastUpdatedMillis": 1619677675320,
-    "startYear": 1720,
-    "endYear": 2001,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 215258,
-    "imageCount": 16188,
-    "fsImageCount": 16188,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1925428/waypoints"
-  },
-  {
-    "collectionId": "2242825",
-    "title": "Nova Scotia Deaths, 1864-1877",
-    "lastUpdatedMillis": 1604952795933,
-    "startYear": 1864,
-    "endYear": 1877,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 171770,
-    "imageCount": 27717,
-    "fsImageCount": 27717,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2242825/waypoints"
-  },
-  {
-    "collectionId": "2251294",
-    "title": "Nova Scotia Deaths, 1890-1955",
-    "lastUpdatedMillis": 1429799594063,
-    "startYear": 1890,
-    "endYear": 1955,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 336983,
-    "imageCount": 251097,
-    "fsImageCount": 251097,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2251294/waypoints"
-  },
-  {
-    "collectionId": "2251301",
-    "title": "Nova Scotia Deaths, 1956-1957",
-    "lastUpdatedMillis": 1429798973632,
-    "startYear": 1956,
-    "endYear": 1957,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 11869,
-    "imageCount": 12185,
-    "fsImageCount": 12185,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2251301/waypoints"
-  },
-  {
-    "collectionId": "2241429",
-    "title": "Nova Scotia Delayed Births, 1837-1904",
-    "lastUpdatedMillis": 1600956721883,
-    "startYear": 1837,
-    "endYear": 1904,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 117040,
-    "imageCount": 70782,
-    "fsImageCount": 70782,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2241429/waypoints"
-  },
-  {
-    "collectionId": "1810409",
-    "title": "Nova Scotia Marriages, 1711-1909",
-    "lastUpdatedMillis": 1604709445389,
-    "startYear": 1711,
-    "endYear": 1909,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 20070,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "2242886",
-    "title": "Nova Scotia Marriages, 1864-1918",
-    "lastUpdatedMillis": 1620998896385,
-    "startYear": 1864,
-    "endYear": 1918,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 372311,
-    "imageCount": 21950,
-    "fsImageCount": 21950,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2242886/waypoints"
-  },
-  {
-    "collectionId": "2241441",
-    "title": "Nova Scotia Marriages, 1907-1932",
-    "lastUpdatedMillis": 1426106868554,
-    "startYear": 1907,
-    "endYear": 1932,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 66106,
-    "imageCount": 67444,
-    "fsImageCount": 67444,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2241441/waypoints"
-  },
-  {
-    "collectionId": "2134302",
-    "title": "Nova Scotia Probate Records, 1760-1993",
-    "lastUpdatedMillis": 1415121346611,
-    "startYear": 1760,
-    "endYear": 1993,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 1395009,
-    "fsImageCount": 1395009,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2134302/waypoints"
-  },
-  {
-    "collectionId": "1952893",
-    "title": "Nova Scotia Vital Records, 1763-1957",
-    "lastUpdatedMillis": 1357336944000,
-    "startYear": 1763,
-    "endYear": 1957,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 807577,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1392507",
-    "title": "Nova Scotia, Antigonish Catholic Diocese, 1823-1905",
-    "lastUpdatedMillis": 1354125612000,
-    "startYear": 1823,
-    "endYear": 1905,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 91875,
-    "imageCount": 10838,
-    "fsImageCount": 10838,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1392507/waypoints"
-  },
-  {
-    "collectionId": "2365251",
-    "title": "Nova Scotia, Church and Civil Records, 1727-1884",
-    "lastUpdatedMillis": 1604765119633,
-    "startYear": 1727,
-    "endYear": 1884,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 870,
-    "imageCount": 246,
-    "fsImageCount": 246,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1808846",
-    "title": "Nova Scotia, Halifax County, Deed Indexes, 1749-1958",
-    "lastUpdatedMillis": 1338886202000,
-    "startYear": 1749,
-    "endYear": 1958,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 23008,
-    "fsImageCount": 23008,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1808846/waypoints"
-  },
-  {
-    "collectionId": "1918186",
-    "title": "Nova Scotia, Queens County, Notes of Thomas Brenton Smith, 1700-1950",
-    "lastUpdatedMillis": 1389961417000,
-    "startYear": 1700,
-    "endYear": 1950,
-    "placeIds": [
-      1929953
-    ],
-    "recordType": "MISCELLANEOUS",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 30314,
-    "fsImageCount": 30314,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1918186/waypoints"
   },
   {
     "collectionId": "1680845",
@@ -33251,214 +33763,6 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2710650/waypoints"
   },
   {
-    "collectionId": "1805649",
-    "title": "Ontario Births and Baptisms, 1779-1899",
-    "lastUpdatedMillis": 1617319915358,
-    "startYear": 1779,
-    "endYear": 1899,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 1324019,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1784212",
-    "title": "Ontario Births, 1869-1912",
-    "lastUpdatedMillis": 1581187660491,
-    "startYear": 1869,
-    "endYear": 1912,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 1601642,
-    "imageCount": 411526,
-    "fsImageCount": 411526,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1784212/waypoints"
-  },
-  {
-    "collectionId": "1460164",
-    "title": "Ontario Census, 1861",
-    "lastUpdatedMillis": 1303214738000,
-    "startYear": 1861,
-    "endYear": 1861,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 1709804,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1307826",
-    "title": "Ontario Deaths, 1869-1937 and Overseas Deaths, 1939-1947",
-    "lastUpdatedMillis": 1614733451209,
-    "startYear": 1869,
-    "endYear": 1947,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 2050112,
-    "imageCount": 942237,
-    "fsImageCount": 942237,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1307826/waypoints"
-  },
-  {
-    "collectionId": "1810408",
-    "title": "Ontario Marriages, 1800-1910",
-    "lastUpdatedMillis": 1617319915358,
-    "startYear": 1800,
-    "endYear": 1910,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 27357,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1784216",
-    "title": "Ontario Marriages, 1869-1927",
-    "lastUpdatedMillis": 1432850380873,
-    "startYear": 1869,
-    "endYear": 1927,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 1382652,
-    "imageCount": 1162449,
-    "fsImageCount": 1162449,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1784216/waypoints"
-  },
-  {
-    "collectionId": "2385200",
-    "title": "Ontario, Church and Civil Records, 1801-1948",
-    "lastUpdatedMillis": 1604766042777,
-    "startYear": 1801,
-    "endYear": 1948,
-    "placeIds": [
-      1927164
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 27423,
-    "imageCount": 2375,
-    "fsImageCount": 2375,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "2568642",
-    "title": "Ontario, County Marriage Registers, 1858-1869",
-    "lastUpdatedMillis": 1490984895564,
-    "startYear": 1858,
-    "endYear": 1869,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 100331,
-    "imageCount": 9447,
-    "fsImageCount": 9447,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2568642/waypoints"
-  },
-  {
-    "collectionId": "2569151",
-    "title": "Ontario, District Marriage Registers, 1801-1858",
-    "lastUpdatedMillis": 1542123186903,
-    "startYear": 1801,
-    "endYear": 1858,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 32465,
-    "imageCount": 2738,
-    "fsImageCount": 2738,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2569151/waypoints"
-  },
-  {
-    "collectionId": "3741251",
-    "title": "Ontario, Immigration Records, 1862-1897",
-    "lastUpdatedMillis": 1604602643010,
-    "startYear": 1862,
-    "endYear": 1897,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "MIGRATION",
-    "region": "CANADA",
-    "recordCount": 17421,
-    "imageCount": 4277,
-    "fsImageCount": 4277,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1927566",
-    "title": "Ontario, Roman Catholic Church Records, 1760-1923",
-    "lastUpdatedMillis": 1619058947335,
-    "startYear": 1760,
-    "endYear": 1923,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 126534,
-    "fsImageCount": 126534,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1927566/waypoints"
-  },
-  {
-    "collectionId": "3007501",
-    "title": "Ontario, Toronto Cemetery Records, 1989-1995",
-    "lastUpdatedMillis": 1597256402570,
-    "startYear": 1989,
-    "endYear": 1995,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 77200,
-    "imageCount": 6806,
-    "fsImageCount": 6806,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1627831",
-    "title": "Ontario, Toronto Trust Cemeteries, 1826-1989",
-    "lastUpdatedMillis": 1613827494203,
-    "startYear": 1826,
-    "endYear": 1935,
-    "placeIds": [
-      1929952
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 150838,
-    "imageCount": 7234,
-    "fsImageCount": 7234,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1627831/waypoints"
-  },
-  {
     "collectionId": "1675468",
     "title": "Oregon Births and Christenings, 1868-1929",
     "lastUpdatedMillis": 1583937754609,
@@ -34037,7 +34341,7 @@
   {
     "collectionId": "3757740",
     "title": "Papua New Guinea, Birth Records, 1888-2004",
-    "lastUpdatedMillis": 1623201070797,
+    "lastUpdatedMillis": 1623841088462,
     "startYear": 1888,
     "endYear": 2004,
     "placeIds": [
@@ -34045,9 +34349,9 @@
     ],
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
-    "recordCount": 75363,
-    "imageCount": 47604,
-    "fsImageCount": 47604,
+    "recordCount": 75371,
+    "imageCount": 47610,
+    "fsImageCount": 47610,
     "waypointUrl": null
   },
   {
@@ -34158,8 +34462,8 @@
     "recordType": "MILITARY",
     "region": "SOUTH_AMERICA",
     "recordCount": 66147,
-    "imageCount": 64130,
-    "fsImageCount": 64130,
+    "imageCount": 65123,
+    "fsImageCount": 65123,
     "waypointUrl": null
   },
   {
@@ -34901,7 +35205,7 @@
   {
     "collectionId": "1877097",
     "title": "Peru, Catholic Church Records, 1603-1992",
-    "lastUpdatedMillis": 1623440051729,
+    "lastUpdatedMillis": 1624029977416,
     "startYear": 1603,
     "endYear": 1992,
     "placeIds": [
@@ -34909,7 +35213,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 2763986,
+    "recordCount": 3977007,
     "imageCount": 4192353,
     "fsImageCount": 4192353,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1877097/waypoints"
@@ -34965,7 +35269,7 @@
   {
     "collectionId": "2787829",
     "title": "Peru, Diocese of Huaraz, Catholic Church Records, 1641-2016",
-    "lastUpdatedMillis": 1623404713172,
+    "lastUpdatedMillis": 1623898964876,
     "startYear": 1641,
     "endYear": 2016,
     "placeIds": [
@@ -34973,9 +35277,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 255168,
-    "imageCount": 121280,
-    "fsImageCount": 121280,
+    "recordCount": 295763,
+    "imageCount": 127096,
+    "fsImageCount": 127096,
     "waypointUrl": null
   },
   {
@@ -36163,86 +36467,6 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2146190/waypoints"
   },
   {
-    "collectionId": "1827217",
-    "title": "Prince Edward Island Baptism Card Index, 1721-1885",
-    "lastUpdatedMillis": 1349088199000,
-    "startYear": 1721,
-    "endYear": 1885,
-    "placeIds": [
-      1929951
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 92218,
-    "imageCount": 92700,
-    "fsImageCount": 92700,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1827217/waypoints"
-  },
-  {
-    "collectionId": "1460172",
-    "title": "Prince Edward Island Census, 1861",
-    "lastUpdatedMillis": 1269430686000,
-    "startYear": 1861,
-    "endYear": 1861,
-    "placeIds": [
-      1929951
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 25315,
-    "imageCount": 1728,
-    "fsImageCount": 1728,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1937794",
-    "title": "Prince Edward Island Church Records, 1777-1985",
-    "lastUpdatedMillis": 1354871752000,
-    "startYear": 1777,
-    "endYear": 1985,
-    "placeIds": [
-      1929951
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 22448,
-    "fsImageCount": 22448,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1937794/waypoints"
-  },
-  {
-    "collectionId": "1827236",
-    "title": "Prince Edward Island Death Card Index, 1721-1905",
-    "lastUpdatedMillis": 1442856919239,
-    "startYear": 1721,
-    "endYear": 1905,
-    "placeIds": [
-      1929951
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 16686,
-    "imageCount": 15903,
-    "fsImageCount": 15903,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1827236/waypoints"
-  },
-  {
-    "collectionId": "1827167",
-    "title": "Prince Edward Island Marriage Registers, 1832-1888",
-    "lastUpdatedMillis": 1426077694345,
-    "startYear": 1832,
-    "endYear": 1888,
-    "placeIds": [
-      1929951
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 20262,
-    "imageCount": 3428,
-    "fsImageCount": 3428,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1827167/waypoints"
-  },
-  {
     "collectionId": "1770964",
     "title": "Puerto Rico Births and Baptisms, 1938-1947",
     "lastUpdatedMillis": 1581217581321,
@@ -36337,134 +36561,6 @@
     "imageCount": 67290,
     "fsImageCount": 67290,
     "waypointUrl": null
-  },
-  {
-    "collectionId": "1810411",
-    "title": "Quebec Births and Baptisms, 1662-1898",
-    "lastUpdatedMillis": 1584479756016,
-    "startYear": 1662,
-    "endYear": 1898,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 54127,
-    "imageCount": 0,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1460173",
-    "title": "Quebec Census, 1861",
-    "lastUpdatedMillis": 1296141012000,
-    "startYear": 1861,
-    "endYear": 1861,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "CENSUS",
-    "region": "CANADA",
-    "recordCount": 1094774,
-    "imageCount": 44327,
-    "fsImageCount": 44327,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "2461313",
-    "title": "Quebec Index to Civil Copy of Church Records, 1642-1902",
-    "lastUpdatedMillis": 1432925029671,
-    "startYear": 1642,
-    "endYear": 1902,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 1300530,
-    "fsImageCount": 1300530,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2461313/waypoints"
-  },
-  {
-    "collectionId": "1471015",
-    "title": "Quebec Notarial Records, 1800-1920",
-    "lastUpdatedMillis": 1492695386991,
-    "startYear": 1800,
-    "endYear": 1920,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 4956093,
-    "fsImageCount": 4956093,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1471015/waypoints"
-  },
-  {
-    "collectionId": "1321742",
-    "title": "Quebec, Catholic Parish Registers, 1621-1979",
-    "lastUpdatedMillis": 1609888998977,
-    "startYear": 1621,
-    "endYear": 1979,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 79535,
-    "imageCount": 1398741,
-    "fsImageCount": 1398741,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1321742/waypoints"
-  },
-  {
-    "collectionId": "1929561",
-    "title": "Quebec, Non-Catholic Parish Registers, 1763-1967",
-    "lastUpdatedMillis": 1337185658000,
-    "startYear": 1763,
-    "endYear": 1967,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 278512,
-    "fsImageCount": 278512,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1929561/waypoints"
-  },
-  {
-    "collectionId": "2558681",
-    "title": "Quebec, Quebec Federation of Genealogical Societies, Family Origins, 1621-1865",
-    "lastUpdatedMillis": 1523635202913,
-    "startYear": 1621,
-    "endYear": 1865,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "MIGRATION",
-    "region": "CANADA",
-    "recordCount": 6168,
-    "imageCount": 6168,
-    "fsImageCount": 0,
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "1399459",
-    "title": "Quebec, Quebec Judicial District, Guardianships, 1639-1930",
-    "lastUpdatedMillis": 1403039112962,
-    "startYear": 1639,
-    "endYear": 1930,
-    "placeIds": [
-      1929950
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 310188,
-    "fsImageCount": 310188,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1399459/waypoints"
   },
   {
     "collectionId": "1675525",
@@ -37061,7 +37157,7 @@
   {
     "collectionId": "4016424",
     "title": "Samoa, Vital Records, 1846-1996",
-    "lastUpdatedMillis": 1623463155737,
+    "lastUpdatedMillis": 1624073235344,
     "startYear": 1846,
     "endYear": 1996,
     "placeIds": [
@@ -37069,90 +37165,10 @@
     ],
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
-    "recordCount": 16417,
-    "imageCount": 42718,
-    "fsImageCount": 42718,
+    "recordCount": 16437,
+    "imageCount": 44076,
+    "fsImageCount": 44076,
     "waypointUrl": null
-  },
-  {
-    "collectionId": "2258205",
-    "title": "Saskatchewan Cemetery Transcripts, ca. 1850-1994",
-    "lastUpdatedMillis": 1430332833017,
-    "startYear": 1850,
-    "endYear": 2015,
-    "placeIds": [
-      1929949
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 164737,
-    "imageCount": 139318,
-    "fsImageCount": 139318,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2258205/waypoints"
-  },
-  {
-    "collectionId": "1918293",
-    "title": "Saskatchewan Probate Estate Files, 1887-1931",
-    "lastUpdatedMillis": 1395693954010,
-    "startYear": 1887,
-    "endYear": 1931,
-    "placeIds": [
-      1929949
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 41130,
-    "imageCount": 1903391,
-    "fsImageCount": 1903391,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1918293/waypoints"
-  },
-  {
-    "collectionId": "1916143",
-    "title": "Saskatchewan Provincial Records, 1879-1987",
-    "lastUpdatedMillis": 1398365240757,
-    "startYear": 1879,
-    "endYear": 1987,
-    "placeIds": [
-      1929949
-    ],
-    "recordType": "MISCELLANEOUS",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 1506449,
-    "fsImageCount": 1506449,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1916143/waypoints"
-  },
-  {
-    "collectionId": "2001071",
-    "title": "Saskatchewan, Catholic Church Records, 1846-1957",
-    "lastUpdatedMillis": 1617319915358,
-    "startYear": 1846,
-    "endYear": 1957,
-    "placeIds": [
-      1929949
-    ],
-    "recordType": "VITAL",
-    "region": "CANADA",
-    "recordCount": 33137,
-    "imageCount": 6587,
-    "fsImageCount": 6587,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001071/waypoints"
-  },
-  {
-    "collectionId": "1392587",
-    "title": "Saskatchewan, Judicial District Court Records, 1891-1954",
-    "lastUpdatedMillis": 1403040064544,
-    "startYear": 1891,
-    "endYear": 1954,
-    "placeIds": [
-      1929949
-    ],
-    "recordType": "LEGAL",
-    "region": "CANADA",
-    "recordCount": 0,
-    "imageCount": 203047,
-    "fsImageCount": 203047,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1392587/waypoints"
   },
   {
     "collectionId": "3288472",
@@ -37397,7 +37413,7 @@
   {
     "collectionId": "1468076",
     "title": "South Africa, Church of the Province of South Africa, Parish Registers, 1801-2004",
-    "lastUpdatedMillis": 1623462183240,
+    "lastUpdatedMillis": 1624075993696,
     "startYear": 1801,
     "endYear": 2004,
     "placeIds": [
@@ -37405,7 +37421,7 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 703100,
+    "recordCount": 715308,
     "imageCount": 355318,
     "fsImageCount": 355318,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1468076/waypoints"
@@ -37461,7 +37477,7 @@
   {
     "collectionId": "1478678",
     "title": "South Africa, Dutch Reformed Church Registers (Cape Town Archives), 1660-1970 ",
-    "lastUpdatedMillis": 1623457692109,
+    "lastUpdatedMillis": 1624076058561,
     "startYear": 1660,
     "endYear": 1970,
     "placeIds": [
@@ -37469,7 +37485,7 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 466009,
+    "recordCount": 471843,
     "imageCount": 45728,
     "fsImageCount": 45728,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1478678/waypoints"
@@ -37509,7 +37525,7 @@
   {
     "collectionId": "3511741",
     "title": "South Africa, KwaZulu Natal, Vital Records, 1868-1976",
-    "lastUpdatedMillis": 1623463133549,
+    "lastUpdatedMillis": 1624075929139,
     "startYear": 1868,
     "endYear": 1976,
     "placeIds": [
@@ -37517,9 +37533,9 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 357514,
-    "imageCount": 346121,
-    "fsImageCount": 346121,
+    "recordCount": 367454,
+    "imageCount": 355679,
+    "fsImageCount": 355679,
     "waypointUrl": null
   },
   {
@@ -37966,8 +37982,8 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 247184,
-    "imageCount": 6913,
-    "fsImageCount": 6913,
+    "imageCount": 6704,
+    "fsImageCount": 6704,
     "waypointUrl": null
   },
   {
@@ -38949,7 +38965,7 @@
   {
     "collectionId": "2015359",
     "title": "Spain, Province of La Coru\u00f1a, Municipal Records, 1648-1941",
-    "lastUpdatedMillis": 1622151804942,
+    "lastUpdatedMillis": 1623873142142,
     "startYear": 1648,
     "endYear": 1941,
     "placeIds": [
@@ -38957,7 +38973,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 855141,
+    "recordCount": 862949,
     "imageCount": 258646,
     "fsImageCount": 258646,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2015359/waypoints"
@@ -39486,8 +39502,8 @@
     "recordType": "MISCELLANEOUS",
     "region": "EUROPE",
     "recordCount": 1082152,
-    "imageCount": 71708,
-    "fsImageCount": 71708,
+    "imageCount": 71712,
+    "fsImageCount": 71712,
     "waypointUrl": null
   },
   {
@@ -41589,7 +41605,7 @@
   {
     "collectionId": "3875191",
     "title": "Tuvalu, Vital Records, 1866-1979",
-    "lastUpdatedMillis": 1621015697861,
+    "lastUpdatedMillis": 1624052617013,
     "startYear": 1866,
     "endYear": 1979,
     "placeIds": [
@@ -41597,9 +41613,9 @@
     ],
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
-    "recordCount": 5455,
-    "imageCount": 616,
-    "fsImageCount": 616,
+    "recordCount": 7191,
+    "imageCount": 1293,
+    "fsImageCount": 1293,
     "waypointUrl": null
   },
   {
@@ -43051,7 +43067,7 @@
     ],
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
-    "recordCount": 875610403,
+    "recordCount": 875610396,
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
@@ -43393,22 +43409,6 @@
     "waypointUrl": null
   },
   {
-    "collectionId": "1339071",
-    "title": "United States World War II Draft Registration Cards, 1942",
-    "lastUpdatedMillis": 1606266321008,
-    "startYear": 1942,
-    "endYear": 1942,
-    "placeIds": [
-      1
-    ],
-    "recordType": "MILITARY",
-    "region": "UNITED_STATES",
-    "recordCount": 0,
-    "imageCount": 11979092,
-    "fsImageCount": 11979092,
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1339071/waypoints"
-  },
-  {
     "collectionId": "1861144",
     "title": "United States World War II Draft Registration Cards, 1942",
     "lastUpdatedMillis": 1615370563111,
@@ -43423,6 +43423,22 @@
     "imageCount": 19317962,
     "fsImageCount": 19317962,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1861144/waypoints"
+  },
+  {
+    "collectionId": "1339071",
+    "title": "United States World War II Draft Registration Cards, 1942",
+    "lastUpdatedMillis": 1606266321008,
+    "startYear": 1942,
+    "endYear": 1942,
+    "placeIds": [
+      1
+    ],
+    "recordType": "MILITARY",
+    "region": "UNITED_STATES",
+    "recordCount": 0,
+    "imageCount": 11979092,
+    "fsImageCount": 11979092,
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1339071/waypoints"
   },
   {
     "collectionId": "2127320",
@@ -43875,7 +43891,7 @@
   {
     "collectionId": "2333694",
     "title": "United States, GenealogyBank Obituaries, 1980-2014",
-    "lastUpdatedMillis": 1623405106342,
+    "lastUpdatedMillis": 1624005511325,
     "startYear": 1980,
     "endYear": 2014,
     "placeIds": [
@@ -44283,8 +44299,8 @@
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "recordCount": 6931032,
-    "imageCount": 5610978,
-    "fsImageCount": 5610978,
+    "imageCount": 5599369,
+    "fsImageCount": 5599369,
     "waypointUrl": null
   },
   {
@@ -44402,7 +44418,7 @@
   {
     "collectionId": "1837849",
     "title": "Uruguay Civil Registration, 1879-1930",
-    "lastUpdatedMillis": 1623461927792,
+    "lastUpdatedMillis": 1624072843234,
     "startYear": 1879,
     "endYear": 1930,
     "placeIds": [
@@ -44410,7 +44426,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 274215,
+    "recordCount": 276036,
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
@@ -44475,8 +44491,8 @@
     "recordType": "MIGRATION",
     "region": "SOUTH_AMERICA",
     "recordCount": 3641119,
-    "imageCount": 152255,
-    "fsImageCount": 152255,
+    "imageCount": 157673,
+    "fsImageCount": 157673,
     "waypointUrl": null
   },
   {
@@ -44738,7 +44754,7 @@
   {
     "collectionId": "1803977",
     "title": "Utah, County Marriages, 1871-1941",
-    "lastUpdatedMillis": 1623458473543,
+    "lastUpdatedMillis": 1624049991565,
     "startYear": 1871,
     "endYear": 1941,
     "placeIds": [
@@ -44746,7 +44762,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 459556,
+    "recordCount": 460099,
     "imageCount": 124465,
     "fsImageCount": 124465,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1803977/waypoints"
@@ -46859,8 +46875,8 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 68327,
-    "imageCount": 986,
-    "fsImageCount": 986,
+    "imageCount": 622,
+    "fsImageCount": 622,
     "waypointUrl": null
   },
   {
@@ -47954,7 +47970,7 @@
   {
     "collectionId": "3736255",
     "title": "Zambia, Archdiocese of Lusaka, Church Records, 1950-2015",
-    "lastUpdatedMillis": 1623461800270,
+    "lastUpdatedMillis": 1624074739115,
     "startYear": 1950,
     "endYear": 2015,
     "placeIds": [
@@ -47962,9 +47978,9 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 209776,
-    "imageCount": 17305,
-    "fsImageCount": 17305,
+    "recordCount": 217039,
+    "imageCount": 17759,
+    "fsImageCount": 17759,
     "waypointUrl": null
   },
   {
