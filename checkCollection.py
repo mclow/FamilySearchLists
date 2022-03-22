@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # 
 # A script for checking a collection list from familysearch.org
 # The lists are JSON files, where the entry 'collections' points to 
@@ -32,10 +32,10 @@ for item in j1:
 	colid = item [u'collectionId']
 	title = item [u'title']
 	if colid in ids:
-		print "## Duplicate collection ID: %s" % colid
+		print("## Duplicate collection ID: %s" % colid)
 	if title in titles:
-		print "## Duplicate collection title: %s" % title
+		print("## Duplicate collection title: %s" % title)
 	ids.add(colid)
 	titles.add(title)
 
-print len(j1), len(ids), len(titles)
+print(len(j1), len(ids), len(titles))
