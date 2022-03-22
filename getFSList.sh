@@ -2,7 +2,8 @@
 
 YOUAREHERE=$( dirname "${BASH_SOURCE[0]}" )
 
-git pull
+git pull --quiet
+
 # get the data from familysearch.org; break it into lines, and save it into a file
 ./downloadFSJSON.py > today.json
 
