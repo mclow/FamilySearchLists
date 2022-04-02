@@ -34,8 +34,8 @@ def toDict(collection):
 	return d
 
 def imageString(idxCount, imgCount):
-	idxStr = locale.format("%d", idxCount, grouping=True)
-	imgStr = locale.format("%d", imgCount, grouping=True)
+	idxStr = locale.format_string("%d", idxCount, grouping=True)
+	imgStr = locale.format_string("%d", imgCount, grouping=True)
 	if idxCount > 0 and imgCount > 0:
 		retStr = "%s indexed records with %s record images" % (idxStr, imgStr)
 	elif imgCount > 0:
@@ -48,8 +48,8 @@ def imageString(idxCount, imgCount):
 
 def imageStringWithDiffs(idxCount, imgCount, oldCount, oldImages):
 	retStr = imageString(idxCount, imgCount)
-	oldidxStr = locale.format("%d", oldCount, grouping=True)
-	oldimgStr = locale.format("%d", oldImages, grouping=True)
+	oldidxStr = locale.format_string("%d", oldCount, grouping=True)
+	oldimgStr = locale.format_string("%d", oldImages, grouping=True)
 	retStr += " (was %s records with %s images)" % (oldidxStr, oldimgStr)
 	return retStr
 	
