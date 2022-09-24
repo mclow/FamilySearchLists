@@ -786,7 +786,7 @@
   {
     "collectionId": "4328763",
     "title": "Argentina, Catamarca, Civil Registration, 1888-2000",
-    "lastUpdatedMillis": 1663348672834,
+    "lastUpdatedMillis": 1663952972338,
     "startYear": 1894,
     "endYear": 2000,
     "placeIds": [
@@ -794,9 +794,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 118825,
-    "imageCount": 118950,
-    "fsImageCount": 118950,
+    "recordCount": 123452,
+    "imageCount": 120976,
+    "fsImageCount": 120976,
     "waypointUrl": null
   },
   {
@@ -834,7 +834,7 @@
   {
     "collectionId": "4450393",
     "title": "Argentina, Chaco, Civil Registration, 1889-1946",
-    "lastUpdatedMillis": 1663349726667,
+    "lastUpdatedMillis": 1663954508651,
     "startYear": 1889,
     "endYear": 1946,
     "placeIds": [
@@ -842,9 +842,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 62478,
-    "imageCount": 62290,
-    "fsImageCount": 62290,
+    "recordCount": 65070,
+    "imageCount": 64880,
+    "fsImageCount": 64880,
     "waypointUrl": null
   },
   {
@@ -866,7 +866,7 @@
   {
     "collectionId": "1974183",
     "title": "Argentina, Corrientes, Catholic Church Records, 1734-1977",
-    "lastUpdatedMillis": 1663171715484,
+    "lastUpdatedMillis": 1663900716658,
     "startYear": 1734,
     "endYear": 1977,
     "placeIds": [
@@ -874,7 +874,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 414879,
+    "recordCount": 414923,
     "imageCount": 207943,
     "fsImageCount": 207943,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1974183/waypoints"
@@ -1138,7 +1138,7 @@
   {
     "collectionId": "1974194",
     "title": "Argentina, San Juan, Catholic Church Records, 1655-1975",
-    "lastUpdatedMillis": 1658325065604,
+    "lastUpdatedMillis": 1663953247802,
     "startYear": 1655,
     "endYear": 1975,
     "placeIds": [
@@ -1146,7 +1146,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 145561,
+    "recordCount": 146724,
     "imageCount": 83087,
     "fsImageCount": 83087,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1974194/waypoints"
@@ -3184,6 +3184,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "4158550",
+    "title": "Belarus, Minsk Church Books, 1700-1965",
+    "lastUpdatedMillis": 1663697542305,
+    "startYear": 1700,
+    "endYear": 1965,
+    "placeIds": [
+      1927072
+    ],
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "recordCount": 1649536,
+    "imageCount": 461305,
+    "fsImageCount": 461305,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "1520562",
     "title": "Belgium Births and Baptisms, 1560-1890",
     "lastUpdatedMillis": 1584563811034,
@@ -3554,7 +3570,7 @@
   {
     "collectionId": "1500708",
     "title": "Brazil Baptisms, 1688-1935",
-    "lastUpdatedMillis": 1584564324875,
+    "lastUpdatedMillis": 1663778550630,
     "startYear": 1688,
     "endYear": 1935,
     "placeIds": [
@@ -3562,7 +3578,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 2553222,
+    "recordCount": 2536321,
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
@@ -3602,7 +3618,7 @@
   {
     "collectionId": "2820768",
     "title": "Brazil, Alagoas, Church Records, 1802-2016",
-    "lastUpdatedMillis": 1661890718859,
+    "lastUpdatedMillis": 1663774987106,
     "startYear": 1802,
     "endYear": 2016,
     "placeIds": [
@@ -3610,9 +3626,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 1111672,
-    "imageCount": 165360,
-    "fsImageCount": 165360,
+    "recordCount": 1130164,
+    "imageCount": 166972,
+    "fsImageCount": 166972,
     "waypointUrl": null
   },
   {
@@ -3650,7 +3666,7 @@
   {
     "collectionId": "2177272",
     "title": "Brazil, Bah\u00eda, Catholic Church Records, 1598-2007",
-    "lastUpdatedMillis": 1663345598387,
+    "lastUpdatedMillis": 1663776263691,
     "startYear": 1598,
     "endYear": 2007,
     "placeIds": [
@@ -3658,7 +3674,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 2147639,
+    "recordCount": 2158577,
     "imageCount": 368634,
     "fsImageCount": 368634,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177272/waypoints"
@@ -3666,7 +3682,7 @@
   {
     "collectionId": "2175764",
     "title": "Brazil, Cear\u00e1, Catholic Church Records, 1725-1971",
-    "lastUpdatedMillis": 1663340420956,
+    "lastUpdatedMillis": 1663776264141,
     "startYear": 1725,
     "endYear": 1971,
     "placeIds": [
@@ -3674,7 +3690,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 4068254,
+    "recordCount": 4071059,
     "imageCount": 774950,
     "fsImageCount": 774950,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2175764/waypoints"
@@ -3778,7 +3794,7 @@
   {
     "collectionId": "2177275",
     "title": "Brazil, Minas Gerais, Catholic Church Records, 1706-1999",
-    "lastUpdatedMillis": 1663346800192,
+    "lastUpdatedMillis": 1663774954170,
     "startYear": 1706,
     "endYear": 1999,
     "placeIds": [
@@ -3786,7 +3802,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 4943071,
+    "recordCount": 5126439,
     "imageCount": 930569,
     "fsImageCount": 930569,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177275/waypoints"
@@ -3794,7 +3810,7 @@
   {
     "collectionId": "3479702",
     "title": "Brazil, Minas Gerais, Civil Registration, 1879-1949",
-    "lastUpdatedMillis": 1663346203168,
+    "lastUpdatedMillis": 1663953901910,
     "startYear": 1879,
     "endYear": 1949,
     "placeIds": [
@@ -3802,15 +3818,15 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 794656,
-    "imageCount": 331584,
-    "fsImageCount": 331584,
+    "recordCount": 796018,
+    "imageCount": 332029,
+    "fsImageCount": 332029,
     "waypointUrl": null
   },
   {
     "collectionId": "2177282",
     "title": "Brazil, Paran\u00e1, Catholic Church Records, 1704-2008",
-    "lastUpdatedMillis": 1661889382927,
+    "lastUpdatedMillis": 1663739148077,
     "startYear": 1704,
     "endYear": 2008,
     "placeIds": [
@@ -3818,7 +3834,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 897705,
+    "recordCount": 936126,
     "imageCount": 138743,
     "fsImageCount": 138743,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177282/waypoints"
@@ -3826,7 +3842,7 @@
   {
     "collectionId": "2016194",
     "title": "Brazil, Paran\u00e1, Civil Registration, 1852-1996",
-    "lastUpdatedMillis": 1663349678079,
+    "lastUpdatedMillis": 1663953767113,
     "startYear": 1852,
     "endYear": 1996,
     "placeIds": [
@@ -3834,7 +3850,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 2561764,
+    "recordCount": 2571567,
     "imageCount": 1689031,
     "fsImageCount": 1689031,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2016194/waypoints"
@@ -3842,7 +3858,7 @@
   {
     "collectionId": "2177286",
     "title": "Brazil, Para\u00edba, Catholic Church Records, 1731-2013",
-    "lastUpdatedMillis": 1663340646711,
+    "lastUpdatedMillis": 1663774958022,
     "startYear": 1731,
     "endYear": 2013,
     "placeIds": [
@@ -3850,7 +3866,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 6373432,
+    "recordCount": 6385750,
     "imageCount": 788492,
     "fsImageCount": 788492,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177286/waypoints"
@@ -3882,7 +3898,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 659584,
+    "recordCount": 660377,
     "imageCount": 103313,
     "fsImageCount": 103313,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177288/waypoints"
@@ -3890,7 +3906,7 @@
   {
     "collectionId": "2177293",
     "title": "Brazil, Pernambuco, Catholic Church Records, 1762-2002",
-    "lastUpdatedMillis": 1660344197018,
+    "lastUpdatedMillis": 1663776281241,
     "startYear": 1762,
     "endYear": 2002,
     "placeIds": [
@@ -3898,7 +3914,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 5981934,
+    "recordCount": 5984736,
     "imageCount": 578073,
     "fsImageCount": 578073,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177293/waypoints"
@@ -3986,7 +4002,7 @@
   {
     "collectionId": "2177295",
     "title": "Brazil, Rio Grande do Sul, Catholic Church Records, 1738-1952",
-    "lastUpdatedMillis": 1663346775561,
+    "lastUpdatedMillis": 1663774967660,
     "startYear": 1738,
     "endYear": 1952,
     "placeIds": [
@@ -3994,7 +4010,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 628202,
+    "recordCount": 697092,
     "imageCount": 184012,
     "fsImageCount": 184012,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177295/waypoints"
@@ -4002,7 +4018,7 @@
   {
     "collectionId": "3741255",
     "title": "Brazil, Rio Grande do Sul, Civil Registration, 1860-2006",
-    "lastUpdatedMillis": 1663349261462,
+    "lastUpdatedMillis": 1663954183809,
     "startYear": 1860,
     "endYear": 2006,
     "placeIds": [
@@ -4010,9 +4026,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 1572022,
-    "imageCount": 804671,
-    "fsImageCount": 804671,
+    "recordCount": 1579032,
+    "imageCount": 808245,
+    "fsImageCount": 808245,
     "waypointUrl": null
   },
   {
@@ -4082,7 +4098,7 @@
   {
     "collectionId": "2177296",
     "title": "Brazil, Santa Catarina, Catholic Church Records, 1714-1977",
-    "lastUpdatedMillis": 1661802571984,
+    "lastUpdatedMillis": 1663774956310,
     "startYear": 1714,
     "endYear": 1977,
     "placeIds": [
@@ -4090,7 +4106,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 779776,
+    "recordCount": 788107,
     "imageCount": 166596,
     "fsImageCount": 166596,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177296/waypoints"
@@ -4098,7 +4114,7 @@
   {
     "collectionId": "2016197",
     "title": "Brazil, Santa Catarina, Civil Registration, 1850-1999",
-    "lastUpdatedMillis": 1663327839261,
+    "lastUpdatedMillis": 1663953723352,
     "startYear": 1850,
     "endYear": 1999,
     "placeIds": [
@@ -4106,7 +4122,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 590945,
+    "recordCount": 592726,
     "imageCount": 1037638,
     "fsImageCount": 1037638,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2016197/waypoints"
@@ -4114,7 +4130,7 @@
   {
     "collectionId": "2177298",
     "title": "Brazil, Sergipe, Catholic Church Records, 1785-1994",
-    "lastUpdatedMillis": 1663348658494,
+    "lastUpdatedMillis": 1663352479180,
     "startYear": 1785,
     "endYear": 1994,
     "placeIds": [
@@ -4122,7 +4138,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 1201827,
+    "recordCount": 1210443,
     "imageCount": 273847,
     "fsImageCount": 273847,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177298/waypoints"
@@ -4130,7 +4146,7 @@
   {
     "collectionId": "2177299",
     "title": "Brazil, S\u00e3o Paulo, Catholic Church Records, 1640-2012",
-    "lastUpdatedMillis": 1663347042508,
+    "lastUpdatedMillis": 1663778550630,
     "startYear": 1640,
     "endYear": 2012,
     "placeIds": [
@@ -4138,7 +4154,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 5721711,
+    "recordCount": 5761321,
     "imageCount": 1610067,
     "fsImageCount": 1610067,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2177299/waypoints"
@@ -7341,7 +7357,7 @@
   {
     "collectionId": "3405096",
     "title": "Chile, Catholic Church Records, 1633-2015",
-    "lastUpdatedMillis": 1663349354171,
+    "lastUpdatedMillis": 1663953979135,
     "startYear": 1633,
     "endYear": 2015,
     "placeIds": [
@@ -7349,9 +7365,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 7274352,
-    "imageCount": 902412,
-    "fsImageCount": 902412,
+    "recordCount": 7288154,
+    "imageCount": 901456,
+    "fsImageCount": 901456,
     "waypointUrl": null
   },
   {
@@ -7501,7 +7517,7 @@
   {
     "collectionId": "1726975",
     "title": "Colombia, Catholic Church Records, 1576-2018",
-    "lastUpdatedMillis": 1663349556228,
+    "lastUpdatedMillis": 1663954528883,
     "startYear": 1576,
     "endYear": 2018,
     "placeIds": [
@@ -7509,7 +7525,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 25026099,
+    "recordCount": 25048748,
     "imageCount": 12659776,
     "fsImageCount": 12659776,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1726975/waypoints"
@@ -8093,7 +8109,7 @@
   {
     "collectionId": "1460016",
     "title": "Costa Rica, Catholic Church Records, 1595-1992",
-    "lastUpdatedMillis": 1663346557214,
+    "lastUpdatedMillis": 1663954560870,
     "startYear": 1595,
     "endYear": 1992,
     "placeIds": [
@@ -8101,7 +8117,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 3915515,
+    "recordCount": 3927205,
     "imageCount": 962203,
     "fsImageCount": 962203,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1460016/waypoints"
@@ -8125,7 +8141,7 @@
   {
     "collectionId": "1925429",
     "title": "Costa Rica, Civil Registration, 1823-1975",
-    "lastUpdatedMillis": 1663349010402,
+    "lastUpdatedMillis": 1663936305815,
     "startYear": 1823,
     "endYear": 1975,
     "placeIds": [
@@ -8133,7 +8149,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 6074703,
+    "recordCount": 6077014,
     "imageCount": 404718,
     "fsImageCount": 404718,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1925429/waypoints"
@@ -8141,7 +8157,7 @@
   {
     "collectionId": "2040054",
     "title": "Croatia, Church Books, 1516-1994",
-    "lastUpdatedMillis": 1663222618144,
+    "lastUpdatedMillis": 1663944878471,
     "startYear": 1516,
     "endYear": 1994,
     "placeIds": [
@@ -8149,7 +8165,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 2983888,
+    "recordCount": 2983900,
     "imageCount": 1421761,
     "fsImageCount": 1421761,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2040054/waypoints"
@@ -8173,7 +8189,7 @@
   {
     "collectionId": "4375851",
     "title": "Cuba, Church Records, 1584-1960",
-    "lastUpdatedMillis": 1663152858515,
+    "lastUpdatedMillis": 1663887238944,
     "startYear": 1584,
     "endYear": 1960,
     "placeIds": [
@@ -8181,7 +8197,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 191672,
+    "recordCount": 191686,
     "imageCount": 41707,
     "fsImageCount": 41707,
     "waypointUrl": null
@@ -9407,7 +9423,7 @@
   {
     "collectionId": "1619814",
     "title": "Dominican Republic Civil Registration, 1801-2010",
-    "lastUpdatedMillis": 1662689071721,
+    "lastUpdatedMillis": 1663869501745,
     "startYear": 1801,
     "endYear": 2010,
     "placeIds": [
@@ -9415,7 +9431,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 2283046,
+    "recordCount": 2302243,
     "imageCount": 3416801,
     "fsImageCount": 3416801,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1619814/waypoints"
@@ -9455,7 +9471,7 @@
   {
     "collectionId": "1918910",
     "title": "Dominican Republic, Catholic Church Records, 1590-1975",
-    "lastUpdatedMillis": 1663329417385,
+    "lastUpdatedMillis": 1663947721169,
     "startYear": 1590,
     "endYear": 1975,
     "placeIds": [
@@ -9463,7 +9479,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 2193884,
+    "recordCount": 2193934,
     "imageCount": 238265,
     "fsImageCount": 238265,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1918910/waypoints"
@@ -9519,7 +9535,7 @@
   {
     "collectionId": "1923402",
     "title": "Ecuador, Catholic Church Records, 1565-2011",
-    "lastUpdatedMillis": 1661363351336,
+    "lastUpdatedMillis": 1663948844920,
     "startYear": 1565,
     "endYear": 2011,
     "placeIds": [
@@ -9527,7 +9543,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 5965074,
+    "recordCount": 5966870,
     "imageCount": 1454787,
     "fsImageCount": 1454787,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1923402/waypoints"
@@ -9567,7 +9583,7 @@
   {
     "collectionId": "1919582",
     "title": "El Salvador Catholic Church Records, 1655-1977",
-    "lastUpdatedMillis": 1663343470744,
+    "lastUpdatedMillis": 1663954276170,
     "startYear": 1655,
     "endYear": 1977,
     "placeIds": [
@@ -9575,7 +9591,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 2217336,
+    "recordCount": 2218757,
     "imageCount": 592191,
     "fsImageCount": 592191,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1919582/waypoints"
@@ -10006,8 +10022,8 @@
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "recordCount": 1108130,
-    "imageCount": 101556,
-    "fsImageCount": 101556,
+    "imageCount": 100885,
+    "fsImageCount": 100885,
     "waypointUrl": null
   },
   {
@@ -11597,7 +11613,7 @@
   {
     "collectionId": "1462403",
     "title": "England, Warwickshire, Parish Registers, 1535-1963",
-    "lastUpdatedMillis": 1663252194387,
+    "lastUpdatedMillis": 1663775992645,
     "startYear": 1535,
     "endYear": 1963,
     "placeIds": [
@@ -11910,8 +11926,8 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 862658,
-    "imageCount": 14808,
-    "fsImageCount": 14808,
+    "imageCount": 11704,
+    "fsImageCount": 11704,
     "waypointUrl": null
   },
   {
@@ -12045,7 +12061,7 @@
   {
     "collectionId": "1595003",
     "title": "Florida Deaths, 1877-1939",
-    "lastUpdatedMillis": 1663275193393,
+    "lastUpdatedMillis": 1663808726791,
     "startYear": 1877,
     "endYear": 1939,
     "placeIds": [
@@ -12053,9 +12069,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 484116,
-    "imageCount": 482004,
-    "fsImageCount": 482004,
+    "recordCount": 484325,
+    "imageCount": 482007,
+    "fsImageCount": 482007,
     "waypointUrl": null
   },
   {
@@ -13129,6 +13145,22 @@
     "imageCount": 118246,
     "fsImageCount": 118246,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2358735/waypoints"
+  },
+  {
+    "collectionId": "4426179",
+    "title": "France, Haute-Sa\u00f4ne, Parish and Civil Registration, 1551-1872",
+    "lastUpdatedMillis": 1663600857049,
+    "startYear": 1551,
+    "endYear": 1872,
+    "placeIds": [
+      1927089
+    ],
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "recordCount": 3557884,
+    "imageCount": 1090931,
+    "fsImageCount": 1090931,
+    "waypointUrl": null
   },
   {
     "collectionId": "2820772",
@@ -15350,8 +15382,8 @@
     "recordType": "VITAL",
     "region": "EUROPE",
     "recordCount": 2967130,
-    "imageCount": 307298,
-    "fsImageCount": 307298,
+    "imageCount": 306256,
+    "fsImageCount": 306256,
     "waypointUrl": null
   },
   {
@@ -16021,7 +16053,7 @@
   {
     "collectionId": "2102016",
     "title": "Guatemala, Alta Verapaz, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1663273863959,
+    "lastUpdatedMillis": 1663895135117,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16029,7 +16061,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 589988,
+    "recordCount": 591287,
     "imageCount": 17770,
     "fsImageCount": 17770,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2102016/waypoints"
@@ -16053,7 +16085,7 @@
   {
     "collectionId": "1614809",
     "title": "Guatemala, Catholic Church Records, 1581-1977",
-    "lastUpdatedMillis": 1663282150994,
+    "lastUpdatedMillis": 1663523736535,
     "startYear": 1581,
     "endYear": 1977,
     "placeIds": [
@@ -16061,7 +16093,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 5980566,
+    "recordCount": 5985668,
     "imageCount": 1160338,
     "fsImageCount": 1160338,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1614809/waypoints"
@@ -16069,7 +16101,7 @@
   {
     "collectionId": "2114423",
     "title": "Guatemala, Chimaltenango, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1662189392378,
+    "lastUpdatedMillis": 1663640676814,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16077,7 +16109,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 566105,
+    "recordCount": 566518,
     "imageCount": 3075,
     "fsImageCount": 3075,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2114423/waypoints"
@@ -16085,7 +16117,7 @@
   {
     "collectionId": "2790265",
     "title": "Guatemala, Chiquimula, Civil Registration, 1877-2008",
-    "lastUpdatedMillis": 1662138471685,
+    "lastUpdatedMillis": 1663641732261,
     "startYear": 1927,
     "endYear": 2008,
     "placeIds": [
@@ -16093,9 +16125,9 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 248138,
-    "imageCount": 168246,
-    "fsImageCount": 168246,
+    "recordCount": 250607,
+    "imageCount": 168866,
+    "fsImageCount": 168866,
     "waypointUrl": null
   },
   {
@@ -16117,7 +16149,7 @@
   {
     "collectionId": "2451040",
     "title": "Guatemala, El Progreso, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1659698491781,
+    "lastUpdatedMillis": 1663641642108,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16125,7 +16157,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 155246,
+    "recordCount": 156850,
     "imageCount": 103502,
     "fsImageCount": 103502,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2451040/waypoints"
@@ -16133,7 +16165,7 @@
   {
     "collectionId": "2392700",
     "title": "Guatemala, Escuintla, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1658149789282,
+    "lastUpdatedMillis": 1663641306750,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16141,7 +16173,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 393613,
+    "recordCount": 393615,
     "imageCount": 2355,
     "fsImageCount": 2355,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2392700/waypoints"
@@ -16149,7 +16181,7 @@
   {
     "collectionId": "2075150",
     "title": "Guatemala, Guatemala, Civil Registration, 1877-2006",
-    "lastUpdatedMillis": 1663053221702,
+    "lastUpdatedMillis": 1663833331093,
     "startYear": 1877,
     "endYear": 2006,
     "placeIds": [
@@ -16157,7 +16189,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 2392506,
+    "recordCount": 2441892,
     "imageCount": 1486,
     "fsImageCount": 1486,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2075150/waypoints"
@@ -16181,7 +16213,7 @@
   {
     "collectionId": "2443319",
     "title": "Guatemala, Izabal, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1659698450715,
+    "lastUpdatedMillis": 1663641431463,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16189,7 +16221,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 205489,
+    "recordCount": 205506,
     "imageCount": 9848,
     "fsImageCount": 9848,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2443319/waypoints"
@@ -16245,7 +16277,7 @@
   {
     "collectionId": "2274796",
     "title": "Guatemala, Quetzaltenango, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1662189442659,
+    "lastUpdatedMillis": 1663641230444,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16253,7 +16285,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 737242,
+    "recordCount": 750686,
     "imageCount": 41022,
     "fsImageCount": 41022,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2274796/waypoints"
@@ -16261,7 +16293,7 @@
   {
     "collectionId": "2274794",
     "title": "Guatemala, Quich\u00e9, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1659698291763,
+    "lastUpdatedMillis": 1663641114592,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16269,7 +16301,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 517620,
+    "recordCount": 519533,
     "imageCount": 70397,
     "fsImageCount": 70397,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2274794/waypoints"
@@ -16277,7 +16309,7 @@
   {
     "collectionId": "2422976",
     "title": "Guatemala, Retalhuleu, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1659698427593,
+    "lastUpdatedMillis": 1663641370512,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16285,7 +16317,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 285316,
+    "recordCount": 287191,
     "imageCount": 550,
     "fsImageCount": 550,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2422976/waypoints"
@@ -16293,7 +16325,7 @@
   {
     "collectionId": "2274791",
     "title": "Guatemala, Sacatep\u00e9quez, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1662189422408,
+    "lastUpdatedMillis": 1663641028443,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16301,7 +16333,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 225214,
+    "recordCount": 225272,
     "imageCount": 63,
     "fsImageCount": 63,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2274791/waypoints"
@@ -16325,7 +16357,7 @@
   {
     "collectionId": "2274788",
     "title": "Guatemala, Santa Rosa, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1659698245477,
+    "lastUpdatedMillis": 1663640970012,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16333,7 +16365,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 258291,
+    "recordCount": 260502,
     "imageCount": 97101,
     "fsImageCount": 97101,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2274788/waypoints"
@@ -16341,7 +16373,7 @@
   {
     "collectionId": "2444805",
     "title": "Guatemala, Solol\u00e1, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1662138521720,
+    "lastUpdatedMillis": 1663641503856,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16349,7 +16381,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 302658,
+    "recordCount": 304202,
     "imageCount": 70746,
     "fsImageCount": 70746,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2444805/waypoints"
@@ -16357,7 +16389,7 @@
   {
     "collectionId": "2274785",
     "title": "Guatemala, Suchitep\u00e9quez, Civil Registration, 1877-1994",
-    "lastUpdatedMillis": 1659698045931,
+    "lastUpdatedMillis": 1663640907107,
     "startYear": 1877,
     "endYear": 1994,
     "placeIds": [
@@ -16365,7 +16397,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 407256,
+    "recordCount": 411112,
     "imageCount": 1312,
     "fsImageCount": 1312,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2274785/waypoints"
@@ -16373,7 +16405,7 @@
   {
     "collectionId": "2268582",
     "title": "Guatemala, Totonicap\u00e1n, Civil Registration, 1930-2008",
-    "lastUpdatedMillis": 1662191945469,
+    "lastUpdatedMillis": 1663640799673,
     "startYear": 1930,
     "endYear": 2008,
     "placeIds": [
@@ -16381,9 +16413,9 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 357163,
-    "imageCount": 229699,
-    "fsImageCount": 229699,
+    "recordCount": 363183,
+    "imageCount": 231150,
+    "fsImageCount": 231150,
     "waypointUrl": null
   },
   {
@@ -16997,7 +17029,7 @@
   {
     "collectionId": "2135627",
     "title": "Honduras, Civil Registration, 1841-1968",
-    "lastUpdatedMillis": 1663342534192,
+    "lastUpdatedMillis": 1663950600097,
     "startYear": 1841,
     "endYear": 1968,
     "placeIds": [
@@ -17005,7 +17037,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 536599,
+    "recordCount": 537110,
     "imageCount": 337976,
     "fsImageCount": 337976,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2135627/waypoints"
@@ -17029,7 +17061,7 @@
   {
     "collectionId": "1452460",
     "title": "Hungary Civil Registration, 1895-1980",
-    "lastUpdatedMillis": 1661979080142,
+    "lastUpdatedMillis": 1663890155259,
     "startYear": 1895,
     "endYear": 1980,
     "placeIds": [
@@ -17037,7 +17069,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 3708521,
+    "recordCount": 5850168,
     "imageCount": 5864285,
     "fsImageCount": 5864285,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1452460/waypoints"
@@ -17141,7 +17173,7 @@
   {
     "collectionId": "2697871",
     "title": "Iceland Church Census, 1744-1965",
-    "lastUpdatedMillis": 1660073283997,
+    "lastUpdatedMillis": 1663454483376,
     "startYear": 1744,
     "endYear": 1977,
     "placeIds": [
@@ -17150,8 +17182,8 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 1633217,
-    "imageCount": 46886,
-    "fsImageCount": 46886,
+    "imageCount": 47120,
+    "fsImageCount": 47120,
     "waypointUrl": null
   },
   {
@@ -20099,6 +20131,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "4496117",
+    "title": "Ireland, Court of Chancery Bill Books, 1627-1884",
+    "lastUpdatedMillis": 1663909480124,
+    "startYear": 1627,
+    "endYear": 1884,
+    "placeIds": [
+      1927084
+    ],
+    "recordType": "LEGAL",
+    "region": "UNITED_KINGDOM_IRELAND",
+    "recordCount": 1217591,
+    "imageCount": 22602,
+    "fsImageCount": 22602,
+    "waypointUrl": null
+  },
+  {
     "collectionId": "3460239",
     "title": "Ireland, Diocesan and Prerogative Marriage License Bonds Indexes, 1623-1866",
     "lastUpdatedMillis": 1569615609773,
@@ -20144,6 +20192,22 @@
     "recordCount": 832770,
     "imageCount": 66591,
     "fsImageCount": 66591,
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "4496116",
+    "title": "Ireland, National School Registers, 1847-1954",
+    "lastUpdatedMillis": 1663944044162,
+    "startYear": 1847,
+    "endYear": 1954,
+    "placeIds": [
+      1927084
+    ],
+    "recordType": "CENSUS",
+    "region": "UNITED_KINGDOM_IRELAND",
+    "recordCount": 297029,
+    "imageCount": 11488,
+    "fsImageCount": 11488,
     "waypointUrl": null
   },
   {
@@ -22629,7 +22693,7 @@
   {
     "collectionId": "1947700",
     "title": "Italy, Ravenna, Ravenna, Civil Registration (Tribunale), 1866-1929",
-    "lastUpdatedMillis": 1663343260419,
+    "lastUpdatedMillis": 1663908718667,
     "startYear": 1866,
     "endYear": 1929,
     "placeIds": [
@@ -22637,7 +22701,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 4461,
+    "recordCount": 4899,
     "imageCount": 1759182,
     "fsImageCount": 1759182,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1947700/waypoints"
@@ -22773,7 +22837,7 @@
   {
     "collectionId": "4464417",
     "title": "Italy, Sassari, Civil Registration (Tribunale), 1803-1942",
-    "lastUpdatedMillis": 1663327841618,
+    "lastUpdatedMillis": 1663953116062,
     "startYear": 1806,
     "endYear": 1942,
     "placeIds": [
@@ -22781,9 +22845,9 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 3632,
-    "imageCount": 1043,
-    "fsImageCount": 1043,
+    "recordCount": 4294,
+    "imageCount": 1270,
+    "fsImageCount": 1270,
     "waypointUrl": null
   },
   {
@@ -23205,7 +23269,7 @@
   {
     "collectionId": "2141952",
     "title": "Italy, Vicenza, Bassano del Grappa, Civil Registration (State Archive), 1871-1942",
-    "lastUpdatedMillis": 1568847589179,
+    "lastUpdatedMillis": 1663359053155,
     "startYear": 1875,
     "endYear": 1896,
     "placeIds": [
@@ -23213,7 +23277,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 120752,
+    "recordCount": 186697,
     "imageCount": 1637660,
     "fsImageCount": 1637660,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2141952/waypoints"
@@ -23285,7 +23349,7 @@
   {
     "collectionId": "1827268",
     "title": "Jamaica, Church of England Parish Register Transcripts, 1664-1880",
-    "lastUpdatedMillis": 1662060799122,
+    "lastUpdatedMillis": 1663875456068,
     "startYear": 1664,
     "endYear": 1880,
     "placeIds": [
@@ -23293,7 +23357,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 540976,
+    "recordCount": 546798,
     "imageCount": 37199,
     "fsImageCount": 37199,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1827268/waypoints"
@@ -23845,7 +23909,7 @@
   {
     "collectionId": "1417491",
     "title": "Kentucky Death Records, 1911-1967",
-    "lastUpdatedMillis": 1663349108140,
+    "lastUpdatedMillis": 1663627439569,
     "startYear": 1911,
     "endYear": 1967,
     "placeIds": [
@@ -23853,9 +23917,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 1745193,
-    "imageCount": 1740377,
-    "fsImageCount": 1740377,
+    "recordCount": 1745279,
+    "imageCount": 1743757,
+    "fsImageCount": 1743757,
     "waypointUrl": null
   },
   {
@@ -24045,7 +24109,7 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 9865936,
+    "recordCount": 9865935,
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
@@ -26805,7 +26869,7 @@
   {
     "collectionId": "1502401",
     "title": "Mexico, Coahuila, Catholic Church Records, 1627-1978",
-    "lastUpdatedMillis": 1663258709069,
+    "lastUpdatedMillis": 1663627667933,
     "startYear": 1627,
     "endYear": 1978,
     "placeIds": [
@@ -26813,7 +26877,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 1582022,
+    "recordCount": 1582092,
     "imageCount": 393502,
     "fsImageCount": 393502,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1502401/waypoints"
@@ -26997,7 +27061,7 @@
   {
     "collectionId": "1804358",
     "title": "Mexico, Hidalgo, Catholic Church Records, 1546-1971",
-    "lastUpdatedMillis": 1661362836824,
+    "lastUpdatedMillis": 1663776183622,
     "startYear": 1546,
     "endYear": 1971,
     "placeIds": [
@@ -27005,7 +27069,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 5941190,
+    "recordCount": 5941438,
     "imageCount": 1750627,
     "fsImageCount": 1750627,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1804358/waypoints"
@@ -27029,7 +27093,7 @@
   {
     "collectionId": "1874591",
     "title": "Mexico, Jalisco, Catholic Church Records, 1590-1979",
-    "lastUpdatedMillis": 1650818942374,
+    "lastUpdatedMillis": 1663793703174,
     "startYear": 1590,
     "endYear": 1979,
     "placeIds": [
@@ -27037,7 +27101,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 10797179,
+    "recordCount": 10776480,
     "imageCount": 5797486,
     "fsImageCount": 5797486,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1874591/waypoints"
@@ -27061,7 +27125,7 @@
   {
     "collectionId": "1883388",
     "title": "Mexico, Michoac\u00e1n, Catholic Church Records, 1555-1996",
-    "lastUpdatedMillis": 1663282534544,
+    "lastUpdatedMillis": 1663524536580,
     "startYear": 1555,
     "endYear": 1996,
     "placeIds": [
@@ -27069,7 +27133,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 5691434,
+    "recordCount": 5693153,
     "imageCount": 5283986,
     "fsImageCount": 5283986,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1883388/waypoints"
@@ -27221,7 +27285,7 @@
   {
     "collectionId": "1909191",
     "title": "Mexico, Oaxaca, Catholic Church Records, 1559-1988",
-    "lastUpdatedMillis": 1663282591698,
+    "lastUpdatedMillis": 1663775242166,
     "startYear": 1559,
     "endYear": 1988,
     "placeIds": [
@@ -27229,7 +27293,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 9995911,
+    "recordCount": 10000163,
     "imageCount": 3458764,
     "fsImageCount": 3458764,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1909191/waypoints"
@@ -27253,7 +27317,7 @@
   {
     "collectionId": "1837906",
     "title": "Mexico, Puebla, Catholic Church Records, 1545-1977",
-    "lastUpdatedMillis": 1663349686139,
+    "lastUpdatedMillis": 1663954405926,
     "startYear": 1545,
     "endYear": 1977,
     "placeIds": [
@@ -27261,7 +27325,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 7485962,
+    "recordCount": 7496634,
     "imageCount": 6124553,
     "fsImageCount": 6124553,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1837906/waypoints"
@@ -27285,7 +27349,7 @@
   {
     "collectionId": "1881200",
     "title": "Mexico, Quer\u00e9taro, Catholic Church Records, 1590-1970",
-    "lastUpdatedMillis": 1663346068857,
+    "lastUpdatedMillis": 1663953828624,
     "startYear": 1593,
     "endYear": 1969,
     "placeIds": [
@@ -27293,7 +27357,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 2711120,
+    "recordCount": 2713916,
     "imageCount": 1380077,
     "fsImageCount": 1380077,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1881200/waypoints"
@@ -27333,7 +27397,7 @@
   {
     "collectionId": "1860864",
     "title": "Mexico, San Luis Potos\u00ed, Catholic Church Records, 1586-1977",
-    "lastUpdatedMillis": 1650818752259,
+    "lastUpdatedMillis": 1663523001122,
     "startYear": 1586,
     "endYear": 1977,
     "placeIds": [
@@ -27341,7 +27405,7 @@
     ],
     "recordType": "VITAL",
     "region": "MEXICO",
-    "recordCount": 5986994,
+    "recordCount": 5989298,
     "imageCount": 2162812,
     "fsImageCount": 2162812,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1860864/waypoints"
@@ -28801,6 +28865,22 @@
     "imageCount": 63363,
     "fsImageCount": 63363,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1419635/waypoints"
+  },
+  {
+    "collectionId": "4489446",
+    "title": "Minnesota, Veterans Grave Registration Reports, 1930-1975",
+    "lastUpdatedMillis": 1663954242974,
+    "startYear": 1930,
+    "endYear": 1975,
+    "placeIds": [
+      18
+    ],
+    "recordType": "VITAL",
+    "region": "UNITED_STATES",
+    "recordCount": 8934,
+    "imageCount": 8902,
+    "fsImageCount": 8902,
+    "waypointUrl": null
   },
   {
     "collectionId": "3744865",
@@ -32309,7 +32389,7 @@
   {
     "collectionId": "4460198",
     "title": "New York, Birth Indexes outside of New York City, 1881-1942",
-    "lastUpdatedMillis": 1663261110246,
+    "lastUpdatedMillis": 1663948907210,
     "startYear": 1881,
     "endYear": 1942,
     "placeIds": [
@@ -32318,8 +32398,8 @@
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "recordCount": 640875,
-    "imageCount": 78905,
-    "fsImageCount": 78905,
+    "imageCount": 78908,
+    "fsImageCount": 78908,
     "waypointUrl": null
   },
   {
@@ -33102,8 +33182,8 @@
     "recordType": "VITAL",
     "region": "AUSTRALIA_NEW_ZEALAND",
     "recordCount": 486930,
-    "imageCount": 22165,
-    "fsImageCount": 22165,
+    "imageCount": 22680,
+    "fsImageCount": 22680,
     "waypointUrl": null
   },
   {
@@ -33173,7 +33253,7 @@
   {
     "collectionId": "1601210",
     "title": "Nicaragua Civil Registration, 1809-2013",
-    "lastUpdatedMillis": 1663349686829,
+    "lastUpdatedMillis": 1663952066519,
     "startYear": 1809,
     "endYear": 2013,
     "placeIds": [
@@ -33181,7 +33261,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 2559152,
+    "recordCount": 2560580,
     "imageCount": 2591542,
     "fsImageCount": 2591542,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1601210/waypoints"
@@ -33189,7 +33269,7 @@
   {
     "collectionId": "1494432",
     "title": "Nicaragua, Catholic Church Records, 1740-1960",
-    "lastUpdatedMillis": 1663135404891,
+    "lastUpdatedMillis": 1663954284879,
     "startYear": 1740,
     "endYear": 1960,
     "placeIds": [
@@ -34117,7 +34197,7 @@
   {
     "collectionId": "1661306",
     "title": "Norway, Probate Index Cards, 1640-1903",
-    "lastUpdatedMillis": 1662670833026,
+    "lastUpdatedMillis": 1663856240770,
     "startYear": 1640,
     "endYear": 1903,
     "placeIds": [
@@ -34125,7 +34205,7 @@
     ],
     "recordType": "LEGAL",
     "region": "EUROPE",
-    "recordCount": 465767,
+    "recordCount": 468060,
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
@@ -34942,8 +35022,8 @@
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "recordCount": 100669,
-    "imageCount": 100361,
-    "fsImageCount": 100361,
+    "imageCount": 100177,
+    "fsImageCount": 100177,
     "waypointUrl": null
   },
   {
@@ -35893,7 +35973,7 @@
   {
     "collectionId": "1913397",
     "title": "Panama, Catholic Church Records, 1707-1973",
-    "lastUpdatedMillis": 1663288733210,
+    "lastUpdatedMillis": 1663737310556,
     "startYear": 1707,
     "endYear": 1973,
     "placeIds": [
@@ -35901,7 +35981,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 917511,
+    "recordCount": 917577,
     "imageCount": 240799,
     "fsImageCount": 240799,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1913397/waypoints"
@@ -36005,7 +36085,7 @@
   {
     "collectionId": "1922527",
     "title": "Paraguay, Catholic Church Records, 1754-2015",
-    "lastUpdatedMillis": 1663339414057,
+    "lastUpdatedMillis": 1663858511398,
     "startYear": 1754,
     "endYear": 1981,
     "placeIds": [
@@ -36013,7 +36093,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 2050919,
+    "recordCount": 2051438,
     "imageCount": 373775,
     "fsImageCount": 373775,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1922527/waypoints"
@@ -36805,7 +36885,7 @@
   {
     "collectionId": "1877097",
     "title": "Peru, Catholic Church Records, 1603-1992",
-    "lastUpdatedMillis": 1663349709975,
+    "lastUpdatedMillis": 1663954465129,
     "startYear": 1603,
     "endYear": 1992,
     "placeIds": [
@@ -36813,7 +36893,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 21494162,
+    "recordCount": 21519812,
     "imageCount": 4192353,
     "fsImageCount": 4192353,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1877097/waypoints"
@@ -36901,7 +36981,7 @@
   {
     "collectionId": "4439346",
     "title": "Peru, Hu\u00e1nuco, Catholic Church Records, 1660-2020",
-    "lastUpdatedMillis": 1663349301647,
+    "lastUpdatedMillis": 1663951628188,
     "startYear": 1757,
     "endYear": 1949,
     "placeIds": [
@@ -36909,9 +36989,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 5939,
-    "imageCount": 3998,
-    "fsImageCount": 3998,
+    "recordCount": 8959,
+    "imageCount": 5402,
+    "fsImageCount": 5402,
     "waypointUrl": null
   },
   {
@@ -37045,7 +37125,7 @@
   {
     "collectionId": "3755355",
     "title": "Peru, Pasco, Civil Registration, 1931-1996",
-    "lastUpdatedMillis": 1625260172851,
+    "lastUpdatedMillis": 1663954120767,
     "startYear": 1931,
     "endYear": 1996,
     "placeIds": [
@@ -37053,9 +37133,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 74031,
-    "imageCount": 73864,
-    "fsImageCount": 73864,
+    "recordCount": 76570,
+    "imageCount": 76396,
+    "fsImageCount": 76396,
     "waypointUrl": null
   },
   {
@@ -37317,7 +37397,7 @@
   {
     "collectionId": "2861657",
     "title": "Philippines, Catholic Church Records, 1615-1985",
-    "lastUpdatedMillis": 1661375227112,
+    "lastUpdatedMillis": 1663524474980,
     "startYear": 1794,
     "endYear": 1985,
     "placeIds": [
@@ -37326,8 +37406,8 @@
     "recordType": "VITAL",
     "region": "ASIA_MIDDLE_EAST",
     "recordCount": 6032877,
-    "imageCount": 2149645,
-    "fsImageCount": 2149645,
+    "imageCount": 2149891,
+    "fsImageCount": 2149891,
     "waypointUrl": null
   },
   {
@@ -37669,7 +37749,7 @@
   {
     "collectionId": "4449047",
     "title": "Portugal, Azores, Catholic Church Records, 1044-2019",
-    "lastUpdatedMillis": 1663200363354,
+    "lastUpdatedMillis": 1663787804212,
     "startYear": 1044,
     "endYear": 2019,
     "placeIds": [
@@ -37677,15 +37757,15 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 587508,
-    "imageCount": 177097,
-    "fsImageCount": 177097,
+    "recordCount": 815315,
+    "imageCount": 243042,
+    "fsImageCount": 243042,
     "waypointUrl": null
   },
   {
     "collectionId": "2001878",
     "title": "Portugal, Beja, Catholic Church Records, 1550-1913",
-    "lastUpdatedMillis": 1663028544441,
+    "lastUpdatedMillis": 1663776175554,
     "startYear": 1550,
     "endYear": 1913,
     "placeIds": [
@@ -37693,7 +37773,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 603793,
+    "recordCount": 605434,
     "imageCount": 684393,
     "fsImageCount": 684393,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2001878/waypoints"
@@ -37717,7 +37797,7 @@
   {
     "collectionId": "1913410",
     "title": "Portugal, Braga, Catholic Church Records, 1530-1911",
-    "lastUpdatedMillis": 1663108906923,
+    "lastUpdatedMillis": 1663719518515,
     "startYear": 1530,
     "endYear": 1911,
     "placeIds": [
@@ -37725,7 +37805,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 731496,
+    "recordCount": 731584,
     "imageCount": 857376,
     "fsImageCount": 857376,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1913410/waypoints"
@@ -37749,7 +37829,7 @@
   {
     "collectionId": "1976616",
     "title": "Portugal, Bragan\u00e7a, Catholic Church Records, 1541-1985",
-    "lastUpdatedMillis": 1663021395741,
+    "lastUpdatedMillis": 1663806498865,
     "startYear": 1541,
     "endYear": 1985,
     "placeIds": [
@@ -37757,7 +37837,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 660918,
+    "recordCount": 704185,
     "imageCount": 960435,
     "fsImageCount": 960435,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1976616/waypoints"
@@ -37765,7 +37845,7 @@
   {
     "collectionId": "2013604",
     "title": "Portugal, Castelo Branco, Catholic Church Records, 1714-1911",
-    "lastUpdatedMillis": 1662425045897,
+    "lastUpdatedMillis": 1663741788571,
     "startYear": 1714,
     "endYear": 1911,
     "placeIds": [
@@ -37773,7 +37853,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 962910,
+    "recordCount": 963863,
     "imageCount": 333738,
     "fsImageCount": 333738,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2013604/waypoints"
@@ -37877,7 +37957,7 @@
   {
     "collectionId": "1928588",
     "title": "Portugal, Guarda, Catholic Church Records, 1459-1911",
-    "lastUpdatedMillis": 1662425242085,
+    "lastUpdatedMillis": 1663741792951,
     "startYear": 1459,
     "endYear": 1911,
     "placeIds": [
@@ -37885,7 +37965,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 240268,
+    "recordCount": 240621,
     "imageCount": 815966,
     "fsImageCount": 815966,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1928588/waypoints"
@@ -37941,7 +38021,7 @@
   {
     "collectionId": "4449050",
     "title": "Portugal, Lisbon, Catholic Church Records, 1334-1952",
-    "lastUpdatedMillis": 1663198478184,
+    "lastUpdatedMillis": 1663835147121,
     "startYear": 1334,
     "endYear": 1952,
     "placeIds": [
@@ -37949,15 +38029,15 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 2436541,
-    "imageCount": 630208,
-    "fsImageCount": 630208,
+    "recordCount": 3137822,
+    "imageCount": 846603,
+    "fsImageCount": 846603,
     "waypointUrl": null
   },
   {
     "collectionId": "4426199",
     "title": "Portugal, Madeira, Catholic Church Records, 1044-1959",
-    "lastUpdatedMillis": 1663234154228,
+    "lastUpdatedMillis": 1663774671185,
     "startYear": 1044,
     "endYear": 1959,
     "placeIds": [
@@ -37965,9 +38045,9 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 980994,
-    "imageCount": 458649,
-    "fsImageCount": 458649,
+    "recordCount": 1306647,
+    "imageCount": 592274,
+    "fsImageCount": 592274,
     "waypointUrl": null
   },
   {
@@ -38005,7 +38085,7 @@
   {
     "collectionId": "1913408",
     "title": "Portugal, Porto, Catholic Church Records, 1535-1949",
-    "lastUpdatedMillis": 1663135101151,
+    "lastUpdatedMillis": 1663949258441,
     "startYear": 1535,
     "endYear": 1949,
     "placeIds": [
@@ -38013,7 +38093,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 2197356,
+    "recordCount": 2199196,
     "imageCount": 1207157,
     "fsImageCount": 1207157,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1913408/waypoints"
@@ -38037,7 +38117,7 @@
   {
     "collectionId": "1935451",
     "title": "Portugal, Set\u00fabal, Catholic Church Records, 1555-1911",
-    "lastUpdatedMillis": 1663342565145,
+    "lastUpdatedMillis": 1663942895245,
     "startYear": 1555,
     "endYear": 1911,
     "placeIds": [
@@ -38045,7 +38125,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 936416,
+    "recordCount": 936691,
     "imageCount": 829309,
     "fsImageCount": 829309,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1935451/waypoints"
@@ -38133,7 +38213,7 @@
   {
     "collectionId": "1928589",
     "title": "Portugal, Viseu, Catholic Church Records, 1523-1989",
-    "lastUpdatedMillis": 1663081980049,
+    "lastUpdatedMillis": 1663806616742,
     "startYear": 1523,
     "endYear": 1989,
     "placeIds": [
@@ -38141,7 +38221,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 1705444,
+    "recordCount": 1799749,
     "imageCount": 1034661,
     "fsImageCount": 1034661,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1928589/waypoints"
@@ -38149,7 +38229,7 @@
   {
     "collectionId": "2043775",
     "title": "Portugal, \u00c9vora, Catholic Church Records, 1533-1912",
-    "lastUpdatedMillis": 1663127923597,
+    "lastUpdatedMillis": 1663741704436,
     "startYear": 1533,
     "endYear": 1912,
     "placeIds": [
@@ -38157,7 +38237,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 669973,
+    "recordCount": 669974,
     "imageCount": 702397,
     "fsImageCount": 702397,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2043775/waypoints"
@@ -38261,7 +38341,7 @@
   {
     "collectionId": "1807092",
     "title": "Puerto Rico, Catholic Church Records, 1645-1969",
-    "lastUpdatedMillis": 1663332463392,
+    "lastUpdatedMillis": 1663775181121,
     "startYear": 1645,
     "endYear": 1969,
     "placeIds": [
@@ -38269,7 +38349,7 @@
     ],
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "recordCount": 3241484,
+    "recordCount": 3241520,
     "imageCount": 191547,
     "fsImageCount": 191547,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1807092/waypoints"
@@ -38885,7 +38965,7 @@
   {
     "collectionId": "1929531",
     "title": "Russia, Tver Confession Lists, 1728-1913",
-    "lastUpdatedMillis": 1330434991000,
+    "lastUpdatedMillis": 1663948956700,
     "startYear": 1728,
     "endYear": 1913,
     "placeIds": [
@@ -38893,7 +38973,7 @@
     ],
     "recordType": "CENSUS",
     "region": "EUROPE",
-    "recordCount": 0,
+    "recordCount": 16492,
     "imageCount": 954651,
     "fsImageCount": 954651,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1929531/waypoints"
@@ -38965,7 +39045,7 @@
   {
     "collectionId": "4016424",
     "title": "Samoa, Vital Records, 1846-1996",
-    "lastUpdatedMillis": 1663301288504,
+    "lastUpdatedMillis": 1663697842172,
     "startYear": 1846,
     "endYear": 1996,
     "placeIds": [
@@ -38974,8 +39054,8 @@
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
     "recordCount": 91694,
-    "imageCount": 436440,
-    "fsImageCount": 436440,
+    "imageCount": 436445,
+    "fsImageCount": 436445,
     "waypointUrl": null
   },
   {
@@ -39237,7 +39317,7 @@
   {
     "collectionId": "1468076",
     "title": "South Africa, Church of the Province of South Africa, Parish Registers, 1801-2004",
-    "lastUpdatedMillis": 1663343976215,
+    "lastUpdatedMillis": 1663954567433,
     "startYear": 1801,
     "endYear": 2004,
     "placeIds": [
@@ -39245,7 +39325,7 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 1896744,
+    "recordCount": 1935744,
     "imageCount": 355318,
     "fsImageCount": 355318,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1468076/waypoints"
@@ -39278,8 +39358,8 @@
     "recordType": "VITAL",
     "region": "AFRICA",
     "recordCount": 2699406,
-    "imageCount": 2692830,
-    "fsImageCount": 2692830,
+    "imageCount": 2692381,
+    "fsImageCount": 2692381,
     "waypointUrl": null
   },
   {
@@ -39358,14 +39438,14 @@
     "recordType": "VITAL",
     "region": "AFRICA",
     "recordCount": 883187,
-    "imageCount": 67651,
-    "fsImageCount": 67651,
+    "imageCount": 48601,
+    "fsImageCount": 48601,
     "waypointUrl": null
   },
   {
     "collectionId": "3511741",
     "title": "South Africa, KwaZulu Natal, Vital Records, 1868-1976",
-    "lastUpdatedMillis": 1663293694797,
+    "lastUpdatedMillis": 1663808034850,
     "startYear": 1868,
     "endYear": 1976,
     "placeIds": [
@@ -39373,9 +39453,9 @@
     ],
     "recordType": "VITAL",
     "region": "AFRICA",
-    "recordCount": 641937,
-    "imageCount": 901521,
-    "fsImageCount": 901521,
+    "recordCount": 642010,
+    "imageCount": 901545,
+    "fsImageCount": 901545,
     "waypointUrl": null
   },
   {
@@ -40405,7 +40485,7 @@
   {
     "collectionId": "1784529",
     "title": "Spain, Catholic Church Records, 1307-1985",
-    "lastUpdatedMillis": 1663317756305,
+    "lastUpdatedMillis": 1663775013676,
     "startYear": 1307,
     "endYear": 1985,
     "placeIds": [
@@ -40413,7 +40493,7 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 13216765,
+    "recordCount": 13912324,
     "imageCount": 3008340,
     "fsImageCount": 3008340,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1784529/waypoints"
@@ -40734,8 +40814,8 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "recordCount": 845342,
-    "imageCount": 389950,
-    "fsImageCount": 389950,
+    "imageCount": 388605,
+    "fsImageCount": 388605,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2015355/waypoints"
   },
   {
@@ -41374,8 +41454,8 @@
     "recordType": "MISCELLANEOUS",
     "region": "EUROPE",
     "recordCount": 1153125,
-    "imageCount": 75909,
-    "fsImageCount": 75909,
+    "imageCount": 62372,
+    "fsImageCount": 62372,
     "waypointUrl": null
   },
   {
@@ -42405,7 +42485,7 @@
   {
     "collectionId": "1983324",
     "title": "Texas Deaths, 1890-1976",
-    "lastUpdatedMillis": 1660077092115,
+    "lastUpdatedMillis": 1663700878069,
     "startYear": 1890,
     "endYear": 1976,
     "placeIds": [
@@ -43733,7 +43813,7 @@
   {
     "collectionId": "3754709",
     "title": "Ukraine, Odesa Church Books, 1780-1898",
-    "lastUpdatedMillis": 1646667894288,
+    "lastUpdatedMillis": 1663707163334,
     "startYear": 1780,
     "endYear": 1898,
     "placeIds": [
@@ -43741,9 +43821,9 @@
     ],
     "recordType": "VITAL",
     "region": "EUROPE",
-    "recordCount": 1284783,
-    "imageCount": 208728,
-    "fsImageCount": 208728,
+    "recordCount": 2247796,
+    "imageCount": 358915,
+    "fsImageCount": 358915,
     "waypointUrl": null
   },
   {
@@ -43781,7 +43861,7 @@
   {
     "collectionId": "2465061",
     "title": "Ukraine, Zaporizhia Poll Tax Census (Revision Lists), 1811-1858",
-    "lastUpdatedMillis": 1663278374567,
+    "lastUpdatedMillis": 1663707640603,
     "startYear": 1811,
     "endYear": 1858,
     "placeIds": [
@@ -44313,7 +44393,7 @@
   {
     "collectionId": "1473181",
     "title": "United States Census, 1860",
-    "lastUpdatedMillis": 1490387760564,
+    "lastUpdatedMillis": 1663872958264,
     "startYear": 1860,
     "endYear": 1860,
     "placeIds": [
@@ -45201,7 +45281,7 @@
     ],
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
-    "recordCount": 875610190,
+    "recordCount": 875610188,
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
@@ -46632,7 +46712,7 @@
   {
     "collectionId": "1837849",
     "title": "Uruguay Civil Registration, 1879-1930",
-    "lastUpdatedMillis": 1663349381909,
+    "lastUpdatedMillis": 1663950975967,
     "startYear": 1879,
     "endYear": 1930,
     "placeIds": [
@@ -46640,7 +46720,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 469608,
+    "recordCount": 473297,
     "imageCount": 0,
     "fsImageCount": 0,
     "waypointUrl": null
@@ -46664,7 +46744,7 @@
   {
     "collectionId": "4134697",
     "title": "Uruguay, Catholic Church Records, 1726-2000",
-    "lastUpdatedMillis": 1663282660974,
+    "lastUpdatedMillis": 1663775038746,
     "startYear": 1726,
     "endYear": 2000,
     "placeIds": [
@@ -46672,9 +46752,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 1682914,
-    "imageCount": 291744,
-    "fsImageCount": 291744,
+    "recordCount": 1683230,
+    "imageCount": 291799,
+    "fsImageCount": 291799,
     "waypointUrl": null
   },
   {
@@ -46705,8 +46785,8 @@
     "recordType": "MIGRATION",
     "region": "SOUTH_AMERICA",
     "recordCount": 3641119,
-    "imageCount": 157673,
-    "fsImageCount": 157673,
+    "imageCount": 150074,
+    "fsImageCount": 150074,
     "waypointUrl": null
   },
   {
@@ -47560,7 +47640,7 @@
   {
     "collectionId": "1823609",
     "title": "Venezuela Civil Registration, 1873-2003",
-    "lastUpdatedMillis": 1663349473778,
+    "lastUpdatedMillis": 1663954364763,
     "startYear": 1873,
     "endYear": 2003,
     "placeIds": [
@@ -47568,7 +47648,7 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 921262,
+    "recordCount": 930881,
     "imageCount": 586312,
     "fsImageCount": 586312,
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1823609/waypoints"
@@ -47576,7 +47656,7 @@
   {
     "collectionId": "4465438",
     "title": "Venezuela, Archdiocese of Caracas, Catholic Church Records, 1638-2020",
-    "lastUpdatedMillis": 1663345910173,
+    "lastUpdatedMillis": 1663954069399,
     "startYear": 1638,
     "endYear": 2020,
     "placeIds": [
@@ -47584,9 +47664,9 @@
     ],
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
-    "recordCount": 10830,
-    "imageCount": 6005,
-    "fsImageCount": 6005,
+    "recordCount": 11666,
+    "imageCount": 6420,
+    "fsImageCount": 6420,
     "waypointUrl": null
   },
   {
@@ -48568,7 +48648,7 @@
   {
     "collectionId": "4149585",
     "title": "Virginia, Vital Records, 1715-1901",
-    "lastUpdatedMillis": 1663349750418,
+    "lastUpdatedMillis": 1663954424992,
     "startYear": 1715,
     "endYear": 1901,
     "placeIds": [
@@ -48576,9 +48656,9 @@
     ],
     "recordType": "VITAL",
     "region": "UNITED_STATES",
-    "recordCount": 457554,
-    "imageCount": 27170,
-    "fsImageCount": 27170,
+    "recordCount": 527491,
+    "imageCount": 31878,
+    "fsImageCount": 31878,
     "waypointUrl": null
   },
   {
