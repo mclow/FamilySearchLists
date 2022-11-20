@@ -8,17 +8,12 @@ import locale
 from lxml import html
 import requests
 
-findJS = re.compile('let collectionList = ([^\n]+);\n')
-
-# From https://stackoverflow.com/questions/4374455/how-to-set-sys-stdout-encoding-in-python-3
-# sys.stdout.reconfigure(encoding='utf-8')
-
 ## Before 15-Apr-2022, FamilySearch embedded the list of collections
 ## In the web page as a JSONstring.
 # page = requests.get("https://www.familysearch.org/search/collection/list/")
 # tree = html.fromstring(page.content)
 # scripts = tree.xpath('//script')
-# 
+# findJS = re.compile('let collectionList = ([^\n]+);\n')
 # 
 # for s in scripts:
 # 	if s.text != None:
@@ -30,7 +25,17 @@ findJS = re.compile('let collectionList = ([^\n]+);\n')
 
 ## As of 15-Apr-2022, FamilySearch made the list of collections a seperate
 ## page that is loaded by the web page.
-page = requests.get("https://www.familysearch.org/search/webservice/collectionListData")
-collections = json.loads(page.content)
-cList = collections ["collectionList"]
+
+## As of 19-Nov-2022, FamilySearch rejects requests that don't contain a user-agent
+## header. 
+
+def getCollectionList ():
+	user_agent = {'User-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/81.0'}
+	url = "https://www.familysearch.org/search/webservice/collectionListData"
+	page = requests.get(url, headers = user_agent)
+	collections = json.loads(page.content)
+	return collections ["collectionList"]
+
+
+cList = getCollectionList ()
 print(json.dumps(cList, indent=2))
