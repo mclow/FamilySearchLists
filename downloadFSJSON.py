@@ -38,4 +38,4 @@ def getCollectionList ():
 
 
 cList = getCollectionList ()
-print(json.dumps(cList, indent=2))
+print(json.dumps(cList, sort_keys=True, indent=2))
