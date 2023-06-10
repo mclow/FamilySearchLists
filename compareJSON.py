@@ -56,7 +56,7 @@ def imageStringWithDiffs(idxCount, imgCount, oldCount, oldImages):
 def printCollection(aColl, action, withTimeStamp):
 	
 	idxCnt = int(aColl[u'recordCount'])
-	imgCnt = int(aColl[u'recordCount'])
+	imgCnt = int(aColl[u'imageCount'])
 	imgStr = imageString(idxCnt, imgCnt)
 	if withTimeStamp:
 		ts = datetime.datetime.fromtimestamp(int(aColl[u'lastUpdatedMillis'])//1000)
