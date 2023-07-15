@@ -594,13 +594,13 @@
   {
     "collectionId": "4293706",
     "endYear": 1967,
-    "fsImageCount": 15,
-    "imageCount": 15,
-    "lastUpdatedMillis": 1688269504431,
+    "fsImageCount": 23,
+    "imageCount": 23,
+    "lastUpdatedMillis": 1689027933618,
     "placeIds": [
       1927179
     ],
-    "recordCount": 680,
+    "recordCount": 1121,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1799,
@@ -706,13 +706,13 @@
   {
     "collectionId": "5000081",
     "endYear": 1979,
-    "fsImageCount": 44276,
-    "imageCount": 44276,
-    "lastUpdatedMillis": 1688747778686,
+    "fsImageCount": 44341,
+    "imageCount": 44341,
+    "lastUpdatedMillis": 1689281120393,
     "placeIds": [
       1927106
     ],
-    "recordCount": 300006,
+    "recordCount": 300420,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1856,
@@ -820,11 +820,11 @@
     "endYear": 1971,
     "fsImageCount": 102718,
     "imageCount": 102718,
-    "lastUpdatedMillis": 1688748785192,
+    "lastUpdatedMillis": 1689353093791,
     "placeIds": [
       1927135
     ],
-    "recordCount": 201481,
+    "recordCount": 206036,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1724,
@@ -850,8 +850,8 @@
   {
     "collectionId": "2363123",
     "endYear": 2019,
-    "fsImageCount": 620373,
-    "imageCount": 620373,
+    "fsImageCount": 619543,
+    "imageCount": 619543,
     "lastUpdatedMillis": 1688740513567,
     "placeIds": [
       1927135
@@ -900,11 +900,11 @@
     "endYear": 1974,
     "fsImageCount": 2874,
     "imageCount": 2874,
-    "lastUpdatedMillis": 1639448783773,
+    "lastUpdatedMillis": 1689353779055,
     "placeIds": [
       1927135
     ],
-    "recordCount": 7069,
+    "recordCount": 7922,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1884,
@@ -916,11 +916,11 @@
     "endYear": 1977,
     "fsImageCount": 207943,
     "imageCount": 207943,
-    "lastUpdatedMillis": 1688747530521,
+    "lastUpdatedMillis": 1689350962828,
     "placeIds": [
       1927135
     ],
-    "recordCount": 457893,
+    "recordCount": 458647,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1734,
@@ -962,13 +962,13 @@
   {
     "collectionId": "4475260",
     "endYear": 1895,
-    "fsImageCount": 892,
-    "imageCount": 892,
-    "lastUpdatedMillis": 1684239480927,
+    "fsImageCount": 5117,
+    "imageCount": 5117,
+    "lastUpdatedMillis": 1688832979809,
     "placeIds": [
       1927135
     ],
-    "recordCount": 26695,
+    "recordCount": 177575,
     "recordType": "CENSUS",
     "region": "SOUTH_AMERICA",
     "startYear": 1778,
@@ -1028,11 +1028,11 @@
     "endYear": 1975,
     "fsImageCount": 69981,
     "imageCount": 69981,
-    "lastUpdatedMillis": 1688747303315,
+    "lastUpdatedMillis": 1689340327423,
     "placeIds": [
       1927135
     ],
-    "recordCount": 164916,
+    "recordCount": 167618,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1662,
@@ -2658,8 +2658,8 @@
   {
     "collectionId": "2862204",
     "endYear": 1985,
-    "fsImageCount": 10759,
-    "imageCount": 10759,
+    "fsImageCount": 9135,
+    "imageCount": 9135,
     "lastUpdatedMillis": 1643673892531,
     "placeIds": [
       1927080
@@ -2948,7 +2948,7 @@
     "endYear": 1926,
     "fsImageCount": 3998555,
     "imageCount": 3998555,
-    "lastUpdatedMillis": 1687539692567,
+    "lastUpdatedMillis": 1688772318428,
     "placeIds": [
       1927080
     ],
@@ -3460,11 +3460,11 @@
     "endYear": 1913,
     "fsImageCount": 3208709,
     "imageCount": 3208709,
-    "lastUpdatedMillis": 1687544724480,
+    "lastUpdatedMillis": 1689350869978,
     "placeIds": [
       1927071
     ],
-    "recordCount": 886924,
+    "recordCount": 892528,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1588,
@@ -3508,11 +3508,11 @@
     "endYear": 1914,
     "fsImageCount": 6411594,
     "imageCount": 6411594,
-    "lastUpdatedMillis": 1688726540992,
+    "lastUpdatedMillis": 1689300354389,
     "placeIds": [
       1927071
     ],
-    "recordCount": 49779,
+    "recordCount": 50570,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1582,
@@ -3636,11 +3636,11 @@
     "endYear": 1912,
     "fsImageCount": 372768,
     "imageCount": 372768,
-    "lastUpdatedMillis": 1688746116557,
+    "lastUpdatedMillis": 1689353739827,
     "placeIds": [
       1927071
     ],
-    "recordCount": 611281,
+    "recordCount": 613787,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1800,
@@ -3732,11 +3732,11 @@
     "endYear": 1996,
     "fsImageCount": 1649601,
     "imageCount": 1649601,
-    "lastUpdatedMillis": 1688739676474,
+    "lastUpdatedMillis": 1689353149020,
     "placeIds": [
       1927158
     ],
-    "recordCount": 9289108,
+    "recordCount": 9294148,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1566,
@@ -4020,11 +4020,11 @@
     "endYear": 2013,
     "fsImageCount": 0,
     "imageCount": 0,
-    "lastUpdatedMillis": 1688747862323,
+    "lastUpdatedMillis": 1689347712112,
     "placeIds": [
       1927159
     ],
-    "recordCount": 460,
+    "recordCount": 509,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1845,
@@ -4050,13 +4050,13 @@
   {
     "collectionId": "3479702",
     "endYear": 1949,
-    "fsImageCount": 356638,
-    "imageCount": 356638,
-    "lastUpdatedMillis": 1688734453331,
+    "fsImageCount": 357471,
+    "imageCount": 357471,
+    "lastUpdatedMillis": 1689345082414,
     "placeIds": [
       1927159
     ],
-    "recordCount": 854444,
+    "recordCount": 857013,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1879,
@@ -4084,11 +4084,11 @@
     "endYear": 1996,
     "fsImageCount": 1689031,
     "imageCount": 1689031,
-    "lastUpdatedMillis": 1688746338075,
+    "lastUpdatedMillis": 1689353218572,
     "placeIds": [
       1927159
     ],
-    "recordCount": 2963941,
+    "recordCount": 2977126,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1852,
@@ -4146,13 +4146,13 @@
   {
     "collectionId": "4473609",
     "endYear": 1995,
-    "fsImageCount": 22823,
-    "imageCount": 22823,
-    "lastUpdatedMillis": 1688747954002,
+    "fsImageCount": 24359,
+    "imageCount": 24359,
+    "lastUpdatedMillis": 1689350983143,
     "placeIds": [
       1927159
     ],
-    "recordCount": 66302,
+    "recordCount": 69583,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1815,
@@ -4274,13 +4274,13 @@
   {
     "collectionId": "3741255",
     "endYear": 2006,
-    "fsImageCount": 856369,
-    "imageCount": 856369,
-    "lastUpdatedMillis": 1688748593462,
+    "fsImageCount": 857156,
+    "imageCount": 857156,
+    "lastUpdatedMillis": 1689351908424,
     "placeIds": [
       1927159
     ],
-    "recordCount": 1676691,
+    "recordCount": 1678180,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1860,
@@ -4324,11 +4324,11 @@
     "endYear": 2012,
     "fsImageCount": 5100470,
     "imageCount": 5100470,
-    "lastUpdatedMillis": 1688724966524,
+    "lastUpdatedMillis": 1689283177387,
     "placeIds": [
       1927159
     ],
-    "recordCount": 6901658,
+    "recordCount": 6901925,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1829,
@@ -4372,11 +4372,11 @@
     "endYear": 1999,
     "fsImageCount": 1037638,
     "imageCount": 1037638,
-    "lastUpdatedMillis": 1688748177748,
+    "lastUpdatedMillis": 1689351664256,
     "placeIds": [
       1927159
     ],
-    "recordCount": 677608,
+    "recordCount": 683002,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1850,
@@ -4870,11 +4870,11 @@
     "endYear": 1994,
     "fsImageCount": 2841076,
     "imageCount": 2841076,
-    "lastUpdatedMillis": 1687795295029,
+    "lastUpdatedMillis": 1689261251446,
     "placeIds": [
       11
     ],
-    "recordCount": 6497877,
+    "recordCount": 6497882,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1800,
@@ -7661,13 +7661,13 @@
   {
     "collectionId": "3405096",
     "endYear": 2015,
-    "fsImageCount": 976954,
-    "imageCount": 976954,
-    "lastUpdatedMillis": 1688747512992,
+    "fsImageCount": 982334,
+    "imageCount": 982334,
+    "lastUpdatedMillis": 1689353810134,
     "placeIds": [
       1927143
     ],
-    "recordCount": 7784235,
+    "recordCount": 7823525,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1633,
@@ -7807,11 +7807,11 @@
     "endYear": 2018,
     "fsImageCount": 12659776,
     "imageCount": 12659776,
-    "lastUpdatedMillis": 1688748356258,
+    "lastUpdatedMillis": 1689353965281,
     "placeIds": [
       1927162
     ],
-    "recordCount": 26430030,
+    "recordCount": 26469675,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1576,
@@ -7821,13 +7821,13 @@
   {
     "collectionId": "4469480",
     "endYear": 2021,
-    "fsImageCount": 571383,
-    "imageCount": 571383,
-    "lastUpdatedMillis": 1688748753254,
+    "fsImageCount": 617814,
+    "imageCount": 617814,
+    "lastUpdatedMillis": 1689354020311,
     "placeIds": [
       1927162
     ],
-    "recordCount": 482633,
+    "recordCount": 551538,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1553,
@@ -8431,11 +8431,11 @@
     "endYear": 1992,
     "fsImageCount": 962203,
     "imageCount": 962203,
-    "lastUpdatedMillis": 1688737969817,
+    "lastUpdatedMillis": 1689354025903,
     "placeIds": [
       1927128
     ],
-    "recordCount": 4195284,
+    "recordCount": 4234419,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1595,
@@ -8463,11 +8463,11 @@
     "endYear": 1975,
     "fsImageCount": 404718,
     "imageCount": 404718,
-    "lastUpdatedMillis": 1688692534201,
+    "lastUpdatedMillis": 1689348374344,
     "placeIds": [
       1927128
     ],
-    "recordCount": 6181884,
+    "recordCount": 6187915,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1823,
@@ -8479,11 +8479,11 @@
     "endYear": 1994,
     "fsImageCount": 1421761,
     "imageCount": 1421761,
-    "lastUpdatedMillis": 1688601079629,
+    "lastUpdatedMillis": 1689112506752,
     "placeIds": [
       1927181
     ],
-    "recordCount": 2986700,
+    "recordCount": 2990761,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1516,
@@ -8511,11 +8511,11 @@
     "endYear": 1960,
     "fsImageCount": 41707,
     "imageCount": 41707,
-    "lastUpdatedMillis": 1666801290708,
+    "lastUpdatedMillis": 1688836846386,
     "placeIds": [
       1927079
     ],
-    "recordCount": 192045,
+    "recordCount": 192054,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1584,
@@ -9425,11 +9425,11 @@
     "endYear": 1964,
     "fsImageCount": 112568,
     "imageCount": 112568,
-    "lastUpdatedMillis": 1685117445097,
+    "lastUpdatedMillis": 1688857626698,
     "placeIds": [
       1927025
     ],
-    "recordCount": 280495,
+    "recordCount": 296994,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1877,
@@ -9809,11 +9809,11 @@
     "endYear": 1975,
     "fsImageCount": 238265,
     "imageCount": 238265,
-    "lastUpdatedMillis": 1688737465360,
+    "lastUpdatedMillis": 1689294127050,
     "placeIds": [
       1927011
     ],
-    "recordCount": 2274168,
+    "recordCount": 2274457,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1590,
@@ -9873,11 +9873,11 @@
     "endYear": 2011,
     "fsImageCount": 1454787,
     "imageCount": 1454787,
-    "lastUpdatedMillis": 1688634270139,
+    "lastUpdatedMillis": 1689349260334,
     "placeIds": [
       1927138
     ],
-    "recordCount": 6149262,
+    "recordCount": 6149349,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1565,
@@ -10038,7 +10038,7 @@
       1986311,
       1986340
     ],
-    "recordCount": 132174267,
+    "recordCount": 132174266,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1837,
@@ -10541,13 +10541,13 @@
   {
     "collectionId": "2340274",
     "endYear": 1990,
-    "fsImageCount": 32129,
-    "imageCount": 32129,
-    "lastUpdatedMillis": 1688667933759,
+    "fsImageCount": 32130,
+    "imageCount": 32130,
+    "lastUpdatedMillis": 1688765503307,
     "placeIds": [
       1986340
     ],
-    "recordCount": 524737,
+    "recordCount": 524813,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1538,
@@ -12717,13 +12717,13 @@
   {
     "collectionId": "5000003",
     "endYear": 1971,
-    "fsImageCount": 21873,
-    "imageCount": 21873,
-    "lastUpdatedMillis": 1688748827702,
+    "fsImageCount": 22077,
+    "imageCount": 22077,
+    "lastUpdatedMillis": 1689351128251,
     "placeIds": [
       34
     ],
-    "recordCount": 37232,
+    "recordCount": 37637,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1887,
@@ -12765,13 +12765,13 @@
   {
     "collectionId": "4114268",
     "endYear": 1970,
-    "fsImageCount": 1810,
-    "imageCount": 1810,
-    "lastUpdatedMillis": 1635887071146,
+    "fsImageCount": 6595,
+    "imageCount": 6595,
+    "lastUpdatedMillis": 1688757483075,
     "placeIds": [
       34
     ],
-    "recordCount": 9909,
+    "recordCount": 10025,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1837,
@@ -14797,13 +14797,13 @@
   {
     "collectionId": "4113736",
     "endYear": 1966,
-    "fsImageCount": 107931,
-    "imageCount": 107931,
-    "lastUpdatedMillis": 1638540772361,
+    "fsImageCount": 107958,
+    "imageCount": 107958,
+    "lastUpdatedMillis": 1688755232429,
     "placeIds": [
       50
     ],
-    "recordCount": 172640,
+    "recordCount": 172667,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1890,
@@ -15565,13 +15565,13 @@
   {
     "collectionId": "5000010",
     "endYear": 1930,
-    "fsImageCount": 31542,
-    "imageCount": 31542,
-    "lastUpdatedMillis": 1688748540845,
+    "fsImageCount": 34370,
+    "imageCount": 34370,
+    "lastUpdatedMillis": 1689350942288,
     "placeIds": [
       1927074
     ],
-    "recordCount": 31930,
+    "recordCount": 34818,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1810,
@@ -15949,8 +15949,8 @@
   {
     "collectionId": "2790268",
     "endYear": 1957,
-    "fsImageCount": 307268,
-    "imageCount": 307268,
+    "fsImageCount": 295188,
+    "imageCount": 295188,
     "lastUpdatedMillis": 1604423047806,
     "placeIds": [
       1927074
@@ -16397,13 +16397,13 @@
   {
     "collectionId": "5000043",
     "endYear": 1990,
-    "fsImageCount": 80207,
-    "imageCount": 80207,
-    "lastUpdatedMillis": 1688748816213,
+    "fsImageCount": 187001,
+    "imageCount": 187001,
+    "lastUpdatedMillis": 1689353613888,
     "placeIds": [
       1926984
     ],
-    "recordCount": 90573,
+    "recordCount": 223939,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1777,
@@ -16679,11 +16679,11 @@
     "endYear": 1994,
     "fsImageCount": 17770,
     "imageCount": 17770,
-    "lastUpdatedMillis": 1688689563685,
+    "lastUpdatedMillis": 1689350611513,
     "placeIds": [
       1927125
     ],
-    "recordCount": 1054324,
+    "recordCount": 1055723,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1877,
@@ -16695,11 +16695,11 @@
     "endYear": 1994,
     "fsImageCount": 24503,
     "imageCount": 24503,
-    "lastUpdatedMillis": 1688691525789,
+    "lastUpdatedMillis": 1689352863712,
     "placeIds": [
       1927125
     ],
-    "recordCount": 319605,
+    "recordCount": 323437,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1877,
@@ -16839,11 +16839,11 @@
     "endYear": 1994,
     "fsImageCount": 9848,
     "imageCount": 9848,
-    "lastUpdatedMillis": 1670916200467,
+    "lastUpdatedMillis": 1689353912461,
     "placeIds": [
       1927125
     ],
-    "recordCount": 403943,
+    "recordCount": 405644,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1877,
@@ -17061,13 +17061,13 @@
   {
     "collectionId": "4279947",
     "endYear": 2017,
-    "fsImageCount": 9941,
-    "imageCount": 9941,
-    "lastUpdatedMillis": 1688741698212,
+    "fsImageCount": 7021,
+    "imageCount": 7021,
+    "lastUpdatedMillis": 1689353996453,
     "placeIds": [
       1927183
     ],
-    "recordCount": 46638,
+    "recordCount": 53236,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1866,
@@ -17237,8 +17237,8 @@
   {
     "collectionId": "3463100",
     "endYear": 1900,
-    "fsImageCount": 224658,
-    "imageCount": 224658,
+    "fsImageCount": 224710,
+    "imageCount": 224710,
     "lastUpdatedMillis": 1604688718952,
     "placeIds": [
       12
@@ -17335,7 +17335,7 @@
     "endYear": 1917,
     "fsImageCount": 7346,
     "imageCount": 7346,
-    "lastUpdatedMillis": 1687540321813,
+    "lastUpdatedMillis": 1688772319037,
     "placeIds": [
       12
     ],
@@ -17525,9 +17525,9 @@
   {
     "collectionId": "3478266",
     "endYear": 1900,
-    "fsImageCount": 15766,
-    "imageCount": 15766,
-    "lastUpdatedMillis": 1687540553397,
+    "fsImageCount": 18386,
+    "imageCount": 18386,
+    "lastUpdatedMillis": 1688772319931,
     "placeIds": [
       12
     ],
@@ -17687,7 +17687,7 @@
     "endYear": 1980,
     "fsImageCount": 5864285,
     "imageCount": 5864285,
-    "lastUpdatedMillis": 1688670925904,
+    "lastUpdatedMillis": 1689279213307,
     "placeIds": [
       1927145
     ],
@@ -19287,11 +19287,11 @@
     "endYear": 1990,
     "fsImageCount": 39904,
     "imageCount": 39904,
-    "lastUpdatedMillis": 1669821822893,
+    "lastUpdatedMillis": 1689293349104,
     "placeIds": [
       1927063
     ],
-    "recordCount": 251960,
+    "recordCount": 332289,
     "recordType": "VITAL",
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1743,
@@ -20821,13 +20821,13 @@
   {
     "collectionId": "2820100",
     "endYear": 1900,
-    "fsImageCount": 119260,
-    "imageCount": 119260,
-    "lastUpdatedMillis": 1688748084620,
+    "fsImageCount": 119779,
+    "imageCount": 119779,
+    "lastUpdatedMillis": 1689353877818,
     "placeIds": [
       1927084
     ],
-    "recordCount": 3433886,
+    "recordCount": 3507103,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1740,
@@ -23479,11 +23479,11 @@
     "endYear": 1929,
     "fsImageCount": 1759182,
     "imageCount": 1759182,
-    "lastUpdatedMillis": 1688747748918,
+    "lastUpdatedMillis": 1689348940651,
     "placeIds": [
       1927178
     ],
-    "recordCount": 27507,
+    "recordCount": 28194,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1866,
@@ -23621,13 +23621,13 @@
   {
     "collectionId": "4464417",
     "endYear": 1942,
-    "fsImageCount": 12386,
-    "imageCount": 12386,
-    "lastUpdatedMillis": 1688668800331,
+    "fsImageCount": 12887,
+    "imageCount": 12887,
+    "lastUpdatedMillis": 1689335590327,
     "placeIds": [
       1927178
     ],
-    "recordCount": 36240,
+    "recordCount": 37527,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1806,
@@ -23927,11 +23927,11 @@
     "endYear": 1941,
     "fsImageCount": 427232,
     "imageCount": 427232,
-    "lastUpdatedMillis": 1688322331476,
+    "lastUpdatedMillis": 1688997413112,
     "placeIds": [
       1927178
     ],
-    "recordCount": 4316,
+    "recordCount": 4351,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1871,
@@ -24007,11 +24007,11 @@
     "endYear": 1930,
     "fsImageCount": 628744,
     "imageCount": 628744,
-    "lastUpdatedMillis": 1688748726462,
+    "lastUpdatedMillis": 1689353042455,
     "placeIds": [
       1927178
     ],
-    "recordCount": 16187,
+    "recordCount": 17325,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1871,
@@ -24565,13 +24565,13 @@
   {
     "collectionId": "4121697",
     "endYear": 1999,
-    "fsImageCount": 5118,
-    "imageCount": 5118,
-    "lastUpdatedMillis": 1656581153084,
+    "fsImageCount": 5684,
+    "imageCount": 5684,
+    "lastUpdatedMillis": 1688759172287,
     "placeIds": [
       35
     ],
-    "recordCount": 7769,
+    "recordCount": 7813,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1862,
@@ -25079,11 +25079,11 @@
     "endYear": 2017,
     "fsImageCount": 24406,
     "imageCount": 24406,
-    "lastUpdatedMillis": 1635779559247,
+    "lastUpdatedMillis": 1689009267758,
     "placeIds": [
       1927061
     ],
-    "recordCount": 264540,
+    "recordCount": 174785,
     "recordType": "VITAL",
     "region": "AFRICA",
     "startYear": 1912,
@@ -25671,11 +25671,11 @@
     "endYear": 1900,
     "fsImageCount": 1115931,
     "imageCount": 1115931,
-    "lastUpdatedMillis": 1684336415954,
+    "lastUpdatedMillis": 1689183175238,
     "placeIds": [
       1927075
     ],
-    "recordCount": 42930,
+    "recordCount": 69678,
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1843,
@@ -26302,8 +26302,8 @@
     "recordCount": 20876,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
-    "startYear": 1918,
-    "title": "Maine, United States Naturalization Records, 1918-1991",
+    "startYear": 1790,
+    "title": "Maine, United States Naturalization Records, 1790-1991",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2613134/waypoints"
   },
   {
@@ -26389,13 +26389,13 @@
   {
     "collectionId": "4316497",
     "endYear": 1847,
-    "fsImageCount": 1841,
-    "imageCount": 1841,
-    "lastUpdatedMillis": 1686712926507,
+    "fsImageCount": 2239,
+    "imageCount": 2239,
+    "lastUpdatedMillis": 1689215254822,
     "placeIds": [
       1927089
     ],
-    "recordCount": 10773,
+    "recordCount": 13321,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1665,
@@ -26581,8 +26581,8 @@
   {
     "collectionId": "3398454",
     "endYear": 1952,
-    "fsImageCount": 652651,
-    "imageCount": 652651,
+    "fsImageCount": 652840,
+    "imageCount": 652840,
     "lastUpdatedMillis": 1586964678765,
     "placeIds": [
       53
@@ -28055,11 +28055,11 @@
     "endYear": 1977,
     "fsImageCount": 6124553,
     "imageCount": 6124553,
-    "lastUpdatedMillis": 1688748672832,
+    "lastUpdatedMillis": 1689353985123,
     "placeIds": [
       1928721
     ],
-    "recordCount": 8644139,
+    "recordCount": 8692110,
     "recordType": "VITAL",
     "region": "MEXICO",
     "startYear": 1545,
@@ -28087,11 +28087,11 @@
     "endYear": 1969,
     "fsImageCount": 1380077,
     "imageCount": 1380077,
-    "lastUpdatedMillis": 1688593073232,
+    "lastUpdatedMillis": 1689131874963,
     "placeIds": [
       1928720
     ],
-    "recordCount": 3027246,
+    "recordCount": 3027443,
     "recordType": "VITAL",
     "region": "MEXICO",
     "startYear": 1593,
@@ -28199,11 +28199,11 @@
     "endYear": 1929,
     "fsImageCount": 1403105,
     "imageCount": 1403105,
-    "lastUpdatedMillis": 1688137059111,
+    "lastUpdatedMillis": 1688772327966,
     "placeIds": [
       1928717
     ],
-    "recordCount": 1326726,
+    "recordCount": 1336406,
     "recordType": "VITAL",
     "region": "MEXICO",
     "startYear": 1861,
@@ -33381,13 +33381,13 @@
   {
     "collectionId": "4229127",
     "endYear": 1946,
-    "fsImageCount": 8014,
-    "imageCount": 8014,
-    "lastUpdatedMillis": 1657779977075,
+    "fsImageCount": 8271,
+    "imageCount": 8271,
+    "lastUpdatedMillis": 1688763334995,
     "placeIds": [
       22
     ],
-    "recordCount": 46888,
+    "recordCount": 47307,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1865,
@@ -34007,11 +34007,11 @@
     "endYear": 2013,
     "fsImageCount": 2591542,
     "imageCount": 2591542,
-    "lastUpdatedMillis": 1688748300850,
+    "lastUpdatedMillis": 1689352711478,
     "placeIds": [
       1927127
     ],
-    "recordCount": 2571040,
+    "recordCount": 2571907,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1809,
@@ -34023,11 +34023,11 @@
     "endYear": 1960,
     "fsImageCount": 86119,
     "imageCount": 86119,
-    "lastUpdatedMillis": 1688601459131,
+    "lastUpdatedMillis": 1688979070529,
     "placeIds": [
       1927127
     ],
-    "recordCount": 823343,
+    "recordCount": 823353,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1740,
@@ -34343,11 +34343,11 @@
     "endYear": 1979,
     "fsImageCount": 1509652,
     "imageCount": 1509652,
-    "lastUpdatedMillis": 1688681126314,
+    "lastUpdatedMillis": 1689033548679,
     "placeIds": [
       20
     ],
-    "recordCount": 7841359,
+    "recordCount": 7841809,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1762,
@@ -34485,13 +34485,13 @@
   {
     "collectionId": "4163858",
     "endYear": 1981,
-    "fsImageCount": 2551,
-    "imageCount": 2551,
-    "lastUpdatedMillis": 1624642982343,
+    "fsImageCount": 2556,
+    "imageCount": 2556,
+    "lastUpdatedMillis": 1688760985638,
     "placeIds": [
       20
     ],
-    "recordCount": 4736,
+    "recordCount": 4786,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1915,
@@ -34965,13 +34965,13 @@
   {
     "collectionId": "4445453",
     "endYear": 1912,
-    "fsImageCount": 1636,
-    "imageCount": 1636,
-    "lastUpdatedMillis": 1682007977037,
+    "fsImageCount": 6298,
+    "imageCount": 6298,
+    "lastUpdatedMillis": 1689090530531,
     "placeIds": [
       1927171
     ],
-    "recordCount": 22270,
+    "recordCount": 28795,
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1912,
@@ -34983,7 +34983,7 @@
     "endYear": 1903,
     "fsImageCount": 0,
     "imageCount": 0,
-    "lastUpdatedMillis": 1687539388537,
+    "lastUpdatedMillis": 1688772274093,
     "placeIds": [
       1927171
     ],
@@ -35717,13 +35717,13 @@
   {
     "collectionId": "5000024",
     "endYear": 1941,
-    "fsImageCount": 98749,
-    "imageCount": 98749,
-    "lastUpdatedMillis": 1688747405552,
+    "fsImageCount": 99189,
+    "imageCount": 99189,
+    "lastUpdatedMillis": 1689353561183,
     "placeIds": [
       43
     ],
-    "recordCount": 71599,
+    "recordCount": 72040,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1918,
@@ -36085,13 +36085,13 @@
   {
     "collectionId": "4166192",
     "endYear": 1993,
-    "fsImageCount": 3103,
-    "imageCount": 3103,
-    "lastUpdatedMillis": 1659372843571,
+    "fsImageCount": 3145,
+    "imageCount": 3145,
+    "lastUpdatedMillis": 1688762163949,
     "placeIds": [
       44
     ],
-    "recordCount": 13722,
+    "recordCount": 13992,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1898,
@@ -36135,7 +36135,7 @@
     "endYear": 1968,
     "fsImageCount": 3007818,
     "imageCount": 3007818,
-    "lastUpdatedMillis": 1688670672989,
+    "lastUpdatedMillis": 1688774228808,
     "placeIds": [
       44
     ],
@@ -36741,13 +36741,13 @@
   {
     "collectionId": "4491580",
     "endYear": 1940,
-    "fsImageCount": 249,
-    "imageCount": 249,
-    "lastUpdatedMillis": 1687728599370,
+    "fsImageCount": 250,
+    "imageCount": 250,
+    "lastUpdatedMillis": 1688771865694,
     "placeIds": [
       1927005
     ],
-    "recordCount": 2755,
+    "recordCount": 2762,
     "recordType": "VITAL",
     "region": "PACIFIC_ISLAND",
     "startYear": 1921,
@@ -37701,13 +37701,13 @@
   {
     "collectionId": "4447275",
     "endYear": 1976,
-    "fsImageCount": 47334,
-    "imageCount": 47334,
-    "lastUpdatedMillis": 1686890218219,
+    "fsImageCount": 50877,
+    "imageCount": 50877,
+    "lastUpdatedMillis": 1688758838760,
     "placeIds": [
       1927168
     ],
-    "recordCount": 226304,
+    "recordCount": 263454,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1660,
@@ -37783,11 +37783,11 @@
     "endYear": 1992,
     "fsImageCount": 4192353,
     "imageCount": 4192353,
-    "lastUpdatedMillis": 1688747850844,
+    "lastUpdatedMillis": 1689354019131,
     "placeIds": [
       1927168
     ],
-    "recordCount": 21057587,
+    "recordCount": 21068557,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1603,
@@ -38869,13 +38869,13 @@
   {
     "collectionId": "4122681",
     "endYear": 1920,
-    "fsImageCount": 12419,
-    "imageCount": 12419,
-    "lastUpdatedMillis": 1685318295433,
+    "fsImageCount": 8591,
+    "imageCount": 8591,
+    "lastUpdatedMillis": 1689142400861,
     "placeIds": [
       1927058
     ],
-    "recordCount": 22032,
+    "recordCount": 23585,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1884,
@@ -39047,11 +39047,11 @@
     "endYear": 1911,
     "fsImageCount": 829309,
     "imageCount": 829309,
-    "lastUpdatedMillis": 1688714391697,
+    "lastUpdatedMillis": 1689319810416,
     "placeIds": [
       1927058
     ],
-    "recordCount": 1082241,
+    "recordCount": 1082407,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1555,
@@ -39271,11 +39271,11 @@
     "endYear": 1969,
     "fsImageCount": 191547,
     "imageCount": 191547,
-    "lastUpdatedMillis": 1688709947891,
+    "lastUpdatedMillis": 1689353676339,
     "placeIds": [
       5931730
     ],
-    "recordCount": 3355251,
+    "recordCount": 3355987,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1645,
@@ -39719,11 +39719,11 @@
     "endYear": 1885,
     "fsImageCount": 128317,
     "imageCount": 128317,
-    "lastUpdatedMillis": 1688748692155,
+    "lastUpdatedMillis": 1689343416921,
     "placeIds": [
       1927021
     ],
-    "recordCount": 286780,
+    "recordCount": 288836,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1833,
@@ -39879,11 +39879,11 @@
     "endYear": 1918,
     "fsImageCount": 3278129,
     "imageCount": 3278129,
-    "lastUpdatedMillis": 1675878054450,
+    "lastUpdatedMillis": 1689261852190,
     "placeIds": [
       1927021
     ],
-    "recordCount": 1527549,
+    "recordCount": 4644689,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1722,
@@ -40135,11 +40135,11 @@
     "endYear": 1970,
     "fsImageCount": 96045,
     "imageCount": 96045,
-    "lastUpdatedMillis": 1686084446115,
+    "lastUpdatedMillis": 1689279294326,
     "placeIds": [
       1927180
     ],
-    "recordCount": 31686,
+    "recordCount": 32133,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1937,
@@ -42039,7 +42039,7 @@
     "endYear": 1990,
     "fsImageCount": 33965,
     "imageCount": 33965,
-    "lastUpdatedMillis": 1688670466578,
+    "lastUpdatedMillis": 1689279249599,
     "placeIds": [
       1927054
     ],
@@ -42519,11 +42519,11 @@
     "endYear": 1918,
     "fsImageCount": 647469,
     "imageCount": 647469,
-    "lastUpdatedMillis": 1676477034982,
+    "lastUpdatedMillis": 1689279341212,
     "placeIds": [
       1927041
     ],
-    "recordCount": 814268,
+    "recordCount": 815574,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1613,
@@ -42807,11 +42807,11 @@
     "endYear": 1850,
     "fsImageCount": 2968,
     "imageCount": 2968,
-    "lastUpdatedMillis": 1679349851300,
+    "lastUpdatedMillis": 1689199436312,
     "placeIds": [
       1927039
     ],
-    "recordCount": 69314,
+    "recordCount": 72416,
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1850,
@@ -43251,6 +43251,22 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1922414/waypoints"
   },
   {
+    "collectionId": "4231102",
+    "endYear": 1967,
+    "fsImageCount": 140,
+    "imageCount": 140,
+    "lastUpdatedMillis": 1688765282403,
+    "placeIds": [
+      57
+    ],
+    "recordCount": 284,
+    "recordType": "MILITARY",
+    "region": "UNITED_STATES",
+    "startYear": 1861,
+    "title": "Tennessee, Military Discharge Records, 1861-1967",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "3559085",
     "endYear": 1910,
     "fsImageCount": 5159,
@@ -43431,7 +43447,7 @@
     "endYear": 1976,
     "fsImageCount": 4476649,
     "imageCount": 4476649,
-    "lastUpdatedMillis": 1687280309139,
+    "lastUpdatedMillis": 1688752869248,
     "placeIds": [
       26
     ],
@@ -43799,11 +43815,11 @@
     "endYear": 1965,
     "fsImageCount": 538510,
     "imageCount": 538510,
-    "lastUpdatedMillis": 1688447865265,
+    "lastUpdatedMillis": 1689347824837,
     "placeIds": [
       26
     ],
-    "recordCount": 2113224,
+    "recordCount": 2113248,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1837,
@@ -44133,9 +44149,9 @@
   {
     "collectionId": "3502091",
     "endYear": 1920,
-    "fsImageCount": 27409,
-    "imageCount": 27409,
-    "lastUpdatedMillis": 1688668987434,
+    "fsImageCount": 30611,
+    "imageCount": 30611,
+    "lastUpdatedMillis": 1689282060698,
     "placeIds": [
       26
     ],
@@ -44581,13 +44597,13 @@
   {
     "collectionId": "3714676",
     "endYear": 1970,
-    "fsImageCount": 40328,
-    "imageCount": 40328,
-    "lastUpdatedMillis": 1682963820335,
+    "fsImageCount": 57415,
+    "imageCount": 57415,
+    "lastUpdatedMillis": 1688781250449,
     "placeIds": [
       6371060
     ],
-    "recordCount": 315210,
+    "recordCount": 399983,
     "recordType": "MILITARY",
     "region": "OTHER",
     "startYear": 1836,
@@ -44743,11 +44759,11 @@
     "endYear": 1918,
     "fsImageCount": 40448,
     "imageCount": 40448,
-    "lastUpdatedMillis": 1685736064710,
+    "lastUpdatedMillis": 1688760273594,
     "placeIds": [
       1927132
     ],
-    "recordCount": 1744847,
+    "recordCount": 1771360,
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1741,
@@ -46373,7 +46389,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 875610128,
+    "recordCount": 875610123,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1880,
@@ -46717,22 +46733,6 @@
     "waypointUrl": null
   },
   {
-    "collectionId": "1861144",
-    "endYear": 1942,
-    "fsImageCount": 19317962,
-    "imageCount": 19317962,
-    "lastUpdatedMillis": 1683065187687,
-    "placeIds": [
-      1
-    ],
-    "recordCount": 3207825,
-    "recordType": "MILITARY",
-    "region": "UNITED_STATES",
-    "startYear": 1942,
-    "title": "United States World War II Draft Registration Cards, 1942",
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1861144/waypoints"
-  },
-  {
     "collectionId": "1339071",
     "endYear": 1942,
     "fsImageCount": 11979092,
@@ -46747,6 +46747,22 @@
     "startYear": 1942,
     "title": "United States World War II Draft Registration Cards, 1942",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1339071/waypoints"
+  },
+  {
+    "collectionId": "1861144",
+    "endYear": 1942,
+    "fsImageCount": 19317962,
+    "imageCount": 19317962,
+    "lastUpdatedMillis": 1683065187687,
+    "placeIds": [
+      1
+    ],
+    "recordCount": 3207825,
+    "recordType": "MILITARY",
+    "region": "UNITED_STATES",
+    "startYear": 1942,
+    "title": "United States World War II Draft Registration Cards, 1942",
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1861144/waypoints"
   },
   {
     "collectionId": "2127320",
@@ -47582,8 +47598,8 @@
   {
     "collectionId": "3029266",
     "endYear": 1948,
-    "fsImageCount": 1112544,
-    "imageCount": 1112544,
+    "fsImageCount": 1112549,
+    "imageCount": 1112549,
     "lastUpdatedMillis": 1584571636403,
     "placeIds": [
       22
@@ -47872,11 +47888,11 @@
     "endYear": 1930,
     "fsImageCount": 0,
     "imageCount": 0,
-    "lastUpdatedMillis": 1688748635961,
+    "lastUpdatedMillis": 1689353924126,
     "placeIds": [
       1927142
     ],
-    "recordCount": 763224,
+    "recordCount": 798207,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1879,
@@ -48800,11 +48816,11 @@
     "endYear": 2003,
     "fsImageCount": 586312,
     "imageCount": 586312,
-    "lastUpdatedMillis": 1688743635435,
+    "lastUpdatedMillis": 1689351897936,
     "placeIds": [
       1927137
     ],
-    "recordCount": 1027712,
+    "recordCount": 1030768,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1873,
@@ -48814,13 +48830,13 @@
   {
     "collectionId": "4465438",
     "endYear": 2020,
-    "fsImageCount": 35987,
-    "imageCount": 35987,
-    "lastUpdatedMillis": 1688748532589,
+    "fsImageCount": 40098,
+    "imageCount": 40098,
+    "lastUpdatedMillis": 1689353963570,
     "placeIds": [
       1927137
     ],
-    "recordCount": 81708,
+    "recordCount": 90554,
     "recordType": "VITAL",
     "region": "SOUTH_AMERICA",
     "startYear": 1638,
@@ -49390,13 +49406,13 @@
   {
     "collectionId": "5000046",
     "endYear": 1949,
-    "fsImageCount": 40006,
-    "imageCount": 40006,
-    "lastUpdatedMillis": 1688748726242,
+    "fsImageCount": 40062,
+    "imageCount": 40062,
+    "lastUpdatedMillis": 1689350737204,
     "placeIds": [
       46
     ],
-    "recordCount": 1861936,
+    "recordCount": 1863687,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1853,
