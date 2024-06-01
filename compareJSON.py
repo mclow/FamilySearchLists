@@ -157,6 +157,19 @@ for coll in oldJSON:
 	if not id in newEntries:
 		removed[id] = coll
 
+print("## There are %5d entries in the old list" % len(oldEntries.keys()))
+print("## There are %5d entries in the new list" % len(newEntries.keys()))
+print()
+print("## There are %5d removed entries" % len(removed.keys()))
+print("## There are %5d added entries" % len(added.keys()))
+print("## There are %5d updated entries" % len(updated.keys()))
+print("## There are %5d entries with more images" % len(moreImages.keys()))
+print("## There are %5d entries with less images" % len(fewerImages.keys()))
+print("## There are %5d entries with more records" % len(moreRecords.keys()))
+print("## There are %5d entries with less records" % len(fewerRecords.keys()))
+print("## There are %5d unchanged entries" % len(unchanged.keys()))
+
+
 printDict(removed, "--- Collections Deleted ---", "DELETED", False)
 print()
 printDict(added,   "--- Collections Added   ---", "ADDED")
@@ -171,5 +184,7 @@ printDictWithDiffs(moreRecords, "--- Collections with new records ---", "last up
 print()
 printDictWithDiffs(fewerRecords, "--- Collections with records removed ---", "last updated")
 print()
+
+# printDict(unchanged,   "--- Collections Unchanged   ---", "UNCHANGED")
 
 # print len(oldJSON), len (newJSON), len(unchanged)
