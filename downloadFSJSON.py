@@ -30,12 +30,20 @@ import requests
 ## header. 
 
 def getCollectionList ():
-	user_agent = {'User-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/81.0'}
-	url = "https://www.familysearch.org/search/webservice/collectionListData"
-	page = requests.get(url, headers = user_agent)
-	collections = json.loads(page.content)
+# 	user_agent = {'User-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/81.0'}
+# 	url = "https://www.familysearch.org/search/webservice/collectionListData"
+# 	page = requests.get(url, headers = user_agent)
+# 	collections = json.loads(page.content)
+	with open("collectionListData.json") as json_data:
+		collections = json.load(json_data)
 	return collections ["collectionList"]
 
 
 cList = getCollectionList ()
 print(json.dumps(cList, sort_keys=True, indent=2))
+
+# Manual work
+# Load up https://www.familysearch.org/en/search/collection/list?count=All
+# Break into developer tools (cmd-option-C)
+# Look at sources ; filter by XDR; find the one as https://www.familysearch.org/search/orchestration/collectionListData
+# save the contents as "collectionListData.json"
