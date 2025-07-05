@@ -114,13 +114,13 @@
   {
     "collectionId": "3029256",
     "endYear": 1939,
-    "fsImageCount": 261619,
-    "imageCount": 261619,
-    "lastUpdatedMillis": 1718425907992,
+    "fsImageCount": 262275,
+    "imageCount": 262275,
+    "lastUpdatedMillis": 1751561990150,
     "placeIds": [
       33
     ],
-    "recordCount": 264773,
+    "recordCount": 265618,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1880,
@@ -409,7 +409,7 @@
       33
     ],
     "recordCount": 701463,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1834,
     "title": "Alabama, Voter Registration and Poll Tax Cards, 1834-1981",
@@ -770,8 +770,8 @@
   {
     "collectionId": "5000077",
     "endYear": 1980,
-    "fsImageCount": 10166,
-    "imageCount": 10166,
+    "fsImageCount": 10168,
+    "imageCount": 10168,
     "lastUpdatedMillis": 1732637822802,
     "placeIds": [
       1927135
@@ -802,8 +802,8 @@
   {
     "collectionId": "5000041",
     "endYear": 2018,
-    "fsImageCount": 111630,
-    "imageCount": 111630,
+    "fsImageCount": 111633,
+    "imageCount": 111633,
     "lastUpdatedMillis": 1717817596477,
     "placeIds": [
       1927135
@@ -1170,8 +1170,8 @@
   {
     "collectionId": "5000280",
     "endYear": 1936,
-    "fsImageCount": 2920563,
-    "imageCount": 2920563,
+    "fsImageCount": 2920565,
+    "imageCount": 2920565,
     "lastUpdatedMillis": 1730389406692,
     "placeIds": [
       1927135
@@ -1449,7 +1449,7 @@
       10
     ],
     "recordCount": 22938,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1882,
     "title": "Arizona, Apache County, Voting Records, 1882-1920",
@@ -1545,7 +1545,7 @@
       10
     ],
     "recordCount": 237311,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1882,
     "title": "Arizona, Cochise County, Voting Records, 1882-1932",
@@ -1609,7 +1609,7 @@
       10
     ],
     "recordCount": 81164,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1881,
     "title": "Arizona, Gila County, Voting Registers, 1881-1920",
@@ -1641,7 +1641,7 @@
       10
     ],
     "recordCount": 65760,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1882,
     "title": "Arizona, Graham County, Voting Records, 1882-1920",
@@ -1657,7 +1657,7 @@
       10
     ],
     "recordCount": 21523,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1910,
     "title": "Arizona, Greenlee County, Voting Records, 1910-1926",
@@ -1689,7 +1689,7 @@
       10
     ],
     "recordCount": 408202,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1876,
     "title": "Arizona, Maricopa County, Voting Records, 1876-1932",
@@ -1769,7 +1769,7 @@
       10
     ],
     "recordCount": 23680,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1876,
     "title": "Arizona, Mohave County, Voting Records, 1876-1920",
@@ -1785,7 +1785,7 @@
       10
     ],
     "recordCount": 53274,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1895,
     "title": "Arizona, Navajo County, Voting Records, 1895-1954",
@@ -1817,7 +1817,7 @@
       10
     ],
     "recordCount": 103577,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1876,
     "title": "Arizona, Pima County, Voting Records, 1876-1926",
@@ -1833,7 +1833,7 @@
       10
     ],
     "recordCount": 24047,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1876,
     "title": "Arizona, Pinal County, Voting Records, 1876-1920",
@@ -1849,7 +1849,7 @@
       10
     ],
     "recordCount": 12398,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1900,
     "title": "Arizona, Santa Cruz County, Voting Records, 1900-1920",
@@ -1961,7 +1961,7 @@
       10
     ],
     "recordCount": 157847,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1875,
     "title": "Arizona, Yavapai County, Voting Records, 1875-1932",
@@ -1977,7 +1977,7 @@
       10
     ],
     "recordCount": 18140,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1902,
     "title": "Arizona, Yuma County, Voting Records, 1902-1918",
@@ -2084,11 +2084,11 @@
     "endYear": 1929,
     "fsImageCount": 159626,
     "imageCount": 159626,
-    "lastUpdatedMillis": 1731014481353,
+    "lastUpdatedMillis": 1751565977653,
     "placeIds": [
       48
     ],
-    "recordCount": 150813,
+    "recordCount": 158901,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1901,
@@ -2098,13 +2098,13 @@
   {
     "collectionId": "2126715",
     "endYear": 1963,
-    "fsImageCount": 1381,
-    "imageCount": 1381,
-    "lastUpdatedMillis": 1718401254722,
+    "fsImageCount": 1408,
+    "imageCount": 1408,
+    "lastUpdatedMillis": 1751563611079,
     "placeIds": [
       48
     ],
-    "recordCount": 1531,
+    "recordCount": 1591,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1890,
@@ -2153,7 +2153,7 @@
       48
     ],
     "recordCount": 55247,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1868,
     "title": "Arkansas, County Voter Registration Records, 1868-1910",
@@ -4082,8 +4082,8 @@
   {
     "collectionId": "4469403",
     "endYear": 2023,
-    "fsImageCount": 453947,
-    "imageCount": 453947,
+    "fsImageCount": 453957,
+    "imageCount": 453957,
     "lastUpdatedMillis": 1717808732855,
     "placeIds": [
       1927159
@@ -4306,8 +4306,8 @@
   {
     "collectionId": "4469402",
     "endYear": 2022,
-    "fsImageCount": 905386,
-    "imageCount": 905386,
+    "fsImageCount": 905388,
+    "imageCount": 905388,
     "lastUpdatedMillis": 1717808719526,
     "placeIds": [
       1927159
@@ -4692,11 +4692,11 @@
     "endYear": 1980,
     "fsImageCount": 3967834,
     "imageCount": 3967834,
-    "lastUpdatedMillis": 1750573090992,
+    "lastUpdatedMillis": 1751484598925,
     "placeIds": [
       1927159
     ],
-    "recordCount": 1159,
+    "recordCount": 2080,
     "recordType": "MIGRATION",
     "region": "SOUTH_AMERICA",
     "startYear": 1900,
@@ -5524,13 +5524,13 @@
   {
     "collectionId": "2137266",
     "endYear": 1935,
-    "fsImageCount": 6373,
-    "imageCount": 6373,
-    "lastUpdatedMillis": 1718421538856,
+    "fsImageCount": 6145,
+    "imageCount": 6145,
+    "lastUpdatedMillis": 1751555491276,
     "placeIds": [
       11
     ],
-    "recordCount": 6651,
+    "recordCount": 6659,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "startYear": 1906,
@@ -8532,7 +8532,7 @@
       30
     ],
     "recordCount": 4911,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1935,
     "title": "Colorado, El Paso, Manitou Springs, Voter Records, 1935-1962",
@@ -8607,11 +8607,11 @@
     "endYear": 1939,
     "fsImageCount": 82674,
     "imageCount": 82674,
-    "lastUpdatedMillis": 1718369715367,
+    "lastUpdatedMillis": 1751301811301,
     "placeIds": [
       30
     ],
-    "recordCount": 89708,
+    "recordCount": 89754,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1900,
@@ -9025,11 +9025,11 @@
     "imageCount": 962203,
     "lastUpdatedMillis": 1744949849847,
     "placeIds": [
-      1927128
+      163
     ],
     "recordCount": 7380842,
-    "recordType": "VITAL",
-    "region": "CARIBBEAN_CENTRAL_AMERICA",
+    "recordType": "CHURCH_RECORD",
+    "region": "OTHER",
     "startYear": 1595,
     "title": "Costa Rica, Catholic Church Records, 1595-2022",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1460016/waypoints"
@@ -9057,11 +9057,11 @@
     "imageCount": 404718,
     "lastUpdatedMillis": 1748017667372,
     "placeIds": [
-      1927128
+      163
     ],
     "recordCount": 6211274,
     "recordType": "VITAL",
-    "region": "CARIBBEAN_CENTRAL_AMERICA",
+    "region": "OTHER",
     "startYear": 1823,
     "title": "Costa Rica, Civil Registration, 1823-2023",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1925429/waypoints"
@@ -10467,11 +10467,11 @@
     "imageCount": 3416801,
     "lastUpdatedMillis": 1742370261351,
     "placeIds": [
-      65
+      1927011
     ],
     "recordCount": 8075847,
-    "recordType": "GOVERNMENT",
-    "region": "OTHER",
+    "recordType": "VITAL",
+    "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1744,
     "title": "Dominican Republic, Civil Registration, 1744-2019",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1619814/waypoints"
@@ -10709,7 +10709,7 @@
     "placeIds": [
       1986340
     ],
-    "recordCount": 11795731,
+    "recordCount": 11797598,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1538,
@@ -11011,7 +11011,7 @@
     "placeIds": [
       1986340
     ],
-    "recordCount": 45711308,
+    "recordCount": 45744143,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1538,
@@ -11299,7 +11299,7 @@
     "placeIds": [
       1986340
     ],
-    "recordCount": 14517219,
+    "recordCount": 14518428,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1538,
@@ -11476,7 +11476,7 @@
       1986340
     ],
     "recordCount": 58374,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1781,
     "title": "England, Devon, Plymouth, Electoral Rolls, 1781-1973",
@@ -12276,7 +12276,7 @@
       1986340
     ],
     "recordCount": 5008658,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1820,
     "title": "England, Lancashire, Manchester, Electoral Registers, 1820-1939",
@@ -13412,7 +13412,7 @@
       34
     ],
     "recordCount": 25454,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1867,
     "title": "Florida, County Voter Registration Records, 1867-1905",
@@ -15387,22 +15387,6 @@
     "waypointUrl": null
   },
   {
-    "collectionId": "2854336",
-    "endYear": 1876,
-    "fsImageCount": 4320,
-    "imageCount": 4320,
-    "lastUpdatedMillis": 1718416719019,
-    "placeIds": [
-      1927089
-    ],
-    "recordCount": 255918,
-    "recordType": "CENSUS",
-    "region": "EUROPE",
-    "startYear": 1836,
-    "title": "France, Vienne, Census, 1876",
-    "waypointUrl": null
-  },
-  {
     "collectionId": "2858066",
     "endYear": 1876,
     "fsImageCount": 5599,
@@ -15415,6 +15399,22 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1876,
+    "title": "France, Vienne, Census, 1876",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2854336",
+    "endYear": 1876,
+    "fsImageCount": 4320,
+    "imageCount": 4320,
+    "lastUpdatedMillis": 1718416719019,
+    "placeIds": [
+      1927089
+    ],
+    "recordCount": 255918,
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "startYear": 1836,
     "title": "France, Vienne, Census, 1876",
     "waypointUrl": null
   },
@@ -15677,13 +15677,13 @@
   {
     "collectionId": "3038333",
     "endYear": 1921,
-    "fsImageCount": 146468,
-    "imageCount": 146468,
-    "lastUpdatedMillis": 1718425530425,
+    "fsImageCount": 146474,
+    "imageCount": 146474,
+    "lastUpdatedMillis": 1751561823822,
     "placeIds": [
       50
     ],
-    "recordCount": 152805,
+    "recordCount": 154093,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1861,
@@ -15732,7 +15732,7 @@
       50
     ],
     "recordCount": 394859,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1844,
     "title": "Georgia, County Voter Registrations, 1844-1942",
@@ -15988,7 +15988,7 @@
       50
     ],
     "recordCount": 182111,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1867,
     "title": "Georgia, Reconstruction Registration Oath Books, 1867-1868",
@@ -18556,7 +18556,7 @@
       12
     ],
     "recordCount": 302470,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1920,
     "title": "Hawaii, Honolulu, Voter Registration Applications, ca. 1920-1966",
@@ -18748,7 +18748,7 @@
       12
     ],
     "recordCount": 14669,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1887,
     "title": "Hawaii, Register of Voters, 1887-1888",
@@ -19916,7 +19916,7 @@
       14
     ],
     "recordCount": 598905,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1888,
     "title": "Illinois, Cook, Chicago, Voter Registers, 1888-1892",
@@ -20844,7 +20844,7 @@
       15
     ],
     "recordCount": 201181,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1850,
     "title": "Indiana, Voter Registers, 1850-1931",
@@ -21548,7 +21548,7 @@
       51
     ],
     "recordCount": 63334,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1897,
     "title": "Iowa, Johnson, Iowa City, Voter Registers, 1897-1904",
@@ -21943,11 +21943,11 @@
     "endYear": 1945,
     "fsImageCount": 0,
     "imageCount": 0,
-    "lastUpdatedMillis": 1748038068292,
+    "lastUpdatedMillis": 1751552073306,
     "placeIds": [
       51
     ],
-    "recordCount": 609202,
+    "recordCount": 609232,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1940,
@@ -22275,6 +22275,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000212",
+    "endYear": 1926,
+    "fsImageCount": 138913,
+    "imageCount": 138913,
+    "lastUpdatedMillis": 1736309365976,
+    "placeIds": [
+      1927084
+    ],
+    "recordCount": 7358408,
+    "recordType": "LEGAL",
+    "region": "UNITED_KINGDOM_IRELAND",
+    "startYear": 1810,
+    "title": "Ireland, Dog License Registrations, 1810-1926",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "4496113",
     "endYear": 1924,
     "fsImageCount": 113018,
@@ -22411,7 +22427,7 @@
     "placeIds": [
       1927084
     ],
-    "recordCount": 850935,
+    "recordCount": 21832352,
     "recordType": "LEGAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1828,
@@ -23063,11 +23079,11 @@
     "endYear": 1935,
     "fsImageCount": 470099,
     "imageCount": 470099,
-    "lastUpdatedMillis": 1743790137715,
+    "lastUpdatedMillis": 1751493898916,
     "placeIds": [
       1927178
     ],
-    "recordCount": 582611,
+    "recordCount": 1163406,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1820,
@@ -23079,11 +23095,11 @@
     "endYear": 1918,
     "fsImageCount": 2171605,
     "imageCount": 2171605,
-    "lastUpdatedMillis": 1750706160071,
+    "lastUpdatedMillis": 1751493389889,
     "placeIds": [
       1927178
     ],
-    "recordCount": 577375,
+    "recordCount": 1021322,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1809,
@@ -23095,11 +23111,11 @@
     "endYear": 1865,
     "fsImageCount": 4543698,
     "imageCount": 4543698,
-    "lastUpdatedMillis": 1743779328899,
+    "lastUpdatedMillis": 1751492635035,
     "placeIds": [
       1927178
     ],
-    "recordCount": 582376,
+    "recordCount": 654828,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1809,
@@ -23605,13 +23621,13 @@
   {
     "collectionId": "2821290",
     "endYear": 1899,
-    "fsImageCount": 1055944,
-    "imageCount": 1055944,
-    "lastUpdatedMillis": 1744729017671,
+    "fsImageCount": 1091198,
+    "imageCount": 1091198,
+    "lastUpdatedMillis": 1751492872065,
     "placeIds": [
       1927178
     ],
-    "recordCount": 1511763,
+    "recordCount": 1578624,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1809,
@@ -23959,11 +23975,11 @@
     "endYear": 1941,
     "fsImageCount": 3307040,
     "imageCount": 3307040,
-    "lastUpdatedMillis": 1744040877891,
+    "lastUpdatedMillis": 1751493180963,
     "placeIds": [
       1927178
     ],
-    "recordCount": 228969,
+    "recordCount": 300403,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1901,
@@ -24471,11 +24487,11 @@
     "endYear": 1866,
     "fsImageCount": 12795172,
     "imageCount": 12795172,
-    "lastUpdatedMillis": 1750706554128,
+    "lastUpdatedMillis": 1751295347488,
     "placeIds": [
       1927178
     ],
-    "recordCount": 2624733,
+    "recordCount": 2624735,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1809,
@@ -25749,8 +25765,8 @@
   {
     "collectionId": "5000113",
     "endYear": 1899,
-    "fsImageCount": 142126,
-    "imageCount": 142126,
+    "fsImageCount": 142127,
+    "imageCount": 142127,
     "lastUpdatedMillis": 1733421076967,
     "placeIds": [
       1927178
@@ -26693,13 +26709,13 @@
   {
     "collectionId": "2796751",
     "endYear": 1945,
-    "fsImageCount": 124424,
-    "imageCount": 124424,
-    "lastUpdatedMillis": 1745967680288,
+    "fsImageCount": 124434,
+    "imageCount": 124434,
+    "lastUpdatedMillis": 1751551943503,
     "placeIds": [
       35
     ],
-    "recordCount": 433137,
+    "recordCount": 433147,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1940,
@@ -27004,7 +27020,7 @@
       36
     ],
     "recordCount": 27411,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1904,
     "title": "Kentucky, Voter Registers and Registration Books, 1904-1935",
@@ -27383,11 +27399,11 @@
     "endYear": 1950,
     "fsImageCount": 199883,
     "imageCount": 199883,
-    "lastUpdatedMillis": 1718325120313,
+    "lastUpdatedMillis": 1751557555830,
     "placeIds": [
       37
     ],
-    "recordCount": 108450,
+    "recordCount": 108633,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1898,
@@ -27596,7 +27612,7 @@
       37
     ],
     "recordCount": 3127368,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1867,
     "title": "Louisiana, Orleans and St. Tammany, Voter Registration Records, 1867-1949",
@@ -28844,7 +28860,7 @@
       53
     ],
     "recordCount": 26797,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1853,
     "title": "Maryland, Kent County, Voter Registration Records, 1853-1898",
@@ -29516,7 +29532,7 @@
       52
     ],
     "recordCount": 264513,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1857,
     "title": "Massachusetts, Suffolk, Boston, Voter Registers, 1857-1920",
@@ -29817,11 +29833,11 @@
     "imageCount": 1179899,
     "lastUpdatedMillis": 1718327200053,
     "placeIds": [
-      2901
+      1928735
     ],
     "recordCount": 2356090,
-    "recordType": "GOVERNMENT",
-    "region": "OTHER",
+    "recordType": "VITAL",
+    "region": "MEXICO",
     "startYear": 1861,
     "title": "Mexico, Coahuila, Civil Registration, 1861-1998",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1916233/waypoints"
@@ -32316,7 +32332,7 @@
       54
     ],
     "recordCount": 314533,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1871,
     "title": "Mississippi, Voter Registration, 1871-1967",
@@ -32620,7 +32636,7 @@
       38
     ],
     "recordCount": 459407,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1928,
     "title": "Missouri, Jackson County Voter Registration Records, 1928-1956",
@@ -32940,7 +32956,7 @@
       19
     ],
     "recordCount": 832087,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1884,
     "title": "Montana, County Voting Records, 1884-1992",
@@ -35877,13 +35893,13 @@
   {
     "collectionId": "3288447",
     "endYear": 1947,
-    "fsImageCount": 2109883,
-    "imageCount": 2109883,
-    "lastUpdatedMillis": 1748038611017,
+    "fsImageCount": 2109884,
+    "imageCount": 2109884,
+    "lastUpdatedMillis": 1751552233150,
     "placeIds": [
       22
     ],
-    "recordCount": 2333621,
+    "recordCount": 2333631,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1940,
@@ -36108,7 +36124,7 @@
       22
     ],
     "recordCount": 583073,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1872,
     "title": "New York, Record of Naturalized Voters Registered, 1872-1878",
@@ -36556,7 +36572,7 @@
       1927083
     ],
     "recordCount": 12309008,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "AUSTRALIA_NEW_ZEALAND",
     "startYear": 1865,
     "title": "New Zealand, Electoral Rolls, 1865-1957",
@@ -36791,11 +36807,11 @@
     "endYear": 1953,
     "fsImageCount": 189158,
     "imageCount": 189158,
-    "lastUpdatedMillis": 1718337662607,
+    "lastUpdatedMillis": 1751562155959,
     "placeIds": [
       20
     ],
-    "recordCount": 55118,
+    "recordCount": 55883,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1885,
@@ -37148,7 +37164,7 @@
       20
     ],
     "recordCount": 163212,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1843,
     "title": "North Carolina, Voter Registers and Certificates of Registration, 1843-1965",
@@ -37605,13 +37621,13 @@
   {
     "collectionId": "3335353",
     "endYear": 1885,
-    "fsImageCount": 275,
-    "imageCount": 275,
-    "lastUpdatedMillis": 1718438051416,
+    "fsImageCount": 278,
+    "imageCount": 278,
+    "lastUpdatedMillis": 1751477428755,
     "placeIds": [
       1927171
     ],
-    "recordCount": 808,
+    "recordCount": 820,
     "recordType": "LEGAL",
     "region": "EUROPE",
     "startYear": 1844,
@@ -38476,7 +38492,7 @@
       43
     ],
     "recordCount": 1668152,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1893,
     "title": "Ohio, Voter Records, 1893-1960",
@@ -38677,13 +38693,13 @@
   {
     "collectionId": "3038340",
     "endYear": 1930,
-    "fsImageCount": 23500,
-    "imageCount": 23500,
-    "lastUpdatedMillis": 1718427125258,
+    "fsImageCount": 23699,
+    "imageCount": 23699,
+    "lastUpdatedMillis": 1751561321731,
     "placeIds": [
       44
     ],
-    "recordCount": 23722,
+    "recordCount": 23921,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1879,
@@ -38860,7 +38876,7 @@
       44
     ],
     "recordCount": 45234,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1906,
     "title": "Oklahoma, Voter Records, 1906-1956",
@@ -39164,7 +39180,7 @@
       56
     ],
     "recordCount": 23193,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1913,
     "title": "Oregon, Lincoln County Voter Registration Index Cards, 1913-1942",
@@ -39292,7 +39308,7 @@
       56
     ],
     "recordCount": 988587,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1908,
     "title": "Oregon, Multnomah County, Voting Registration Records, 1908-1958",
@@ -40521,11 +40537,11 @@
     "imageCount": 2867383,
     "lastUpdatedMillis": 1750979095894,
     "placeIds": [
-      1927042
+      255
     ],
     "recordCount": 12210026,
     "recordType": "VITAL",
-    "region": "ASIA_MIDDLE_EAST",
+    "region": "OTHER",
     "startYear": 1520,
     "title": "Philippines, Catholic Church Records, 1520-2014",
     "waypointUrl": null
@@ -40793,11 +40809,11 @@
     "imageCount": 1150410,
     "lastUpdatedMillis": 1742496645197,
     "placeIds": [
-      25
+      1927187
     ],
     "recordCount": 11392410,
     "recordType": "VITAL",
-    "region": "UNITED_STATES",
+    "region": "EUROPE",
     "startYear": 1568,
     "title": "Poland, Church Books, 1568-1990",
     "waypointUrl": null
@@ -43468,7 +43484,7 @@
       25
     ],
     "recordCount": 21836,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1882,
     "title": "South Carolina, County Voter Registration Records, 1882-1895",
@@ -47052,7 +47068,7 @@
       26
     ],
     "recordCount": 158565,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1867,
     "title": "Texas, Voter Records, 1867-1918",
@@ -48383,8 +48399,8 @@
   {
     "collectionId": "4464515",
     "endYear": 1950,
-    "fsImageCount": 52723552,
-    "imageCount": 52723552,
+    "fsImageCount": 52723021,
+    "imageCount": 52723021,
     "lastUpdatedMillis": 1718589580181,
     "placeIds": [
       1
@@ -49078,7 +49094,7 @@
       12
     ],
     "recordCount": 21057,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1897,
     "title": "United States, Hawaii, Anti-Annexation Petitions, 1897",
@@ -49838,8 +49854,8 @@
   {
     "collectionId": "5000145",
     "endYear": 2023,
-    "fsImageCount": 28203184,
-    "imageCount": 28203184,
+    "fsImageCount": 28203181,
+    "imageCount": 28203181,
     "lastUpdatedMillis": 1721686400349,
     "placeIds": [
       1
@@ -49940,7 +49956,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 875605696,
+    "recordCount": 875605686,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
@@ -50052,7 +50068,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 413872401,
+    "recordCount": 413872390,
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
@@ -50460,22 +50476,6 @@
     "waypointUrl": null
   },
   {
-    "collectionId": "1861144",
-    "endYear": 1942,
-    "fsImageCount": 19317962,
-    "imageCount": 19317962,
-    "lastUpdatedMillis": 1742407236188,
-    "placeIds": [
-      1
-    ],
-    "recordCount": 12895572,
-    "recordType": "MILITARY",
-    "region": "UNITED_STATES",
-    "startYear": 1942,
-    "title": "United States, World War II Draft Registration Cards, 1942",
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1861144/waypoints"
-  },
-  {
     "collectionId": "1339071",
     "endYear": 1942,
     "fsImageCount": 11979092,
@@ -50490,6 +50490,22 @@
     "startYear": 1942,
     "title": "United States, World War II Draft Registration Cards, 1942",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1339071/waypoints"
+  },
+  {
+    "collectionId": "1861144",
+    "endYear": 1942,
+    "fsImageCount": 19317962,
+    "imageCount": 19317962,
+    "lastUpdatedMillis": 1742407236188,
+    "placeIds": [
+      1
+    ],
+    "recordCount": 12895572,
+    "recordType": "MILITARY",
+    "region": "UNITED_STATES",
+    "startYear": 1942,
+    "title": "United States, World War II Draft Registration Cards, 1942",
+    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1861144/waypoints"
   },
   {
     "collectionId": "2127320",
@@ -51502,13 +51518,13 @@
   {
     "collectionId": "3031542",
     "endYear": 1945,
-    "fsImageCount": 42543,
-    "imageCount": 42543,
-    "lastUpdatedMillis": 1593545369388,
+    "fsImageCount": 42552,
+    "imageCount": 42552,
+    "lastUpdatedMillis": 1751554522797,
     "placeIds": [
       27
     ],
-    "recordCount": 42634,
+    "recordCount": 42985,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1939,
@@ -52069,7 +52085,7 @@
       46
     ],
     "recordCount": 6043,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1854,
     "title": "Virginia Voter Registration, 1854-1971",
@@ -52901,7 +52917,7 @@
       1986311
     ],
     "recordCount": 1643483,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1839,
     "title": "Wales, Glamorgan, West Glamorgan, Electoral Registers, 1839-1925",
@@ -53525,7 +53541,7 @@
       58
     ],
     "recordCount": 197350,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1876,
     "title": "Washington, Voting Records, 1876-1940",
@@ -53797,7 +53813,7 @@
       28
     ],
     "recordCount": 8442,
-    "recordType": "CENSUS",
+    "recordType": "GOVERNMENT",
     "region": "UNITED_STATES",
     "startYear": 1866,
     "title": "West Virginia, Voter Registers, 1866-1890",
@@ -54500,7 +54516,7 @@
     "placeIds": [
       1927049
     ],
-    "recordCount": 0,
+    "recordCount": 12349,
     "recordType": "VITAL",
     "region": "AFRICA",
     "startYear": 1904,
@@ -54548,7 +54564,7 @@
     "placeIds": [
       1927049
     ],
-    "recordCount": 0,
+    "recordCount": 320653,
     "recordType": "VITAL",
     "region": "AFRICA",
     "startYear": 1890,
