@@ -482,13 +482,13 @@
   {
     "collectionId": "3460238",
     "endYear": 1956,
-    "fsImageCount": 11941,
-    "imageCount": 11941,
-    "lastUpdatedMillis": 1718435928746,
+    "fsImageCount": 11944,
+    "imageCount": 11944,
+    "lastUpdatedMillis": 1783978081736,
     "placeIds": [
       32
     ],
-    "recordCount": 18807,
+    "recordCount": 18810,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "startYear": 1906,
@@ -802,8 +802,8 @@
   {
     "collectionId": "5000041",
     "endYear": 2018,
-    "fsImageCount": 111712,
-    "imageCount": 111712,
+    "fsImageCount": 111714,
+    "imageCount": 111714,
     "lastUpdatedMillis": 1717817596477,
     "placeIds": [
       1927135
@@ -1170,8 +1170,8 @@
   {
     "collectionId": "5000280",
     "endYear": 1936,
-    "fsImageCount": 2929280,
-    "imageCount": 2929280,
+    "fsImageCount": 2929281,
+    "imageCount": 2929281,
     "lastUpdatedMillis": 1775235602701,
     "placeIds": [
       1927135
@@ -4082,8 +4082,8 @@
   {
     "collectionId": "4469403",
     "endYear": 2023,
-    "fsImageCount": 454237,
-    "imageCount": 454237,
+    "fsImageCount": 454238,
+    "imageCount": 454238,
     "lastUpdatedMillis": 1717808732855,
     "placeIds": [
       1927159
@@ -4322,8 +4322,8 @@
   {
     "collectionId": "4469402",
     "endYear": 2022,
-    "fsImageCount": 906198,
-    "imageCount": 906198,
+    "fsImageCount": 906213,
+    "imageCount": 906213,
     "lastUpdatedMillis": 1717808719526,
     "placeIds": [
       1927159
@@ -4754,8 +4754,8 @@
   {
     "collectionId": "4470324",
     "endYear": 2021,
-    "fsImageCount": 268945,
-    "imageCount": 268945,
+    "fsImageCount": 268946,
+    "imageCount": 268946,
     "lastUpdatedMillis": 1717808808119,
     "placeIds": [
       1927159
@@ -5492,13 +5492,13 @@
   {
     "collectionId": "3477653",
     "endYear": 1957,
-    "fsImageCount": 292268,
-    "imageCount": 292268,
-    "lastUpdatedMillis": 1754117149741,
+    "fsImageCount": 292412,
+    "imageCount": 292412,
+    "lastUpdatedMillis": 1783982917799,
     "placeIds": [
       11
     ],
-    "recordCount": 346504,
+    "recordCount": 346972,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "startYear": 1907,
@@ -5700,13 +5700,13 @@
   {
     "collectionId": "3338292",
     "endYear": 1946,
-    "fsImageCount": 23037,
-    "imageCount": 23037,
-    "lastUpdatedMillis": 1718439471430,
+    "fsImageCount": 23046,
+    "imageCount": 23046,
+    "lastUpdatedMillis": 1783976222918,
     "placeIds": [
       12
     ],
-    "recordCount": 23125,
+    "recordCount": 23134,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "startYear": 1912,
@@ -9965,6 +9965,22 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1607917/waypoints"
   },
   {
+    "collectionId": "2258579",
+    "endYear": 1968,
+    "fsImageCount": 40286,
+    "imageCount": 40286,
+    "lastUpdatedMillis": 1775762905699,
+    "placeIds": [
+      1927025
+    ],
+    "recordCount": 4954,
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "startYear": 1805,
+    "title": "Denmark, Copenhagen City, Burial Registers, 1805-1968",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2341913",
     "endYear": 1965,
     "fsImageCount": 112568,
@@ -12335,7 +12351,7 @@
     "collectionId": "2075052",
     "endYear": 1916,
     "fsImageCount": 0,
-    "imageCount": 15918116,
+    "imageCount": 15918117,
     "lastUpdatedMillis": 1766791142821,
     "placeIds": [
       1986340
@@ -13023,7 +13039,7 @@
     "collectionId": "2221801",
     "endYear": 2013,
     "fsImageCount": 0,
-    "imageCount": 757051,
+    "imageCount": 322905,
     "lastUpdatedMillis": 1782480442016,
     "placeIds": [
       6371060
@@ -15042,11 +15058,11 @@
     "imageCount": 246518,
     "lastUpdatedMillis": 1782935062790,
     "placeIds": [
-      1927089
+      3869
     ],
-    "recordCount": 302499,
+    "recordCount": 450069,
     "recordType": "VITAL",
-    "region": "EUROPE",
+    "region": "OTHER",
     "startYear": 1840,
     "title": "France, Reunion, Civil Registration, 1840-1980",
     "waypointUrl": null
@@ -20644,6 +20660,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000501",
+    "endYear": 1863,
+    "fsImageCount": 60,
+    "imageCount": 60,
+    "lastUpdatedMillis": 1776723440002,
+    "placeIds": [
+      15
+    ],
+    "recordCount": 108,
+    "recordType": "CENSUS",
+    "region": "UNITED_STATES",
+    "startYear": 1806,
+    "title": "Indiana, Harrison County, Colored Enumerations, 1806-1863",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2844322",
     "endYear": 2008,
     "fsImageCount": 45697,
@@ -22548,6 +22580,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000275",
+    "endYear": 1876,
+    "fsImageCount": 31077,
+    "imageCount": 31077,
+    "lastUpdatedMillis": 1759248584941,
+    "placeIds": [
+      1927178
+    ],
+    "recordCount": 251280,
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "startYear": 1768,
+    "title": "Italy, Archdiocese of Siracusa, Catholic Church Records, 1768-1876",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "5000372",
     "endYear": 1910,
     "fsImageCount": 1533,
@@ -22561,6 +22609,22 @@
     "region": "EUROPE",
     "startYear": 1573,
     "title": "Italy, Arcidiocesi di Foggia-Bovino, Church Records, 1573-1910",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000371",
+    "endYear": 1973,
+    "fsImageCount": 12056,
+    "imageCount": 12056,
+    "lastUpdatedMillis": 1763606699568,
+    "placeIds": [
+      1927178
+    ],
+    "recordCount": 12067,
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "startYear": 1587,
+    "title": "Italy, Arcidiocesi di Foggia-Bovino, Sant'Agata di Puglia, Church Records,1587-1973",
     "waypointUrl": null
   },
   {
@@ -22764,7 +22828,7 @@
     "placeIds": [
       1927178
     ],
-    "recordCount": 0,
+    "recordCount": 2798,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1861,
@@ -23492,15 +23556,31 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2068343/waypoints"
   },
   {
-    "collectionId": "5000441",
-    "endYear": 1871,
-    "fsImageCount": 19448,
-    "imageCount": 19448,
-    "lastUpdatedMillis": 1782934208481,
+    "collectionId": "5000273",
+    "endYear": 1929,
+    "fsImageCount": 185962,
+    "imageCount": 185962,
+    "lastUpdatedMillis": 1759423368222,
     "placeIds": [
       1927178
     ],
-    "recordCount": 23108,
+    "recordCount": 1324863,
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "startYear": 1535,
+    "title": "Italy, Enna, Diocese of Nicosia, Catholic Church Records, 1535-1929",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000441",
+    "endYear": 1871,
+    "fsImageCount": 21806,
+    "imageCount": 21806,
+    "lastUpdatedMillis": 1783753711238,
+    "placeIds": [
+      1927178
+    ],
+    "recordCount": 80800,
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1808,
@@ -23924,6 +24004,22 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2477523/waypoints"
   },
   {
+    "collectionId": "5000435",
+    "endYear": 1945,
+    "fsImageCount": 156,
+    "imageCount": 156,
+    "lastUpdatedMillis": 1779980971886,
+    "placeIds": [
+      1927178
+    ],
+    "recordCount": 41,
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "startYear": 1806,
+    "title": "Italy, La Spezia, Census, 1806-1945",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2477527",
     "endYear": 1865,
     "fsImageCount": 3588,
@@ -24098,6 +24194,22 @@
     "startYear": 1568,
     "title": "Italy, Mantova, Brede, Parrocchia di Santa Margherita vergine e martire, Catholic Church Records, 1568-1910",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2212664/waypoints"
+  },
+  {
+    "collectionId": "5000460",
+    "endYear": 1910,
+    "fsImageCount": 1427,
+    "imageCount": 1427,
+    "lastUpdatedMillis": 1769232796260,
+    "placeIds": [
+      1927178
+    ],
+    "recordCount": 51932,
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "startYear": 1714,
+    "title": "Italy, Mantova, Census, 1714-1910",
+    "waypointUrl": null
   },
   {
     "collectionId": "1934580",
@@ -25324,7 +25436,7 @@
     "placeIds": [
       1927178
     ],
-    "recordCount": 0,
+    "recordCount": 8355,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1865,
@@ -25788,7 +25900,7 @@
     "placeIds": [
       1927178
     ],
-    "recordCount": 0,
+    "recordCount": 3352,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1809,
@@ -25892,6 +26004,22 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2043840/waypoints"
   },
   {
+    "collectionId": "5000272",
+    "endYear": 1870,
+    "fsImageCount": 15336,
+    "imageCount": 15336,
+    "lastUpdatedMillis": 1760453072726,
+    "placeIds": [
+      1927178
+    ],
+    "recordCount": 153754,
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "startYear": 1676,
+    "title": "Italy, Siracusa, Diocese of Noto, San Nicolo' Cathedral, Catholic Church Records, 1676-1870",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2110810",
     "endYear": 1942,
     "fsImageCount": 275840,
@@ -25916,7 +26044,7 @@
     "placeIds": [
       1927178
     ],
-    "recordCount": 0,
+    "recordCount": 207449,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1562,
@@ -27268,6 +27396,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "4376740",
+    "endYear": 1997,
+    "fsImageCount": 19351,
+    "imageCount": 19351,
+    "lastUpdatedMillis": 1776225029311,
+    "placeIds": [
+      36
+    ],
+    "recordCount": 38487,
+    "recordType": "MILITARY",
+    "region": "UNITED_STATES",
+    "startYear": 1865,
+    "title": "Kentucky, Military Discharge Records, ca.1865- ca.1997",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "5000236",
     "endYear": 1939,
     "fsImageCount": 9820,
@@ -28262,13 +28406,13 @@
   {
     "collectionId": "3477648",
     "endYear": 1953,
-    "fsImageCount": 190451,
-    "imageCount": 190451,
-    "lastUpdatedMillis": 1718439859693,
+    "fsImageCount": 190455,
+    "imageCount": 190455,
+    "lastUpdatedMillis": 1783972290364,
     "placeIds": [
       16
     ],
-    "recordCount": 199010,
+    "recordCount": 199015,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "startYear": 1906,
@@ -28866,6 +29010,22 @@
     "startYear": 1690,
     "title": "Maine, York County, Probate Estate Files, 1690-1917",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2094226/waypoints"
+  },
+  {
+    "collectionId": "5000385",
+    "endYear": 1892,
+    "fsImageCount": 373,
+    "imageCount": 373,
+    "lastUpdatedMillis": 1779229585020,
+    "placeIds": [
+      1927043
+    ],
+    "recordCount": 2320,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1708,
+    "title": "Malaysia, Church Records, 1708-1892",
+    "waypointUrl": null
   },
   {
     "collectionId": "4376672",
@@ -35946,11 +36106,11 @@
     "imageCount": 8129310,
     "lastUpdatedMillis": 1766782073747,
     "placeIds": [
-      339
+      22
     ],
     "recordCount": 65562372,
     "recordType": "LEGAL",
-    "region": "OTHER",
+    "region": "UNITED_STATES",
     "startYear": 1630,
     "title": "New York, Land Records, 1630-1975",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2078654/waypoints"
@@ -36602,11 +36762,11 @@
     "imageCount": 2187206,
     "lastUpdatedMillis": 1782229712970,
     "placeIds": [
-      339
+      22
     ],
     "recordCount": 185379,
-    "recordType": "MISCELLANEOUS",
-    "region": "OTHER",
+    "recordType": "MIGRATION",
+    "region": "UNITED_STATES",
     "startYear": 1824,
     "title": "New York, U.S. District and Circuit Court Naturalization Records, 1824-1991",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2060123/waypoints"
@@ -41016,16 +41176,48 @@
     "endYear": 1996,
     "fsImageCount": 20274621,
     "imageCount": 20274621,
-    "lastUpdatedMillis": 1783232665943,
+    "lastUpdatedMillis": 1784046495835,
     "placeIds": [
       1927042
     ],
-    "recordCount": 562095,
+    "recordCount": 5873807,
     "recordType": "VITAL",
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1945,
     "title": "Philippines Civil Registration (National), 1945-1996",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1852584/waypoints"
+  },
+  {
+    "collectionId": "5000333",
+    "endYear": 1984,
+    "fsImageCount": 1937,
+    "imageCount": 1937,
+    "lastUpdatedMillis": 1772191927228,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 3487,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1821,
+    "title": "Philippines, Bangsamoro, Church Records, 1821-1984\n",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000344",
+    "endYear": 1996,
+    "fsImageCount": 132258,
+    "imageCount": 132258,
+    "lastUpdatedMillis": 1779905909754,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 716,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1882,
+    "title": "Philippines, Bangsamoro, Civil Registration, 1882-1996",
+    "waypointUrl": null
   },
   {
     "collectionId": "5000336",
@@ -41073,6 +41265,54 @@
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1642,
     "title": "Philippines, Births and Baptisms, 1642-1994",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000322",
+    "endYear": 1978,
+    "fsImageCount": 32604,
+    "imageCount": 32604,
+    "lastUpdatedMillis": 1779354175053,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 114499,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1773,
+    "title": "Philippines, Cagayan Valley, Church Records, 1773-1978",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000323",
+    "endYear": 1983,
+    "fsImageCount": 236829,
+    "imageCount": 236829,
+    "lastUpdatedMillis": 1773383297974,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 1478024,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1710,
+    "title": "Philippines, Calabarzon, Church Records 1710-1983",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000346",
+    "endYear": 2000,
+    "fsImageCount": 1421979,
+    "imageCount": 1421979,
+    "lastUpdatedMillis": 1783096517969,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 2935,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1710,
+    "title": "Philippines, Calabarzon, Civil Registration, 1710-2000",
     "waypointUrl": null
   },
   {
@@ -41140,22 +41380,6 @@
     "waypointUrl": null
   },
   {
-    "collectionId": "5000215",
-    "endYear": 1901,
-    "fsImageCount": 55094,
-    "imageCount": 55094,
-    "lastUpdatedMillis": 1758221570918,
-    "placeIds": [
-      1927042
-    ],
-    "recordCount": 487361,
-    "recordType": "CENSUS",
-    "region": "ASIA_MIDDLE_EAST",
-    "startYear": 1786,
-    "title": "Philippines, Chinese Civil Census Records, 1786-1901",
-    "waypointUrl": null
-  },
-  {
     "collectionId": "5000216",
     "endYear": 1980,
     "fsImageCount": 102819,
@@ -41218,6 +41442,22 @@
     "startYear": 1706,
     "title": "Philippines, Civil Registration (Spanish Period), 1706-1911",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1935452/waypoints"
+  },
+  {
+    "collectionId": "5000185",
+    "endYear": 1997,
+    "fsImageCount": 407510,
+    "imageCount": 407510,
+    "lastUpdatedMillis": 1783091562978,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 1658,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1944,
+    "title": "Philippines, Cordillera, Civil Registration, 1944-1997",
+    "waypointUrl": null
   },
   {
     "collectionId": "2094274",
@@ -41300,6 +41540,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000352",
+    "endYear": 2012,
+    "fsImageCount": 1746400,
+    "imageCount": 1746400,
+    "lastUpdatedMillis": 1783094786606,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 31202,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1821,
+    "title": "Philippines, Ilocos, Civil Registration, 1821-2012",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2071967",
     "endYear": 1985,
     "fsImageCount": 33723,
@@ -41364,6 +41620,38 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000337",
+    "endYear": 1982,
+    "fsImageCount": 167613,
+    "imageCount": 167613,
+    "lastUpdatedMillis": 1773383713666,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 362559,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1723,
+    "title": "Philippines, Metro Manila, Church Records, 1723-1982",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000353",
+    "endYear": 2009,
+    "fsImageCount": 2435239,
+    "imageCount": 2435239,
+    "lastUpdatedMillis": 1783096288211,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 3046,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1863,
+    "title": "Philippines, Metro Manila, Civil Registration, 1863-2009",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "5000418",
     "endYear": 1900,
     "fsImageCount": 8557,
@@ -41377,6 +41665,22 @@
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1815,
     "title": "Philippines, Military Records, 1815-1900",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000354",
+    "endYear": 2013,
+    "fsImageCount": 2389101,
+    "imageCount": 2389101,
+    "lastUpdatedMillis": 1783094102384,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 205447,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1743,
+    "title": "Philippines, Mimaropa, Civil Registration, 1743-2013",
     "waypointUrl": null
   },
   {
@@ -41412,6 +41716,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000355",
+    "endYear": 1996,
+    "fsImageCount": 655467,
+    "imageCount": 655467,
+    "lastUpdatedMillis": 1783092420717,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 1237,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1856,
+    "title": "Philippines, Northern Mindanao, Civil Registration, 1856-1996",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2328692",
     "endYear": 1984,
     "fsImageCount": 81107,
@@ -41444,19 +41764,35 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1989160/waypoints"
   },
   {
-    "collectionId": "5000338",
-    "endYear": 2006,
-    "fsImageCount": 348784,
-    "imageCount": 348784,
-    "lastUpdatedMillis": 1779351746370,
+    "collectionId": "5000357",
+    "endYear": 1996,
+    "fsImageCount": 1486618,
+    "imageCount": 1486618,
+    "lastUpdatedMillis": 1783112629994,
     "placeIds": [
       1927042
     ],
-    "recordCount": 681180,
+    "recordCount": 105944,
     "recordType": "VITAL",
     "region": "ASIA_MIDDLE_EAST",
-    "startYear": 1712,
-    "title": "Philippines, Western Visayas, Church Records, 1712-2006",
+    "startYear": 1821,
+    "title": "Philippines, Western Visayas, Civil Registration, 1821-1996",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000358",
+    "endYear": 1996,
+    "fsImageCount": 281435,
+    "imageCount": 281435,
+    "lastUpdatedMillis": 1783091372599,
+    "placeIds": [
+      1927042
+    ],
+    "recordCount": 2629,
+    "recordType": "VITAL",
+    "region": "ASIA_MIDDLE_EAST",
+    "startYear": 1851,
+    "title": "Philippines, Zamboanga Peninsula, Civil Registration, 1851-1996",
     "waypointUrl": null
   },
   {
@@ -41650,22 +41986,6 @@
     "startYear": 1550,
     "title": "Portugal, Aveiro, Catholic Church Records, 1550-1957",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1928590/waypoints"
-  },
-  {
-    "collectionId": "2796823",
-    "endYear": 1915,
-    "fsImageCount": 6611,
-    "imageCount": 6611,
-    "lastUpdatedMillis": 1776276581805,
-    "placeIds": [
-      1927058
-    ],
-    "recordCount": 8010,
-    "recordType": "VITAL",
-    "region": "EUROPE",
-    "startYear": 1911,
-    "title": "Portugal, Aveiro, Civil Registration, 1911-1915",
-    "waypointUrl": null
   },
   {
     "collectionId": "1923672",
@@ -43281,22 +43601,6 @@
     "region": "AFRICA",
     "startYear": 1800,
     "title": "Sierra Leone, Property Records, 1800-2024",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "5000410",
-    "endYear": 1984,
-    "fsImageCount": 9594,
-    "imageCount": 9594,
-    "lastUpdatedMillis": 1762225698146,
-    "placeIds": [
-      1927182
-    ],
-    "recordCount": 6065,
-    "recordType": "VITAL",
-    "region": "ASIA_MIDDLE_EAST",
-    "startYear": 1848,
-    "title": "Singapore, Church Records, 1848-1984",
     "waypointUrl": null
   },
   {
@@ -45898,12 +46202,12 @@
     "imageCount": 2024045,
     "lastUpdatedMillis": 1774970941154,
     "placeIds": [
-      62
+      1927039
     ],
     "recordCount": 19762820,
-    "recordType": "MISCELLANEOUS",
-    "region": "OTHER",
-    "startYear": 1417,
+    "recordType": "VITAL",
+    "region": "EUROPE",
+    "startYear": 1418,
     "title": "Switzerland, Catholic and Reformed Church Records, 1418-1996",
     "waypointUrl": null
   },
@@ -47672,11 +47976,11 @@
     "endYear": 1953,
     "fsImageCount": 206054,
     "imageCount": 206054,
-    "lastUpdatedMillis": 1718389512288,
+    "lastUpdatedMillis": 1783969599017,
     "placeIds": [
       26
     ],
-    "recordCount": 623990,
+    "recordCount": 624005,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "startYear": 1906,
@@ -48024,11 +48328,11 @@
     "endYear": 1934,
     "fsImageCount": 40448,
     "imageCount": 40448,
-    "lastUpdatedMillis": 1783689499801,
+    "lastUpdatedMillis": 1784220091232,
     "placeIds": [
       1927132
     ],
-    "recordCount": 39270747,
+    "recordCount": 51059892,
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1741,
@@ -48145,6 +48449,22 @@
     "region": "EUROPE",
     "startYear": 1741,
     "title": "Ukraine, Poltava, Metrical Books, 1741-1937",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000364",
+    "endYear": 1991,
+    "fsImageCount": 209244,
+    "imageCount": 209244,
+    "lastUpdatedMillis": 1784038101037,
+    "placeIds": [
+      1927132
+    ],
+    "recordCount": 234334,
+    "recordType": "MIGRATION",
+    "region": "EUROPE",
+    "startYear": 1943,
+    "title": "Ukraine, Soviet Population Filtration Records, 1943-1991",
     "waypointUrl": null
   },
   {
@@ -48423,6 +48743,24 @@
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1905,
     "title": "United Kingdom, Royal Air Force Service Records, 1905-1946",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000534",
+    "endYear": 2024,
+    "fsImageCount": 0,
+    "imageCount": 67990671,
+    "lastUpdatedMillis": 1776304780182,
+    "placeIds": [
+      1986318,
+      1986311,
+      1986340
+    ],
+    "recordCount": 68064068,
+    "recordType": "CENSUS",
+    "region": "UNITED_KINGDOM_IRELAND",
+    "startYear": 1990,
+    "title": "United Kingdom, UK Residence Database, 1990-2024",
     "waypointUrl": null
   },
   {
@@ -49200,13 +49538,13 @@
   {
     "collectionId": "3518724",
     "endYear": 1866,
-    "fsImageCount": 759589,
-    "imageCount": 759589,
-    "lastUpdatedMillis": 1718438704036,
+    "fsImageCount": 759894,
+    "imageCount": 759894,
+    "lastUpdatedMillis": 1783988390874,
     "placeIds": [
       1
     ],
-    "recordCount": 931845,
+    "recordCount": 933027,
     "recordType": "MILITARY",
     "region": "UNITED_STATES",
     "startYear": 1861,
@@ -50048,13 +50386,13 @@
   {
     "collectionId": "5000182",
     "endYear": 1992,
-    "fsImageCount": 138077,
-    "imageCount": 138077,
-    "lastUpdatedMillis": 1706889582476,
+    "fsImageCount": 138766,
+    "imageCount": 138766,
+    "lastUpdatedMillis": 1783985152892,
     "placeIds": [
       1
     ],
-    "recordCount": 141585,
+    "recordCount": 142288,
     "recordType": "LEGAL",
     "region": "UNITED_STATES",
     "startYear": 1897,
@@ -50235,22 +50573,6 @@
     "region": "UNITED_STATES",
     "startYear": 1885,
     "title": "United States, Native American, Census Rolls, 1885-1940",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "2790462",
-    "endYear": 1944,
-    "fsImageCount": 174,
-    "imageCount": 174,
-    "lastUpdatedMillis": 1718403741285,
-    "placeIds": [
-      1
-    ],
-    "recordCount": 2480,
-    "recordType": "CENSUS",
-    "region": "UNITED_STATES",
-    "startYear": 1944,
-    "title": "United States, Native American, Census of the Ute Tribe, 1944",
     "waypointUrl": null
   },
   {
@@ -50479,8 +50801,8 @@
   {
     "collectionId": "5000145",
     "endYear": 2023,
-    "fsImageCount": 28206675,
-    "imageCount": 28206675,
+    "fsImageCount": 28206704,
+    "imageCount": 28206704,
     "lastUpdatedMillis": 1721686400349,
     "placeIds": [
       1
@@ -50597,7 +50919,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 875600562,
+    "recordCount": 875600559,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
@@ -50709,7 +51031,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 413857961,
+    "recordCount": 413857947,
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
@@ -53149,6 +53471,22 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1883379/waypoints"
   },
   {
+    "collectionId": "5000565",
+    "endYear": 1869,
+    "fsImageCount": 0,
+    "imageCount": 0,
+    "lastUpdatedMillis": 1768426668822,
+    "placeIds": [
+      46
+    ],
+    "recordCount": 12370,
+    "recordType": "LEGAL",
+    "region": "UNITED_STATES",
+    "startYear": 1867,
+    "title": "Virginia, Personal Property Tax Forms of Former Slaves, 1867",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "1386587",
     "endYear": 2006,
     "fsImageCount": 4093,
@@ -54368,7 +54706,7 @@
     "collectionId": "1408729",
     "endYear": 1970,
     "fsImageCount": 0,
-    "imageCount": 35261,
+    "imageCount": 35262,
     "lastUpdatedMillis": 1775603248832,
     "placeIds": [
       28
@@ -54427,6 +54765,22 @@
     "startYear": 1814,
     "title": "West Virginia, Naturalization Records, 1814-1991",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1909003/waypoints"
+  },
+  {
+    "collectionId": "5000292",
+    "endYear": 1875,
+    "fsImageCount": 798,
+    "imageCount": 798,
+    "lastUpdatedMillis": 1739895865000,
+    "placeIds": [
+      28
+    ],
+    "recordCount": 803,
+    "recordType": "MIGRATION",
+    "region": "UNITED_STATES",
+    "startYear": 1844,
+    "title": "West Virginia, U.S. District Court Naturalization Records, 1844-1875",
+    "waypointUrl": null
   },
   {
     "collectionId": "4123916",
@@ -55149,38 +55503,6 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1838530/waypoints"
   },
   {
-    "collectionId": "5000106",
-    "endYear": 2021,
-    "fsImageCount": 63643,
-    "imageCount": 63643,
-    "lastUpdatedMillis": 1730419370527,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 9121,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1897,
-    "title": "Zimbabwe, Archdiocese of Bulawayo, Catholic Church Records, 1896-2022",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "4475014",
-    "endYear": 2022,
-    "fsImageCount": 64555,
-    "imageCount": 64555,
-    "lastUpdatedMillis": 1749764465788,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 10730,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1897,
-    "title": "Zimbabwe, Catholic Church Records, 1897-2022",
-    "waypointUrl": null
-  },
-  {
     "collectionId": "1837900",
     "endYear": 1977,
     "fsImageCount": 74045,
@@ -55195,101 +55517,5 @@
     "startYear": 1890,
     "title": "Zimbabwe, Death Registers, 1890-1977; Index to Death Register, 1892-1977",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1837900/waypoints"
-  },
-  {
-    "collectionId": "5000107",
-    "endYear": 2022,
-    "fsImageCount": 12191,
-    "imageCount": 12191,
-    "lastUpdatedMillis": 1749764457991,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 581,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1941,
-    "title": "Zimbabwe, Diocese of Chinhoyi, Catholic Church Records, 1941-2022",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "5000101",
-    "endYear": 2022,
-    "fsImageCount": 28984,
-    "imageCount": 28984,
-    "lastUpdatedMillis": 1740122034136,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 958,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1956,
-    "title": "Zimbabwe, Diocese of Gokwe, Catholic Church Records, 1956-2022",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "5000102",
-    "endYear": 2022,
-    "fsImageCount": 23713,
-    "imageCount": 23713,
-    "lastUpdatedMillis": 1749764455322,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 590,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1904,
-    "title": "Zimbabwe, Diocese of Gweru, Catholic Church Records, 1904-2022",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "5000103",
-    "endYear": 2022,
-    "fsImageCount": 20941,
-    "imageCount": 20941,
-    "lastUpdatedMillis": 1766096906092,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 4017,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1924,
-    "title": "Zimbabwe, Diocese of Hwange, Catholic Church Records, 1924-2022",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "5000104",
-    "endYear": 2022,
-    "fsImageCount": 31654,
-    "imageCount": 31654,
-    "lastUpdatedMillis": 1749764461930,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 587,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1893,
-    "title": "Zimbabwe, Diocese of Masvingo, Catholic Church Records, 1893-2022",
-    "waypointUrl": null
-  },
-  {
-    "collectionId": "5000105",
-    "endYear": 2023,
-    "fsImageCount": 38410,
-    "imageCount": 38410,
-    "lastUpdatedMillis": 1766096906092,
-    "placeIds": [
-      1927049
-    ],
-    "recordCount": 13890,
-    "recordType": "VITAL",
-    "region": "AFRICA",
-    "startYear": 1898,
-    "title": "Zimbabwe, Diocese of Mutare, Catholic Church Records, 1898-2023",
-    "waypointUrl": null
   }
 ]
