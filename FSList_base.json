@@ -1186,8 +1186,8 @@
   {
     "collectionId": "5000280",
     "endYear": 1936,
-    "fsImageCount": 2929301,
-    "imageCount": 2929301,
+    "fsImageCount": 2932102,
+    "imageCount": 2932102,
     "lastUpdatedMillis": 1775235602701,
     "placeIds": [
       1927135
@@ -3272,7 +3272,7 @@
     "placeIds": [
       1927070
     ],
-    "recordCount": 6383394,
+    "recordCount": 6394319,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1285,
@@ -3987,7 +3987,7 @@
     "collectionId": "2026973",
     "endYear": 2013,
     "fsImageCount": 0,
-    "imageCount": 31122743,
+    "imageCount": 32364772,
     "lastUpdatedMillis": 1780453806644,
     "placeIds": [
       6371060
@@ -4338,8 +4338,8 @@
   {
     "collectionId": "4469402",
     "endYear": 2022,
-    "fsImageCount": 906251,
-    "imageCount": 906251,
+    "fsImageCount": 906267,
+    "imageCount": 906267,
     "lastUpdatedMillis": 1717808719526,
     "placeIds": [
       1927159
@@ -4770,8 +4770,8 @@
   {
     "collectionId": "4470324",
     "endYear": 2021,
-    "fsImageCount": 268946,
-    "imageCount": 268946,
+    "fsImageCount": 268947,
+    "imageCount": 268947,
     "lastUpdatedMillis": 1717808808119,
     "placeIds": [
       1927159
@@ -8657,11 +8657,11 @@
     "imageCount": 283562,
     "lastUpdatedMillis": 1718395895757,
     "placeIds": [
-      30
+      347
     ],
     "recordCount": 283562,
     "recordType": "MILITARY",
-    "region": "UNITED_STATES",
+    "region": "OTHER",
     "startYear": 1940,
     "title": "Colorado, World War II Draft Registration Cards, 1940-1945",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2515885/waypoints"
@@ -9228,16 +9228,16 @@
   },
   {
     "collectionId": "1804263",
-    "endYear": 1963,
+    "endYear": 1981,
     "fsImageCount": 4668489,
     "imageCount": 4668489,
     "lastUpdatedMillis": 1772217456774,
     "placeIds": [
-      1927165
+      132
     ],
     "recordCount": 11747729,
     "recordType": "VITAL",
-    "region": "EUROPE",
+    "region": "OTHER",
     "startYear": 1552,
     "title": "Czech Republic, Church Books, 1552-1981",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1804263/waypoints"
@@ -11280,11 +11280,11 @@
     "endYear": 1887,
     "fsImageCount": 93511,
     "imageCount": 93511,
-    "lastUpdatedMillis": 1718396547480,
+    "lastUpdatedMillis": 1787344636278,
     "placeIds": [
       1986340
     ],
-    "recordCount": 802658,
+    "recordCount": 803171,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1558,
@@ -12383,7 +12383,7 @@
     "collectionId": "2075052",
     "endYear": 1916,
     "fsImageCount": 0,
-    "imageCount": 15918118,
+    "imageCount": 15918581,
     "lastUpdatedMillis": 1766791142821,
     "placeIds": [
       1986340
@@ -12704,11 +12704,11 @@
     "endYear": 1976,
     "fsImageCount": 280015,
     "imageCount": 280015,
-    "lastUpdatedMillis": 1767580148710,
+    "lastUpdatedMillis": 1787338739354,
     "placeIds": [
       1986340
     ],
-    "recordCount": 2596305,
+    "recordCount": 2703315,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1607,
@@ -12768,11 +12768,11 @@
     "endYear": 1922,
     "fsImageCount": 62913,
     "imageCount": 62913,
-    "lastUpdatedMillis": 1777046841841,
+    "lastUpdatedMillis": 1787340238565,
     "placeIds": [
       1986340
     ],
-    "recordCount": 884806,
+    "recordCount": 884807,
     "recordType": "VITAL",
     "region": "UNITED_KINGDOM_IRELAND",
     "startYear": 1538,
@@ -13412,7 +13412,7 @@
     "placeIds": [
       34
     ],
-    "recordCount": 3012176,
+    "recordCount": 3012175,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1927,
@@ -13524,7 +13524,7 @@
     "placeIds": [
       34
     ],
-    "recordCount": 11718361,
+    "recordCount": 11718360,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1822,
@@ -13892,7 +13892,7 @@
     "placeIds": [
       1927089
     ],
-    "recordCount": 4870559,
+    "recordCount": 4303261,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1525,
@@ -14400,11 +14400,11 @@
     "endYear": 1912,
     "fsImageCount": 502219,
     "imageCount": 502219,
-    "lastUpdatedMillis": 1768673887925,
+    "lastUpdatedMillis": 1787347495736,
     "placeIds": [
       1927089
     ],
-    "recordCount": 1218676,
+    "recordCount": 1219475,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1696,
@@ -15090,11 +15090,11 @@
     "imageCount": 246518,
     "lastUpdatedMillis": 1782935062790,
     "placeIds": [
-      3869
+      1927089
     ],
     "recordCount": 450069,
     "recordType": "VITAL",
-    "region": "OTHER",
+    "region": "EUROPE",
     "startYear": 1840,
     "title": "France, Reunion, Civil Registration, 1840-1980",
     "waypointUrl": null
@@ -16994,11 +16994,11 @@
     "imageCount": 1872814,
     "lastUpdatedMillis": 1770361380823,
     "placeIds": [
-      1927074
+      12769622
     ],
     "recordCount": 11663948,
     "recordType": "VITAL",
-    "region": "EUROPE",
+    "region": "OTHER",
     "startYear": 1430,
     "title": "Germany, Prussia, Posen, Catholic and Lutheran Church Records, 1430-1998",
     "waypointUrl": null
@@ -24248,11 +24248,11 @@
     "endYear": 1910,
     "fsImageCount": 1427,
     "imageCount": 1427,
-    "lastUpdatedMillis": 1769232796260,
+    "lastUpdatedMillis": 1787860260927,
     "placeIds": [
       1927178
     ],
-    "recordCount": 51932,
+    "recordCount": 1180,
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1714,
@@ -25224,11 +25224,11 @@
     "endYear": 1941,
     "fsImageCount": 342194,
     "imageCount": 342194,
-    "lastUpdatedMillis": 1777042255576,
+    "lastUpdatedMillis": 1787757619228,
     "placeIds": [
       1927178
     ],
-    "recordCount": 603543,
+    "recordCount": 626578,
     "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1866,
@@ -25346,6 +25346,22 @@
     "startYear": 1862,
     "title": "Italy, Palermo, Termini Imerese, Civil Registration (Tribunale), 1862-1910",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1947613/waypoints"
+  },
+  {
+    "collectionId": "5000453",
+    "endYear": 1861,
+    "fsImageCount": 28554,
+    "imageCount": 28554,
+    "lastUpdatedMillis": 1787862315428,
+    "placeIds": [
+      1927178
+    ],
+    "recordCount": 163338,
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "startYear": 1545,
+    "title": "Italy, Parma, Census Records, 1545-1923",
+    "waypointUrl": null
   },
   {
     "collectionId": "2043830",
@@ -25864,7 +25880,7 @@
     "endYear": 1930,
     "fsImageCount": 5066067,
     "imageCount": 5066067,
-    "lastUpdatedMillis": 1775068283523,
+    "lastUpdatedMillis": 1787351061736,
     "placeIds": [
       1927178
     ],
@@ -26740,22 +26756,6 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2313184/waypoints"
   },
   {
-    "collectionId": "1919701",
-    "endYear": 2012,
-    "fsImageCount": 87288,
-    "imageCount": 87288,
-    "lastUpdatedMillis": 1770353649518,
-    "placeIds": [
-      1927172
-    ],
-    "recordCount": 0,
-    "recordType": "COMPILED_GENEALOGY",
-    "region": "ASIA_MIDDLE_EAST",
-    "startYear": 850,
-    "title": "Japan, Genealogies, 850-2012",
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1919701/waypoints"
-  },
-  {
     "collectionId": "1398719",
     "endYear": 1982,
     "fsImageCount": 287354,
@@ -26792,11 +26792,11 @@
     "endYear": 1911,
     "fsImageCount": 154156,
     "imageCount": 154156,
-    "lastUpdatedMillis": 1718324275661,
+    "lastUpdatedMillis": 1787603451197,
     "placeIds": [
       35
     ],
-    "recordCount": 272587,
+    "recordCount": 317612,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1855,
@@ -27586,22 +27586,6 @@
     "startYear": 1390,
     "title": "Korea, Civil Service Examinations and Records of Officials and Employees, 1390-1900",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2316009/waypoints"
-  },
-  {
-    "collectionId": "1398522",
-    "endYear": 2014,
-    "fsImageCount": 2519576,
-    "imageCount": 2519576,
-    "lastUpdatedMillis": 1767845941323,
-    "placeIds": [
-      6118214
-    ],
-    "recordCount": 0,
-    "recordType": "COMPILED_GENEALOGY",
-    "region": "ASIA_MIDDLE_EAST",
-    "startYear": 1200,
-    "title": "Korea, Collection of Genealogies, 1200-2014",
-    "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1398522/waypoints"
   },
   {
     "collectionId": "2556015",
@@ -29928,11 +29912,11 @@
     "endYear": 1927,
     "fsImageCount": 0,
     "imageCount": 742594,
-    "lastUpdatedMillis": 1770397944980,
+    "lastUpdatedMillis": 1787338152362,
     "placeIds": [
       52
     ],
-    "recordCount": 2926409,
+    "recordCount": 11820050,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1638,
@@ -30130,6 +30114,22 @@
     "startYear": 1731,
     "title": "Massachusetts, Worcester County, Probate Files, 1731-1925",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2102083/waypoints"
+  },
+  {
+    "collectionId": "5000637",
+    "endYear": 1811,
+    "fsImageCount": 6561,
+    "imageCount": 6561,
+    "lastUpdatedMillis": 1785386414521,
+    "placeIds": [
+      1927098
+    ],
+    "recordCount": 16598,
+    "recordType": "VITAL",
+    "region": "OTHER",
+    "startYear": 1770,
+    "title": "Mauritius (\u00cele de France), ANOM, Civil Registration, 1700-1820",
+    "waypointUrl": null
   },
   {
     "collectionId": "1502404",
@@ -36901,7 +36901,7 @@
   },
   {
     "collectionId": "1609792",
-    "endYear": 1974,
+    "endYear": 1925,
     "fsImageCount": 296065,
     "imageCount": 296065,
     "lastUpdatedMillis": 1766498156985,
@@ -36912,7 +36912,7 @@
     "recordType": "MIGRATION",
     "region": "AUSTRALIA_NEW_ZEALAND",
     "startYear": 1839,
-    "title": "New Zealand, Archives New Zealand, Passenger Lists, 1839-1974",
+    "title": "New Zealand, Archives New Zealand, Passenger Lists, 1839-1925",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1609792/waypoints"
   },
   {
@@ -39498,11 +39498,11 @@
     "imageCount": 105700,
     "lastUpdatedMillis": 1754433395569,
     "placeIds": [
-      56
+      375
     ],
     "recordCount": 543450,
     "recordType": "VITAL",
-    "region": "UNITED_STATES",
+    "region": "OTHER",
     "startYear": 1851,
     "title": "Oregon, County Marriages, 1851-1975",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1803968/waypoints"
@@ -41240,11 +41240,11 @@
     "endYear": 1996,
     "fsImageCount": 20274621,
     "imageCount": 20274621,
-    "lastUpdatedMillis": 1787272719019,
+    "lastUpdatedMillis": 1787856927842,
     "placeIds": [
       1927042
     ],
-    "recordCount": 7576932,
+    "recordCount": 7605536,
     "recordType": "VITAL",
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1945,
@@ -48420,6 +48420,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000401",
+    "endYear": 1933,
+    "fsImageCount": 78282,
+    "imageCount": 78282,
+    "lastUpdatedMillis": 1787598267339,
+    "placeIds": [
+      1927132
+    ],
+    "recordCount": 4326793,
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "startYear": 1620,
+    "title": "Ukraine, Chernihiv, Confession Lists, 1620-1933",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "3743680",
     "endYear": 1926,
     "fsImageCount": 396965,
@@ -48466,6 +48482,22 @@
     "startYear": 1809,
     "title": "Ukraine, Donetsk, Church Books, 1809-1928",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2269694/waypoints"
+  },
+  {
+    "collectionId": "5000403",
+    "endYear": 1924,
+    "fsImageCount": 560,
+    "imageCount": 560,
+    "lastUpdatedMillis": 1786991474897,
+    "placeIds": [
+      1927132
+    ],
+    "recordCount": 33238,
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "startYear": 1868,
+    "title": "Ukraine, Donetsk, Confession Lists, 1868-1924",
+    "waypointUrl": null
   },
   {
     "collectionId": "3511744",
@@ -48628,22 +48660,6 @@
     "waypointUrl": null
   },
   {
-    "collectionId": "5000386",
-    "endYear": 1939,
-    "fsImageCount": 9036,
-    "imageCount": 9036,
-    "lastUpdatedMillis": 1787000705598,
-    "placeIds": [
-      1927132
-    ],
-    "recordCount": 564349,
-    "recordType": "VITAL",
-    "region": "EUROPE",
-    "startYear": 1799,
-    "title": "Ukraine, Rivne, Confession Lists, 1799-1939",
-    "waypointUrl": null
-  },
-  {
     "collectionId": "5000364",
     "endYear": 1991,
     "fsImageCount": 238652,
@@ -48698,11 +48714,11 @@
     "imageCount": 942391,
     "lastUpdatedMillis": 1785860407488,
     "placeIds": [
-      1927132
+      3849
     ],
     "recordCount": 465533,
-    "recordType": "VITAL",
-    "region": "EUROPE",
+    "recordType": "CHURCH_RECORD",
+    "region": "OTHER",
     "startYear": 1600,
     "title": "Ukraine, Western Ukraine, Catholic Church Book Duplicates, 1600-1937",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1910265/waypoints"
@@ -49554,8 +49570,8 @@
   {
     "collectionId": "4464515",
     "endYear": 1950,
-    "fsImageCount": 52755551,
-    "imageCount": 52755551,
+    "fsImageCount": 52755598,
+    "imageCount": 52755598,
     "lastUpdatedMillis": 1718589580181,
     "placeIds": [
       1
@@ -50196,11 +50212,11 @@
     "endYear": 2015,
     "fsImageCount": 46919022,
     "imageCount": 46919022,
-    "lastUpdatedMillis": 1784674045774,
+    "lastUpdatedMillis": 1787816360550,
     "placeIds": [
       1
     ],
-    "recordCount": 28662127,
+    "recordCount": 28662124,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1980,
@@ -51239,7 +51255,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 413857849,
+    "recordCount": 413857842,
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
@@ -52773,12 +52789,12 @@
     "imageCount": 1899876,
     "lastUpdatedMillis": 1781412487214,
     "placeIds": [
-      1927137
+      152
     ],
     "recordCount": 932555,
     "recordType": "VITAL",
-    "region": "SOUTH_AMERICA",
-    "startYear": 1577,
+    "region": "OTHER",
+    "startYear": 1576,
     "title": "Venezuela, Catholic Church Records, 1577-2022",
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/1951777/waypoints"
   },
