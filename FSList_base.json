@@ -818,8 +818,8 @@
   {
     "collectionId": "5000041",
     "endYear": 2018,
-    "fsImageCount": 111763,
-    "imageCount": 111763,
+    "fsImageCount": 111765,
+    "imageCount": 111765,
     "lastUpdatedMillis": 1717817596477,
     "placeIds": [
       1927135
@@ -4370,8 +4370,8 @@
   {
     "collectionId": "4469402",
     "endYear": 2022,
-    "fsImageCount": 906291,
-    "imageCount": 906291,
+    "fsImageCount": 906295,
+    "imageCount": 906295,
     "lastUpdatedMillis": 1717808719526,
     "placeIds": [
       1927159
@@ -5020,7 +5020,7 @@
     "placeIds": [
       11
     ],
-    "recordCount": 24589366,
+    "recordCount": 24589364,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1905,
@@ -10727,7 +10727,7 @@
     "endYear": 1911,
     "fsImageCount": 0,
     "imageCount": 8610632,
-    "lastUpdatedMillis": 1564682369476,
+    "lastUpdatedMillis": 1793970861408,
     "placeIds": [
       1986311,
       1986340
@@ -16028,8 +16028,8 @@
   {
     "collectionId": "3158836",
     "endYear": 2017,
-    "fsImageCount": 5474,
-    "imageCount": 5474,
+    "fsImageCount": 5485,
+    "imageCount": 5485,
     "lastUpdatedMillis": 1717808437484,
     "placeIds": [
       50
@@ -18822,11 +18822,11 @@
     "endYear": 1968,
     "fsImageCount": 337976,
     "imageCount": 337976,
-    "lastUpdatedMillis": 1787210147615,
+    "lastUpdatedMillis": 1793442526680,
     "placeIds": [
       1927126
     ],
-    "recordCount": 13439940,
+    "recordCount": 13439970,
     "recordType": "VITAL",
     "region": "CARIBBEAN_CENTRAL_AMERICA",
     "startYear": 1841,
@@ -20340,8 +20340,8 @@
   {
     "collectionId": "3158867",
     "endYear": 2017,
-    "fsImageCount": 4922,
-    "imageCount": 4922,
+    "fsImageCount": 4924,
+    "imageCount": 4924,
     "lastUpdatedMillis": 1717808567154,
     "placeIds": [
       14
@@ -20420,13 +20420,13 @@
   {
     "collectionId": "4491581",
     "endYear": 1999,
-    "fsImageCount": 617174,
-    "imageCount": 617174,
+    "fsImageCount": 617158,
+    "imageCount": 617158,
     "lastUpdatedMillis": 1785863825828,
     "placeIds": [
       1927063
     ],
-    "recordCount": 88041,
+    "recordCount": 75503,
     "recordType": "VITAL",
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1751,
@@ -20658,6 +20658,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000794",
+    "endYear": 2022,
+    "fsImageCount": 16362,
+    "imageCount": 16362,
+    "lastUpdatedMillis": 1793589907892,
+    "placeIds": [
+      15
+    ],
+    "recordCount": 62221,
+    "recordType": "LEGAL",
+    "region": "UNITED_STATES",
+    "startYear": 1905,
+    "title": "Indiana, Fayette County, Probate Records, 1905-2022",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "5000717",
     "endYear": 1997,
     "fsImageCount": 25292,
@@ -20671,6 +20687,22 @@
     "region": "UNITED_STATES",
     "startYear": 1853,
     "title": "Indiana, Franklin County, Marriage Records, 1853-1997",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "5000716",
+    "endYear": 1997,
+    "fsImageCount": 343521,
+    "imageCount": 343521,
+    "lastUpdatedMillis": 1793655290520,
+    "placeIds": [
+      15
+    ],
+    "recordCount": 485569,
+    "recordType": "LEGAL",
+    "region": "UNITED_STATES",
+    "startYear": 1811,
+    "title": "Indiana, Franklin County, Probate Records, 1811-1997",
     "waypointUrl": null
   },
   {
@@ -27482,7 +27514,7 @@
     "placeIds": [
       36
     ],
-    "recordCount": 9865926,
+    "recordCount": 9865925,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1911,
@@ -31615,6 +31647,22 @@
     "region": "UNITED_STATES",
     "startYear": 1829,
     "title": "Michigan, Saginaw County, Biographical Card File, ca. 1830-2000",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2720701",
+    "endYear": 1993,
+    "fsImageCount": 1230944,
+    "imageCount": 1230944,
+    "lastUpdatedMillis": 1793888304493,
+    "placeIds": [
+      17
+    ],
+    "recordCount": 1918435,
+    "recordType": "MIGRATION",
+    "region": "UNITED_STATES",
+    "startYear": 1812,
+    "title": "Michigan, State Archives, Naturalization Records, 1812-1993",
     "waypointUrl": null
   },
   {
@@ -37077,7 +37125,7 @@
     "collectionId": "5000653",
     "endYear": 2025,
     "fsImageCount": 0,
-    "imageCount": 346974,
+    "imageCount": 450367,
     "lastUpdatedMillis": 1788210745547,
     "placeIds": [
       1
@@ -40410,11 +40458,11 @@
     "endYear": 1991,
     "fsImageCount": 1789697,
     "imageCount": 1789697,
-    "lastUpdatedMillis": 1765830727777,
+    "lastUpdatedMillis": 1793681465284,
     "placeIds": [
       23
     ],
-    "recordCount": 3628856,
+    "recordCount": 3652418,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1775,
@@ -41098,11 +41146,11 @@
     "endYear": 2023,
     "fsImageCount": 0,
     "imageCount": 0,
-    "lastUpdatedMillis": 1792802427704,
+    "lastUpdatedMillis": 1793905246391,
     "placeIds": [
       1927168
     ],
-    "recordCount": 7761861,
+    "recordCount": 7823523,
     "recordType": "MISCELLANEOUS",
     "region": "SOUTH_AMERICA",
     "startYear": 1556,
@@ -41466,11 +41514,11 @@
     "endYear": 1996,
     "fsImageCount": 20274621,
     "imageCount": 20274621,
-    "lastUpdatedMillis": 1793120996263,
+    "lastUpdatedMillis": 1793678775003,
     "placeIds": [
       1927042
     ],
-    "recordCount": 8515373,
+    "recordCount": 8515444,
     "recordType": "GOVERNMENT",
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1945,
@@ -41962,7 +42010,7 @@
     "endYear": 1984,
     "fsImageCount": 5857674,
     "imageCount": 5857674,
-    "lastUpdatedMillis": 1769576168848,
+    "lastUpdatedMillis": 1793780237712,
     "placeIds": [
       1927042
     ],
@@ -43898,11 +43946,11 @@
     "endYear": 1970,
     "fsImageCount": 0,
     "imageCount": 0,
-    "lastUpdatedMillis": 1769870730353,
+    "lastUpdatedMillis": 1793803274917,
     "placeIds": [
       1927113
     ],
-    "recordCount": 7,
+    "recordCount": 23405,
     "recordType": "CHURCH_RECORD",
     "region": "PACIFIC_ISLAND",
     "startYear": 1895,
@@ -43914,11 +43962,11 @@
     "endYear": 1996,
     "fsImageCount": 437095,
     "imageCount": 437095,
-    "lastUpdatedMillis": 1770758125313,
+    "lastUpdatedMillis": 1793803274917,
     "placeIds": [
       1927113
     ],
-    "recordCount": 16941,
+    "recordCount": 80671,
     "recordType": "GOVERNMENT",
     "region": "PACIFIC_ISLAND",
     "startYear": 1846,
@@ -50054,7 +50102,7 @@
     "endYear": 1930,
     "fsImageCount": 2957015,
     "imageCount": 2957015,
-    "lastUpdatedMillis": 1793354291328,
+    "lastUpdatedMillis": 1793417961756,
     "placeIds": [
       1
     ],
@@ -50070,7 +50118,7 @@
     "endYear": 1940,
     "fsImageCount": 3841151,
     "imageCount": 3841151,
-    "lastUpdatedMillis": 1789585575800,
+    "lastUpdatedMillis": 1793914215540,
     "placeIds": [
       1
     ],
@@ -50084,8 +50132,8 @@
   {
     "collectionId": "4464515",
     "endYear": 1950,
-    "fsImageCount": 52759871,
-    "imageCount": 52759871,
+    "fsImageCount": 52762047,
+    "imageCount": 52762047,
     "lastUpdatedMillis": 1718589580181,
     "placeIds": [
       1
@@ -51524,8 +51572,8 @@
   {
     "collectionId": "5000145",
     "endYear": 2023,
-    "fsImageCount": 28207248,
-    "imageCount": 28207248,
+    "fsImageCount": 28207756,
+    "imageCount": 28207756,
     "lastUpdatedMillis": 1721686400349,
     "placeIds": [
       1
@@ -51642,7 +51690,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 875600525,
+    "recordCount": 875600524,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
@@ -51754,7 +51802,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 413857801,
+    "recordCount": 413857797,
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
