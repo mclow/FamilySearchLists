@@ -1186,8 +1186,8 @@
   {
     "collectionId": "5000280",
     "endYear": 1936,
-    "fsImageCount": 2932120,
-    "imageCount": 2932120,
+    "fsImageCount": 2936311,
+    "imageCount": 2936311,
     "lastUpdatedMillis": 1775235602701,
     "placeIds": [
       1927135
@@ -4130,8 +4130,8 @@
   {
     "collectionId": "4469403",
     "endYear": 2023,
-    "fsImageCount": 454285,
-    "imageCount": 454285,
+    "fsImageCount": 454286,
+    "imageCount": 454286,
     "lastUpdatedMillis": 1717808732855,
     "placeIds": [
       1927159
@@ -4370,8 +4370,8 @@
   {
     "collectionId": "4469402",
     "endYear": 2022,
-    "fsImageCount": 906295,
-    "imageCount": 906295,
+    "fsImageCount": 906304,
+    "imageCount": 906304,
     "lastUpdatedMillis": 1717808719526,
     "placeIds": [
       1927159
@@ -4948,22 +4948,6 @@
     "waypointUrl": "https://www.familysearch.org/service/cds/recapi/collections/2562508/waypoints"
   },
   {
-    "collectionId": "4318339",
-    "endYear": 1992,
-    "fsImageCount": 4379,
-    "imageCount": 4379,
-    "lastUpdatedMillis": 1718457591375,
-    "placeIds": [
-      1926981
-    ],
-    "recordCount": 26286,
-    "recordType": "VITAL",
-    "region": "CARIBBEAN_CENTRAL_AMERICA",
-    "startYear": 1859,
-    "title": "British Virgin Islands, Civil Registration, 1859-1992",
-    "waypointUrl": null
-  },
-  {
     "collectionId": "2125028",
     "endYear": 1985,
     "fsImageCount": 99436,
@@ -5020,7 +5004,7 @@
     "placeIds": [
       11
     ],
-    "recordCount": 24589364,
+    "recordCount": 24589361,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1905,
@@ -10709,8 +10693,8 @@
     "collectionId": "1888129",
     "endYear": 1901,
     "fsImageCount": 0,
-    "imageCount": 9780829,
-    "lastUpdatedMillis": 1558478977765,
+    "imageCount": 10067692,
+    "lastUpdatedMillis": 1794178544379,
     "placeIds": [
       1986311,
       1986340
@@ -10726,7 +10710,7 @@
     "collectionId": "1921547",
     "endYear": 1911,
     "fsImageCount": 0,
-    "imageCount": 8610632,
+    "imageCount": 8618994,
     "lastUpdatedMillis": 1793970861408,
     "placeIds": [
       1986311,
@@ -15386,22 +15370,6 @@
     "waypointUrl": null
   },
   {
-    "collectionId": "2854336",
-    "endYear": 1876,
-    "fsImageCount": 4320,
-    "imageCount": 4320,
-    "lastUpdatedMillis": 1769807260028,
-    "placeIds": [
-      1927089
-    ],
-    "recordCount": 233106,
-    "recordType": "CENSUS",
-    "region": "EUROPE",
-    "startYear": 1836,
-    "title": "France, Vienne, Census, 1876",
-    "waypointUrl": null
-  },
-  {
     "collectionId": "2858066",
     "endYear": 1876,
     "fsImageCount": 5599,
@@ -15414,6 +15382,22 @@
     "recordType": "CENSUS",
     "region": "EUROPE",
     "startYear": 1876,
+    "title": "France, Vienne, Census, 1876",
+    "waypointUrl": null
+  },
+  {
+    "collectionId": "2854336",
+    "endYear": 1876,
+    "fsImageCount": 4320,
+    "imageCount": 4320,
+    "lastUpdatedMillis": 1769807260028,
+    "placeIds": [
+      1927089
+    ],
+    "recordCount": 233106,
+    "recordType": "CENSUS",
+    "region": "EUROPE",
+    "startYear": 1836,
     "title": "France, Vienne, Census, 1876",
     "waypointUrl": null
   },
@@ -17070,11 +17054,11 @@
     "endYear": 1992,
     "fsImageCount": 874413,
     "imageCount": 874413,
-    "lastUpdatedMillis": 1792778742004,
+    "lastUpdatedMillis": 1794493656188,
     "placeIds": [
       1927074
     ],
-    "recordCount": 4540237,
+    "recordCount": 4545347,
     "recordType": "CHURCH_RECORD",
     "region": "EUROPE",
     "startYear": 1550,
@@ -20578,6 +20562,22 @@
     "waypointUrl": null
   },
   {
+    "collectionId": "5000704",
+    "endYear": 1963,
+    "fsImageCount": 16348,
+    "imageCount": 16348,
+    "lastUpdatedMillis": 1794188374187,
+    "placeIds": [
+      15
+    ],
+    "recordCount": 52684,
+    "recordType": "VITAL",
+    "region": "UNITED_STATES",
+    "startYear": 1850,
+    "title": "Indiana, Carroll County, Museum Records, 1850-1963",
+    "waypointUrl": null
+  },
+  {
     "collectionId": "2469543",
     "endYear": 1993,
     "fsImageCount": 24477,
@@ -20790,11 +20790,11 @@
     "endYear": 1959,
     "fsImageCount": 105144,
     "imageCount": 105144,
-    "lastUpdatedMillis": 1767723463633,
+    "lastUpdatedMillis": 1794341930473,
     "placeIds": [
       15
     ],
-    "recordCount": 105322,
+    "recordCount": 105324,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1834,
@@ -20822,11 +20822,11 @@
     "endYear": 2019,
     "fsImageCount": 1259299,
     "imageCount": 1259299,
-    "lastUpdatedMillis": 1789054435576,
+    "lastUpdatedMillis": 1794500237363,
     "placeIds": [
       15
     ],
-    "recordCount": 5338731,
+    "recordCount": 5338151,
     "recordType": "VITAL",
     "region": "UNITED_STATES",
     "startYear": 1811,
@@ -24027,7 +24027,7 @@
       1927178
     ],
     "recordCount": 134489,
-    "recordType": "GOVERNMENT",
+    "recordType": "VITAL",
     "region": "EUROPE",
     "startYear": 1809,
     "title": "Italy, L'Aquila, Civil Registration (State Archive), 1809-1944, 1911-1943",
@@ -31652,13 +31652,13 @@
   {
     "collectionId": "2720701",
     "endYear": 1993,
-    "fsImageCount": 1230944,
-    "imageCount": 1230944,
-    "lastUpdatedMillis": 1793888304493,
+    "fsImageCount": 1250753,
+    "imageCount": 1250753,
+    "lastUpdatedMillis": 1794257473901,
     "placeIds": [
       17
     ],
-    "recordCount": 1918435,
+    "recordCount": 37478,
     "recordType": "MIGRATION",
     "region": "UNITED_STATES",
     "startYear": 1812,
@@ -33078,7 +33078,7 @@
     "endYear": 1991,
     "fsImageCount": 2513517,
     "imageCount": 2513517,
-    "lastUpdatedMillis": 1771939964201,
+    "lastUpdatedMillis": 1794515669148,
     "placeIds": [
       38
     ],
@@ -37125,7 +37125,7 @@
     "collectionId": "5000653",
     "endYear": 2025,
     "fsImageCount": 0,
-    "imageCount": 450367,
+    "imageCount": 2609254,
     "lastUpdatedMillis": 1788210745547,
     "placeIds": [
       1
@@ -41768,13 +41768,13 @@
   {
     "collectionId": "5000216",
     "endYear": 1980,
-    "fsImageCount": 96825,
-    "imageCount": 96825,
-    "lastUpdatedMillis": 1786736360313,
+    "fsImageCount": 124231,
+    "imageCount": 124231,
+    "lastUpdatedMillis": 1794379740094,
     "placeIds": [
       1927042
     ],
-    "recordCount": 5562446,
+    "recordCount": 5504621,
     "recordType": "CENSUS",
     "region": "ASIA_MIDDLE_EAST",
     "startYear": 1542,
@@ -44280,13 +44280,13 @@
   {
     "collectionId": "5000520",
     "endYear": 1954,
-    "fsImageCount": 0,
-    "imageCount": 108182,
-    "lastUpdatedMillis": 1792715330464,
+    "fsImageCount": 111709,
+    "imageCount": 111709,
+    "lastUpdatedMillis": 1794231673587,
     "placeIds": [
       1927115
     ],
-    "recordCount": 109686,
+    "recordCount": 149889,
     "recordType": "MILITARY",
     "region": "AFRICA",
     "startYear": 1914,
@@ -51690,7 +51690,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 875600524,
+    "recordCount": 875600517,
     "recordType": "MISCELLANEOUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
@@ -51802,7 +51802,7 @@
     "placeIds": [
       1
     ],
-    "recordCount": 413857797,
+    "recordCount": 413857786,
     "recordType": "CENSUS",
     "region": "UNITED_STATES",
     "startYear": 1970,
